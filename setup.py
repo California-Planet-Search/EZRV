@@ -1,14 +1,14 @@
 from setuptools import setup
 
 setup(
-    name='RV_Made_EZ',
+    name='RVMadeEZ',
     version='0.1.0',
     description='A Packages that keeps track of Exoplanet RV data',
-    url='https://github.com/fdai-planet/RV_Made_EZ',
+    url='https://github.com/California-Planet-Search/RVMadeEZ.git',
     author='Sarah Lange & Fei Dai',
     author_email='fdai@caltech.edu',
-    license='BSD License',
-    packages=['RV_Made_EZ'],
+    license='MIT License',
+    packages=['RVMadeEZ'],
     install_requires=['astropy',
                       'numpy',
                       'barycorrpy',

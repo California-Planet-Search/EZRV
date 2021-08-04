@@ -1,0 +1,4 @@
+data_dir: 'output/'
+
+#format of your csv
+my_dict: {time: 'time',. rv: 'rv', 's_index': None,'obs': 'hires'}
