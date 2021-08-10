@@ -9,3 +9,5 @@ print(config['my_dict']['s_index'])
 
 def update_database(file_name):
     print(pd.read_csv(file_name))
+    my_dict = config['my_dict']
+    print(my_dict)
