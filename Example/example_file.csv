@@ -1,4 +1,4 @@
-halp_index_er,obs_site,time,reference,time_system,FWHM,bisector,instr,star,airmass,exposure_time,sig_to_noise_ratio_in_order_55,barycentric_earth_rv,uncert,halp_index,rv,wavelength_calib_technique,source
+halpha_e,obs_site,time,reference,time_system,FWHM,bisector,instr,star,airmass,exp_time,sig_to_noise_ratio_in_order_55,barycentric_earth_rv,uncert,halpha,rv,wavelength_calib_technique,source
 ,Mauna Kea,2450838.893,"Butler et al. 2003 (ApJ, 582, 455)",JD,,,HIRES,HD 72659,,,,,4.1,,-24.6,Iodine,Wright
 ,Mauna Kea,2450861.915,"Butler et al. 2003 (ApJ, 582, 455)",JD,,,HIRES,HD 72659,,,,,4.1,,-42.2,Iodine,Wright
 ,Mauna Kea,2451171.026,"Butler et al. 2003 (ApJ, 582, 455)",JD,,,HIRES,HD 72659,,,,,4,,-34.6,Iodine,Wright

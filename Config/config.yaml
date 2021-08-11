@@ -1,5 +1,29 @@
 data_dir: 'output/'
+#^output is the directory
+
+
 
 #format of your csv
-my_dict: {time: 'time',. rv: 'rv', 's_index': None,'obs': 'hires'}
+#if you have a constant value for one column input "constant:your value"
+dictonary : {"Time": "time",
+           "RV" : "rv",
+           "Uncertainty" : "uncert",
+           "Observatory_Name" : "obs_site",
+           "Star_Name" : "star",
+           "Time_Convention" : "time_system",
+           "Reference" : "reference",
+           "Instrument" : "inst",
+           "Wavelength_Calibration_Technique" : "constant:ThAr" ,
+           "Source" : "source",
+           "Halpha_Index" :"halpha",
+           "Halpha_Index_Error":"halpha_e",
+           "Full_Width_Half_Maximum":"FWHM",
+           "Bisetor" : "bisector",
+           "Signal_to_noise_ratio_in_order_55":"sig_to_noise_ratio_in_order_55",
+           "Exposure_Time":"exp_time",
+           "Airmass":"airmass",
+           "Barycentric_Earth_Radial_Velocity":"barycentric_earth_rv"}
+
+
+
 #change dict to be from example file to our new structure
