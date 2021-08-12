@@ -3,9 +3,9 @@ import yaml
 import pandas as pd
 
 config = yaml.safe_load(open("config/config.yaml"))
-print(config)
-print(config['my_dict'])
-print(config['my_dict']['s_index'])
+# print(config)
+# print(config['my_dict'])
+# print(config['my_dict']['s_index'])
 
 def update_database(file_name):
     # print(pd.read_csv(file_name))
@@ -20,7 +20,7 @@ def update_database(file_name):
 
     database = glob.glob('../Database/*.csv')
 
-    for i in range(len(database))
+    for i in range(10)
         starname = database[i][:-4]
         name = np.array(starname)
         df = pd.DataFrame(data = name)
