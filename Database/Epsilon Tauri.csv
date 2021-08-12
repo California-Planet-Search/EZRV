@@ -1,0 +1,27 @@
+Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisector,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
+2453000.0817,-101.5,5.2,"Okayama Astrophysical Observatory (OAO), Japan",Epsilon Tauri,JD,"Sato et al. 2007 (ApJ, 661, 527)",HIDES,Iodine,Wright,,,,,,,,
+2453080.0119,-66.8,4.7,"Okayama Astrophysical Observatory (OAO), Japan",Epsilon Tauri,JD,"Sato et al. 2007 (ApJ, 661, 527)",HIDES,Iodine,Wright,,,,,,,,
+2453249.2986,59.9,4.8,"Okayama Astrophysical Observatory (OAO), Japan",Epsilon Tauri,JD,"Sato et al. 2007 (ApJ, 661, 527)",HIDES,Iodine,Wright,,,,,,,,
+2453284.2648,82.8,5.7,"Okayama Astrophysical Observatory (OAO), Japan",Epsilon Tauri,JD,"Sato et al. 2007 (ApJ, 661, 527)",HIDES,Iodine,Wright,,,,,,,,
+2453367.1614,89.7,4.7,"Okayama Astrophysical Observatory (OAO), Japan",Epsilon Tauri,JD,"Sato et al. 2007 (ApJ, 661, 527)",HIDES,Iodine,Wright,,,,,,,,
+2453402.0266,62.9,5.7,"Okayama Astrophysical Observatory (OAO), Japan",Epsilon Tauri,JD,"Sato et al. 2007 (ApJ, 661, 527)",HIDES,Iodine,Wright,,,,,,,,
+2453423.9447,59.6,9.9,"Okayama Astrophysical Observatory (OAO), Japan",Epsilon Tauri,JD,"Sato et al. 2007 (ApJ, 661, 527)",HIDES,Iodine,Wright,,,,,,,,
+2453423.9618,52.6,5.0,"Okayama Astrophysical Observatory (OAO), Japan",Epsilon Tauri,JD,"Sato et al. 2007 (ApJ, 661, 527)",HIDES,Iodine,Wright,,,,,,,,
+2453449.0016,37.7,5.4,"Okayama Astrophysical Observatory (OAO), Japan",Epsilon Tauri,JD,"Sato et al. 2007 (ApJ, 661, 527)",HIDES,Iodine,Wright,,,,,,,,
+2453579.3094,-107.0,4.8,"Okayama Astrophysical Observatory (OAO), Japan",Epsilon Tauri,JD,"Sato et al. 2007 (ApJ, 661, 527)",HIDES,Iodine,Wright,,,,,,,,
+2453600.2646,-101.8,4.4,"Okayama Astrophysical Observatory (OAO), Japan",Epsilon Tauri,JD,"Sato et al. 2007 (ApJ, 661, 527)",HIDES,Iodine,Wright,,,,,,,,
+2453635.3287,-65.7,3.5,"Okayama Astrophysical Observatory (OAO), Japan",Epsilon Tauri,JD,"Sato et al. 2007 (ApJ, 661, 527)",HIDES,Iodine,Wright,,,,,,,,
+2453659.2297,-72.1,6.2,"Okayama Astrophysical Observatory (OAO), Japan",Epsilon Tauri,JD,"Sato et al. 2007 (ApJ, 661, 527)",HIDES,Iodine,Wright,,,,,,,,
+2453693.3002,-67.4,5.6,"Okayama Astrophysical Observatory (OAO), Japan",Epsilon Tauri,JD,"Sato et al. 2007 (ApJ, 661, 527)",HIDES,Iodine,Wright,,,,,,,,
+2453720.1975,-41.2,6.1,"Okayama Astrophysical Observatory (OAO), Japan",Epsilon Tauri,JD,"Sato et al. 2007 (ApJ, 661, 527)",HIDES,Iodine,Wright,,,,,,,,
+2453728.2251,-24.7,5.1,"Okayama Astrophysical Observatory (OAO), Japan",Epsilon Tauri,JD,"Sato et al. 2007 (ApJ, 661, 527)",HIDES,Iodine,Wright,,,,,,,,
+2453741.1005,-23.5,6.5,"Okayama Astrophysical Observatory (OAO), Japan",Epsilon Tauri,JD,"Sato et al. 2007 (ApJ, 661, 527)",HIDES,Iodine,Wright,,,,,,,,
+2453774.9119,6.0,5.9,"Okayama Astrophysical Observatory (OAO), Japan",Epsilon Tauri,JD,"Sato et al. 2007 (ApJ, 661, 527)",HIDES,Iodine,Wright,,,,,,,,
+2453809.9800,39.3,5.2,"Okayama Astrophysical Observatory (OAO), Japan",Epsilon Tauri,JD,"Sato et al. 2007 (ApJ, 661, 527)",HIDES,Iodine,Wright,,,,,,,,
+2453938.3112,99.7,6.4,"Okayama Astrophysical Observatory (OAO), Japan",Epsilon Tauri,JD,"Sato et al. 2007 (ApJ, 661, 527)",HIDES,Iodine,Wright,,,,,,,,
+2455530.742,74.616,0.912,La Silla Observatory,HD28305,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.432585653,0.000266469,8.368820742,0.074357589,273.6,29.9991,,-0.005982828
+2455977.516,-26.775,0.914,La Silla Observatory,HD28305,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.429254041,0.000273245,9.178288759,0.027047761,269.5,29.9999,,-29.87856651
+2455978.504,-28.686,1.027,La Silla Observatory,HD28305,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.433194427,0.000513762,9.176690067,0.027044844,142.9,15.0055,,-29.92465432
+2455978.506,-30.022,1.036,La Silla Observatory,HD28305,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.434088088,0.000542358,9.185263841,0.030431599,136.6,14.9997,,-29.92835317
+2455978.508,-28.89,0.996,La Silla Observatory,HD28305,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.433231567,0.000464459,9.182844685,0.029507878,159.1,15.0055,,-29.93319781
+2457012.653,22.946,0.929,La Silla Observatory,HD28305,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.436279658,0.000316379,9.173972541,0.031953158,234.7,29.9998,,-10.72179339

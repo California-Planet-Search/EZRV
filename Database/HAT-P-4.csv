@@ -1,0 +1,10 @@
+Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisector,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
+2454186.98522,101.0,2.1,"Mauna Kea, Hawaii",HAT-P-4,BJD,"Kovacs et al. 2007 (ApJL, 670, 41)",HIRES,Iodine,Wright,,,,,,,,
+2454187.11241,92.6,2.1,"Mauna Kea, Hawaii",HAT-P-4,BJD,"Kovacs et al. 2007 (ApJL, 670, 41)",HIRES,Iodine,Wright,,,,,,,,
+2454188.01160,-25.4,2.0,"Mauna Kea, Hawaii",HAT-P-4,BJD,"Kovacs et al. 2007 (ApJL, 670, 41)",HIRES,Iodine,Wright,,,,,,,,
+2454188.07150,-35.8,2.0,"Mauna Kea, Hawaii",HAT-P-4,BJD,"Kovacs et al. 2007 (ApJL, 670, 41)",HIRES,Iodine,Wright,,,,,,,,
+2454189.00174,-28.1,2.2,"Mauna Kea, Hawaii",HAT-P-4,BJD,"Kovacs et al. 2007 (ApJL, 670, 41)",HIRES,Iodine,Wright,,,,,,,,
+2454189.08262,-13.9,2.0,"Mauna Kea, Hawaii",HAT-P-4,BJD,"Kovacs et al. 2007 (ApJL, 670, 41)",HIRES,Iodine,Wright,,,,,,,,
+2454189.13222,-3.1,3.3,"Mauna Kea, Hawaii",HAT-P-4,BJD,"Kovacs et al. 2007 (ApJL, 670, 41)",HIRES,Iodine,Wright,,,,,,,,
+2454249.93769,-52.5,2.8,"Mauna Kea, Hawaii",HAT-P-4,BJD,"Kovacs et al. 2007 (ApJL, 670, 41)",HIRES,Iodine,Wright,,,,,,,,
+2454279.86357,-36.8,2.9,"Mauna Kea, Hawaii",HAT-P-4,BJD,"Kovacs et al. 2007 (ApJL, 670, 41)",HIRES,Iodine,Wright,,,,,,,,

@@ -1,0 +1,12 @@
+Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisector,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
+2451639.61095,14787.00,500.00,"ESO VLT, Paranal Observatory, Chile",ChaHA 8,HJD,"Joergens 2006 (A&A, 446, 1165)",UVES,Thorium Argon and Telluric Oxygen,Wright,,,,,,,,
+2451658.72597,14935.00,500.00,"ESO VLT, Paranal Observatory, Chile",ChaHA 8,HJD,"Joergens 2006 (A&A, 446, 1165)",UVES,Thorium Argon and Telluric Oxygen,Wright,,,,,,,,
+2452339.68965,16920.00,70.00,"ESO VLT, Paranal Observatory, Chile",ChaHA 8,HJD,"Joergens 2006 (A&A, 446, 1165)",UVES,Thorium Argon and Telluric Oxygen,Wright,,,,,,,,
+2452355.65264,16912.00,160.00,"ESO VLT, Paranal Observatory, Chile",ChaHA 8,HJD,"Joergens 2006 (A&A, 446, 1165)",UVES,Thorium Argon and Telluric Oxygen,Wright,,,,,,,,
+2452380.61646,17551.00,230.00,"ESO VLT, Paranal Observatory, Chile",ChaHA 8,HJD,"Joergens 2006 (A&A, 446, 1165)",UVES,Thorium Argon and Telluric Oxygen,Wright,,,,,,,,
+2452383.57565,17379.00,30.00,"ESO VLT, Paranal Observatory, Chile",ChaHA 8,HJD,"Joergens 2006 (A&A, 446, 1165)",UVES,Thorium Argon and Telluric Oxygen,Wright,,,,,,,,
+2453450.62080,15130.00,210.00,"ESO VLT, Paranal Observatory, Chile",ChaHA 8,HJD,"Joergens & Muller 2007 (ApJ, 666, L113)",UVES,Telluric,Wright,,,,,,,,
+2453835.65109,16082.00,200.00,"ESO VLT, Paranal Observatory, Chile",ChaHA 8,HJD,"Joergens & Muller 2007 (ApJ, 666, L113)",UVES,Telluric,Wright,,,,,,,,
+2453926.50137,16893.00,200.00,"ESO VLT, Paranal Observatory, Chile",ChaHA 8,HJD,"Joergens & Muller 2007 (ApJ, 666, L113)",UVES,Telluric,Wright,,,,,,,,
+2454174.66101,17089.00,290.00,"ESO VLT, Paranal Observatory, Chile",ChaHA 8,HJD,"Joergens & Muller 2007 (ApJ, 666, L113)",UVES,Telluric,Wright,,,,,,,,
+2454181.69756,16931.00,330.00,"ESO VLT, Paranal Observatory, Chile",ChaHA 8,HJD,"Joergens & Muller 2007 (ApJ, 666, L113)",UVES,Telluric,Wright,,,,,,,,

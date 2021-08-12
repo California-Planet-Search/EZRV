@@ -1,0 +1,68 @@
+Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisector,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
+2455021.702330,-15388.50,27.40,"ESO La Silla, Chile",CoRoT-25,BJD-UTC,"Almenara et al. 2013 (A&A, 555, 118)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455022.677720,-15379.20,58.70,"ESO La Silla, Chile",CoRoT-25,BJD-UTC,"Almenara et al. 2013 (A&A, 555, 118)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455024.732600,-15388.50,36.60,"ESO La Silla, Chile",CoRoT-25,BJD-UTC,"Almenara et al. 2013 (A&A, 555, 118)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455340.824750,-15401.20,31.10,"ESO La Silla, Chile",CoRoT-25,BJD-UTC,"Almenara et al. 2013 (A&A, 555, 118)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455341.863460,-15426.70,20.70,"ESO La Silla, Chile",CoRoT-25,BJD-UTC,"Almenara et al. 2013 (A&A, 555, 118)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455342.847840,-15403.90,50.60,"ESO La Silla, Chile",CoRoT-25,BJD-UTC,"Almenara et al. 2013 (A&A, 555, 118)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455352.691450,-15352.40,31.30,"ESO La Silla, Chile",CoRoT-25,BJD-UTC,"Almenara et al. 2013 (A&A, 555, 118)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455354.776880,-15462.90,26.00,"ESO La Silla, Chile",CoRoT-25,BJD-UTC,"Almenara et al. 2013 (A&A, 555, 118)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455680.823120,-15428.40,35.80,"ESO La Silla, Chile",CoRoT-25,BJD-UTC,"Almenara et al. 2013 (A&A, 555, 118)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455680.863410,-15470.50,34.40,"ESO La Silla, Chile",CoRoT-25,BJD-UTC,"Almenara et al. 2013 (A&A, 555, 118)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455682.835140,-15384.60,19.20,"ESO La Silla, Chile",CoRoT-25,BJD-UTC,"Almenara et al. 2013 (A&A, 555, 118)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455682.878340,-15388.90,19.70,"ESO La Silla, Chile",CoRoT-25,BJD-UTC,"Almenara et al. 2013 (A&A, 555, 118)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455685.815120,-15446.00,16.70,"ESO La Silla, Chile",CoRoT-25,BJD-UTC,"Almenara et al. 2013 (A&A, 555, 118)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455694.825230,-15440.00,15.60,"ESO La Silla, Chile",CoRoT-25,BJD-UTC,"Almenara et al. 2013 (A&A, 555, 118)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455694.867610,-15432.10,14.90,"ESO La Silla, Chile",CoRoT-25,BJD-UTC,"Almenara et al. 2013 (A&A, 555, 118)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455695.829760,-15475.60,18.10,"ESO La Silla, Chile",CoRoT-25,BJD-UTC,"Almenara et al. 2013 (A&A, 555, 118)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455695.872550,-15426.80,27.60,"ESO La Silla, Chile",CoRoT-25,BJD-UTC,"Almenara et al. 2013 (A&A, 555, 118)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455712.799650,-15384.50,20.00,"ESO La Silla, Chile",CoRoT-25,BJD-UTC,"Almenara et al. 2013 (A&A, 555, 118)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455712.842860,-15385.20,17.10,"ESO La Silla, Chile",CoRoT-25,BJD-UTC,"Almenara et al. 2013 (A&A, 555, 118)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455777.619270,-15445.60,33.50,"ESO La Silla, Chile",CoRoT-25,BJD-UTC,"Almenara et al. 2013 (A&A, 555, 118)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455777.662060,-15463.30,31.90,"ESO La Silla, Chile",CoRoT-25,BJD-UTC,"Almenara et al. 2013 (A&A, 555, 118)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455802.558260,-15483.70,40.20,"ESO La Silla, Chile",CoRoT-25,BJD-UTC,"Almenara et al. 2013 (A&A, 555, 118)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455802.603760,-15410.30,35.10,"ESO La Silla, Chile",CoRoT-25,BJD-UTC,"Almenara et al. 2013 (A&A, 555, 118)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455804.541400,-15407.70,45.60,"ESO La Silla, Chile",CoRoT-25,BJD-UTC,"Almenara et al. 2013 (A&A, 555, 118)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455804.585890,-15413.10,57.00,"ESO La Silla, Chile",CoRoT-25,BJD-UTC,"Almenara et al. 2013 (A&A, 555, 118)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455823.514090,-15340.70,33.20,"ESO La Silla, Chile",CoRoT-25,BJD-UTC,"Almenara et al. 2013 (A&A, 555, 118)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455826.512480,-15444.50,17.80,"ESO La Silla, Chile",CoRoT-25,BJD-UTC,"Almenara et al. 2013 (A&A, 555, 118)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455826.559670,-15488.40,14.60,"ESO La Silla, Chile",CoRoT-25,BJD-UTC,"Almenara et al. 2013 (A&A, 555, 118)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455012.823144,18.51,11.70,"Manua Kea, Hawaii",CoRoT-25,BJD-UTC,"Almenara et al. 2013 (A&A, 555, 118)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455013.076915,-3.02,17.80,"Manua Kea, Hawaii",CoRoT-25,BJD-UTC,"Almenara et al. 2013 (A&A, 555, 118)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455013.958030,8.18,16.80,"Manua Kea, Hawaii",CoRoT-25,BJD-UTC,"Almenara et al. 2013 (A&A, 555, 118)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455014.085841,-22.83,15.20,"Manua Kea, Hawaii",CoRoT-25,BJD-UTC,"Almenara et al. 2013 (A&A, 555, 118)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455766.967095,-8.52,15.00,"Manua Kea, Hawaii",CoRoT-25,BJD-UTC,"Almenara et al. 2013 (A&A, 555, 118)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455767.997414,7.69,15.30,"Manua Kea, Hawaii",CoRoT-25,BJD-UTC,"Almenara et al. 2013 (A&A, 555, 118)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455021.703,150.936,3.444,La Silla Observatory,CoRoT-25,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.431137599,0.008478533,8.071762881,0.034672769,12.7,3599.9994,,-2.214956094
+2455022.678,296.287,37.556,La Silla Observatory,CoRoT-25,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.429034022,0.015372132,8.065993681,0.211056551,7.8,3599.9988,,-2.576555325
+2455024.733,-437.278,4.871,La Silla Observatory,CoRoT-25,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.419355033,0.010457374,8.267145518,0.052019742,10.4,3599.9992,,-3.604166496
+2455340.826,167.818,14.079,La Silla Observatory,CoRoT-25,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.432235003,0.012754046,8.434720687,0.055662257,9.0,3600.0062,,16.37130607
+2455341.864,-158.186,4.224,La Silla Observatory,CoRoT-25,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.422594808,0.008161152,8.306676599,0.027075392,12.3,3600.0069,,15.91742198
+2455342.849,-18.234,22.901,La Silla Observatory,CoRoT-25,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.423392362,0.011982098,8.391554696,-0.040698206,9.5,3600.0064,,15.61149488
+2455352.692,-45.092,21.874,La Silla Observatory,CoRoT-25,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.411478826,0.013388343,8.265391124,0.005082888,8.4,3600.007,,12.35434227
+2455354.778,-180.353,5.524,La Silla Observatory,CoRoT-25,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.446317646,0.011031507,8.42875837,0.064827797,10.1,3600.0065,,11.32937913
+2455680.824,154.425,17.894,La Silla Observatory,CoRoT-25,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.433738712,0.013917891,8.306383901,0.106083102,8.4,3599.9999,,23.39469972
+2455680.864,137.385,19.396,La Silla Observatory,CoRoT-25,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.448271305,0.012961938,8.408163052,0.022345288,8.9,3599.9998,,23.2868446
+2455682.836,663.516,3.759,La Silla Observatory,CoRoT-25,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.432564557,0.007750101,8.389025092,0.037581432,13.5,3600.0001,,22.94706326
+2455682.879,477.473,3.845,La Silla Observatory,CoRoT-25,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.416967198,0.007212353,8.361364259,0.024652079,13.8,3600.0004,,22.82894922
+2455685.816,145.467,3.295,La Silla Observatory,CoRoT-25,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.41558248,0.00740586,8.279470557,0.021901795,14.2,3600.0002,,22.32508214
+2455694.826,-127.092,3.132,La Silla Observatory,CoRoT-25,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.41385316,0.006635911,8.253886635,0.003575563,15.2,3600.0002,,19.93030361
+2455694.868,-88.87,2.911,La Silla Observatory,CoRoT-25,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.409545748,0.006364701,8.305461578,-0.006290649,15.7,3600.0005,,19.81107958
+2455695.831,-158.11,3.527,La Silla Observatory,CoRoT-25,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.43438168,0.007654796,8.264838067,0.001374944,13.8,3600.0004,,19.62712572
+2455695.873,-28.627,3.496,La Silla Observatory,CoRoT-25,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.429866924,0.007285992,8.341977937,0.021730776,14.2,3600.0002,,19.50689307
+2455712.8,-414.369,3.831,La Silla Observatory,CoRoT-25,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.415458992,0.008188833,8.380903602,0.042646623,12.9,3600.0002,,14.05033431
+2455712.844,-423.655,3.393,La Silla Observatory,CoRoT-25,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.414947364,0.006901614,8.266488471,0.000806115,14.6,3600.0002,,13.92703796
+2455777.62,-41.833,16.489,La Silla Observatory,CoRoT-25,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.420854758,0.013663301,8.345882521,0.051767091,8.6,3600.0001,,-12.61384456
+2455777.663,-12.665,18.461,La Silla Observatory,CoRoT-25,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.432161753,0.013324915,8.456625131,0.130822991,8.9,3600.0,,-12.73691517
+2455802.559,-220.782,22.437,La Silla Observatory,CoRoT-25,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.453448417,0.016153069,8.35899833,-0.038792439,7.6,3600.0001,,-20.75025201
+2455802.605,-0.412,19.466,La Silla Observatory,CoRoT-25,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.451430159,0.014096117,8.33190579,-0.05264653,8.6,3600.0,,-20.87440322
+2455804.542,-126.171,29.391,La Silla Observatory,CoRoT-25,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.446126087,0.018563396,8.424990446,0.175560787,6.8,3600.0,,-21.23345387
+2455804.587,46.725,33.196,La Silla Observatory,CoRoT-25,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.486331276,0.023002527,8.423283394,0.079454901,5.7,3600.0001,,-21.35596358
+2455823.515,218.616,23.44,La Silla Observatory,CoRoT-25,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.475017149,0.012396792,8.350004446,0.088340045,9.3,3000.0063,,-24.89585044
+2455826.513,-49.038,3.862,La Silla Observatory,CoRoT-25,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.423679776,0.007915387,8.368268638,0.032901538,13.6,3600.0059,,-25.26546838
+2455826.56,822.578,3.327,La Silla Observatory,CoRoT-25,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.407890127,0.006572188,8.332378808,0.040041165,15.5,3600.0059,,-25.38170544
+2456098.751,-1150.297,5.317,La Silla Observatory,CoRoT-25,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.429938688,0.010445849,8.470858373,0.010879254,10.8,3600.0,,5.819281234
+2456121.687,-20.595,18.315,La Silla Observatory,CoRoT-25,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.447504776,0.014866924,8.362677898,-0.018813459,8.3,3600.0,,-4.001742782
+2456508.573,-78.162,14.554,La Silla Observatory,CoRoT-25,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.398784186,0.011882767,8.374924426,0.15715389,9.6,3600.002,,-12.66096306
+2456514.588,-2.424,16.855,La Silla Observatory,CoRoT-25,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.456641234,0.01241761,8.351865915,0.082105774,9.5,3600.0007,,-14.95300762
+2456516.555,17.704,26.201,La Silla Observatory,CoRoT-25,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.472429889,0.021261203,8.235191222,0.01259385,6.3,3599.9947,,-15.57148434

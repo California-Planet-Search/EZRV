@@ -1,0 +1,11 @@
+Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisector,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
+2453779.941,87,15,"McDonald Observatory, Texas",XO-1,JD,"McCullough et al. 2006 (ApJ, 648, 1228)",HRS,Iodine,Wright,,,,,,,,
+2453796.894,41,17,"McDonald Observatory, Texas",XO-1,JD,"McCullough et al. 2006 (ApJ, 648, 1228)",HRS,Iodine,Wright,,,,,,,,
+2453799.884,112,14,"McDonald Observatory, Texas",XO-1,JD,"McCullough et al. 2006 (ApJ, 648, 1228)",HRS,Iodine,Wright,,,,,,,,
+2453801.887,-111,15,"McDonald Observatory, Texas",XO-1,JD,"McCullough et al. 2006 (ApJ, 648, 1228)",HRS,Iodine,Wright,,,,,,,,
+2453815.848,128,21,"McDonald Observatory, Texas",XO-1,JD,"McCullough et al. 2006 (ApJ, 648, 1228)",HRS,Iodine,Wright,,,,,,,,
+2453824.815,-34,18,"McDonald Observatory, Texas",XO-1,JD,"McCullough et al. 2006 (ApJ, 648, 1228)",HRS,Iodine,Wright,,,,,,,,
+2453770.947,-99,63,"McDonald Observatory, Texas",XO-1,JD,"McCullough et al. 2006 (ApJ, 648, 1228)",2d coude spectrograph (2dCS),Thorium Argon,Wright,,,,,,,,
+2453771.945,93,70,"McDonald Observatory, Texas",XO-1,JD,"McCullough et al. 2006 (ApJ, 648, 1228)",2d coude spectrograph (2dCS),Thorium Argon,Wright,,,,,,,,
+2453773.924,-107,63,"McDonald Observatory, Texas",XO-1,JD,"McCullough et al. 2006 (ApJ, 648, 1228)",2d coude spectrograph (2dCS),Thorium Argon,Wright,,,,,,,,
+2453775.936,122,64,"McDonald Observatory, Texas",XO-1,JD,"McCullough et al. 2006 (ApJ, 648, 1228)",2d coude spectrograph (2dCS),Thorium Argon,Wright,,,,,,,,

@@ -1,0 +1,12 @@
+Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisector,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
+2454508.48441,9866.00,8.80,"Observatoire de Haute Provence (OHP), France",WASP-13,BJD,"Skillen et al. 2009 (A&A, 502, 391)",SOPHIE,Thorium Argon,Wright,,,,,,,,
+2454509.45978,9812.60,7.20,"Observatoire de Haute Provence (OHP), France",WASP-13,BJD,"Skillen et al. 2009 (A&A, 502, 391)",SOPHIE,Thorium Argon,Wright,,,,,,,,
+2454510.46914,9802.20,7.80,"Observatoire de Haute Provence (OHP), France",WASP-13,BJD,"Skillen et al. 2009 (A&A, 502, 391)",SOPHIE,Thorium Argon,Wright,,,,,,,,
+2454510.55389,9763.40,8.80,"Observatoire de Haute Provence (OHP), France",WASP-13,BJD,"Skillen et al. 2009 (A&A, 502, 391)",SOPHIE,Thorium Argon,Wright,,,,,,,,
+2454511.32838,9836.50,8.00,"Observatoire de Haute Provence (OHP), France",WASP-13,BJD,"Skillen et al. 2009 (A&A, 502, 391)",SOPHIE,Thorium Argon,Wright,,,,,,,,
+2454511.55075,9869.00,8.20,"Observatoire de Haute Provence (OHP), France",WASP-13,BJD,"Skillen et al. 2009 (A&A, 502, 391)",SOPHIE,Thorium Argon,Wright,,,,,,,,
+2454511.57290,9849.20,8.60,"Observatoire de Haute Provence (OHP), France",WASP-13,BJD,"Skillen et al. 2009 (A&A, 502, 391)",SOPHIE,Thorium Argon,Wright,,,,,,,,
+2454511.64730,9866.70,8.80,"Observatoire de Haute Provence (OHP), France",WASP-13,BJD,"Skillen et al. 2009 (A&A, 502, 391)",SOPHIE,Thorium Argon,Wright,,,,,,,,
+2454512.42051,9906.20,6.80,"Observatoire de Haute Provence (OHP), France",WASP-13,BJD,"Skillen et al. 2009 (A&A, 502, 391)",SOPHIE,Thorium Argon,Wright,,,,,,,,
+2454512.55184,9877.00,8.00,"Observatoire de Haute Provence (OHP), France",WASP-13,BJD,"Skillen et al. 2009 (A&A, 502, 391)",SOPHIE,Thorium Argon,Wright,,,,,,,,
+2454512.65565,9882.90,9.00,"Observatoire de Haute Provence (OHP), France",WASP-13,BJD,"Skillen et al. 2009 (A&A, 502, 391)",SOPHIE,Thorium Argon,Wright,,,,,,,,

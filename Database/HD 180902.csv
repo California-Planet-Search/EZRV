@@ -1,0 +1,13 @@
+Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisector,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
+2454339.767,40.51,1.17,"Mauna Kea, Hawaii",HD 180902,JD,"Johnson et al. 2010 (PASP, 122, 701)",HIRES,Iodine,Wright,,,,,,,,
+2454399.740,19.80,1.37,"Mauna Kea, Hawaii",HD 180902,JD,"Johnson et al. 2010 (PASP, 122, 701)",HIRES,Iodine,Wright,,,,,,,,
+2454634.062,-4.44,1.37,"Mauna Kea, Hawaii",HD 180902,JD,"Johnson et al. 2010 (PASP, 122, 701)",HIRES,Iodine,Wright,,,,,,,,
+2454640.998,-14.25,1.59,"Mauna Kea, Hawaii",HD 180902,JD,"Johnson et al. 2010 (PASP, 122, 701)",HIRES,Iodine,Wright,,,,,,,,
+2454674.972,5.16,1.51,"Mauna Kea, Hawaii",HD 180902,JD,"Johnson et al. 2010 (PASP, 122, 701)",HIRES,Iodine,Wright,,,,,,,,
+2454808.686,37.39,1.56,"Mauna Kea, Hawaii",HD 180902,JD,"Johnson et al. 2010 (PASP, 122, 701)",HIRES,Iodine,Wright,,,,,,,,
+2454957.026,0.00,1.44,"Mauna Kea, Hawaii",HD 180902,JD,"Johnson et al. 2010 (PASP, 122, 701)",HIRES,Iodine,Wright,,,,,,,,
+2455015.013,-15.62,1.39,"Mauna Kea, Hawaii",HD 180902,JD,"Johnson et al. 2010 (PASP, 122, 701)",HIRES,Iodine,Wright,,,,,,,,
+2455026.965,-23.67,1.33,"Mauna Kea, Hawaii",HD 180902,JD,"Johnson et al. 2010 (PASP, 122, 701)",HIRES,Iodine,Wright,,,,,,,,
+2455109.748,-11.60,1.45,"Mauna Kea, Hawaii",HD 180902,JD,"Johnson et al. 2010 (PASP, 122, 701)",HIRES,Iodine,Wright,,,,,,,,
+2455135.741,-1.92,1.33,"Mauna Kea, Hawaii",HD 180902,JD,"Johnson et al. 2010 (PASP, 122, 701)",HIRES,Iodine,Wright,,,,,,,,
+2455169.685,14.50,1.51,"Mauna Kea, Hawaii",HD 180902,JD,"Johnson et al. 2010 (PASP, 122, 701)",HIRES,Iodine,Wright,,,,,,,,

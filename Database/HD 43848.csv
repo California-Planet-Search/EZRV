@@ -1,0 +1,11 @@
+Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisector,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
+2450626.7557,124.1,5.8,"Las Campanas Observatory, Chile",HD 43848,JD,"Minniti et al. 2009 (ApJ, 693, 1424)",MIKE,Thorium Argon,Wright,,,,,,,,
+2450920.8278,-90.8,6.0,"Las Campanas Observatory, Chile",HD 43848,JD,"Minniti et al. 2009 (ApJ, 693, 1424)",MIKE,Thorium Argon,Wright,,,,,,,,
+2450978.7597,-173.4,7.2,"Las Campanas Observatory, Chile",HD 43848,JD,"Minniti et al. 2009 (ApJ, 693, 1424)",MIKE,Thorium Argon,Wright,,,,,,,,
+2451431.5773,498.7,3.5,"Las Campanas Observatory, Chile",HD 43848,JD,"Minniti et al. 2009 (ApJ, 693, 1424)",MIKE,Thorium Argon,Wright,,,,,,,,
+2451455.5289,521.2,3.7,"Las Campanas Observatory, Chile",HD 43848,JD,"Minniti et al. 2009 (ApJ, 693, 1424)",MIKE,Thorium Argon,Wright,,,,,,,,
+2451774.6672,479.7,4.2,"Las Campanas Observatory, Chile",HD 43848,JD,"Minniti et al. 2009 (ApJ, 693, 1424)",MIKE,Thorium Argon,Wright,,,,,,,,
+2451775.6690,486.9,7.1,"Las Campanas Observatory, Chile",HD 43848,JD,"Minniti et al. 2009 (ApJ, 693, 1424)",MIKE,Thorium Argon,Wright,,,,,,,,
+2451783.6628,483.0,3.6,"Las Campanas Observatory, Chile",HD 43848,JD,"Minniti et al. 2009 (ApJ, 693, 1424)",MIKE,Thorium Argon,Wright,,,,,,,,
+2451810.5720,486.9,3.5,"Las Campanas Observatory, Chile",HD 43848,JD,"Minniti et al. 2009 (ApJ, 693, 1424)",MIKE,Thorium Argon,Wright,,,,,,,,
+2452136.6677,406.5,3.7,"Las Campanas Observatory, Chile",HD 43848,JD,"Minniti et al. 2009 (ApJ, 693, 1424)",MIKE,Thorium Argon,Wright,,,,,,,,

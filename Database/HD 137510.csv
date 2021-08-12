@@ -1,0 +1,11 @@
+Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisector,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
+2451999.022720,-283.,11.,"Lick Observatory, California",HD 137510,JD,"Butler et al. 2006 (ApJ, 646, 505)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2451999.992354,-283.7,7.7,"Lick Observatory, California",HD 137510,JD,"Butler et al. 2006 (ApJ, 646, 505)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2452033.948125,-289.0,9.6,"Lick Observatory, California",HD 137510,JD,"Butler et al. 2006 (ApJ, 646, 505)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2452317.061516,-25.,13.,"Lick Observatory, California",HD 137510,JD,"Butler et al. 2006 (ApJ, 646, 505)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2452334.068981,-6.8,8.8,"Lick Observatory, California",HD 137510,JD,"Butler et al. 2006 (ApJ, 646, 505)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2452339.037153,24.5,7.8,"Lick Observatory, California",HD 137510,JD,"Butler et al. 2006 (ApJ, 646, 505)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2452409.855762,193.4,7.3,"Lick Observatory, California",HD 137510,JD,"Butler et al. 2006 (ApJ, 646, 505)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2452448.807500,319.,11.,"Lick Observatory, California",HD 137510,JD,"Butler et al. 2006 (ApJ, 646, 505)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2453124.861918,-47.0,8.9,"Lick Observatory, California",HD 137510,JD,"Butler et al. 2006 (ApJ, 646, 505)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2453125.846968,-1.8,7.8,"Lick Observatory, California",HD 137510,JD,"Butler et al. 2006 (ApJ, 646, 505)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,

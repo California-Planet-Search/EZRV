@@ -4,8 +4,7 @@ data_dir: 'output/'
 
 
 #format of your csv
-#if you have a constant value for one column input "constant:your value"
-dictonary : {"Time": "time",
+input_dict : {"Time": "time",
            "RV" : "rv",
            "Uncertainty" : "uncert",
            "Observatory_Name" : "obs_site",
@@ -21,7 +20,7 @@ dictonary : {"Time": "time",
            "Bisetor" : "bisector",
            "Signal_to_noise_ratio_in_order_55":"sig_to_noise_ratio_in_order_55",
            "Exposure_Time":"exp_time",
-           "Airmass":"airmass",
+           "Airmass":"constant:NaN",
            "Barycentric_Earth_Radial_Velocity":"barycentric_earth_rv"}
 
 

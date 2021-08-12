@@ -1,0 +1,189 @@
+Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisector,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
+2450838.8806,-6.8,3.5,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2000 (ApJ, 545, 504)",HIRES,Iodine,Wright,,,,,,,,
+2451071.1178,-18.8,3.6,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2000 (ApJ, 545, 504)",HIRES,Iodine,Wright,,,,,,,,
+2451171.9233,-40.6,3.4,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2000 (ApJ, 545, 504)",HIRES,Iodine,Wright,,,,,,,,
+2451226.8652,39.3,2.8,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2000 (ApJ, 545, 504)",HIRES,Iodine,Wright,,,,,,,,
+2451227.8595,42.4,2.8,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2000 (ApJ, 545, 504)",HIRES,Iodine,Wright,,,,,,,,
+2451228.9463,42.1,3.4,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2000 (ApJ, 545, 504)",HIRES,Iodine,Wright,,,,,,,,
+2451310.7606,-13.6,3.3,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2000 (ApJ, 545, 504)",HIRES,Iodine,Wright,,,,,,,,
+2451312.7412,-10.9,3.3,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2000 (ApJ, 545, 504)",HIRES,Iodine,Wright,,,,,,,,
+2451544.0501,-29.1,3.9,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2000 (ApJ, 545, 504)",HIRES,Iodine,Wright,,,,,,,,
+2451550.9736,-14.3,3.6,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2000 (ApJ, 545, 504)",HIRES,Iodine,Wright,,,,,,,,
+2451551.9842,-5.5,4.0,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2000 (ApJ, 545, 504)",HIRES,Iodine,Wright,,,,,,,,
+2451552.9597,0.0,3.7,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2000 (ApJ, 545, 504)",HIRES,Iodine,Wright,,,,,,,,
+2451580.8680,38.3,3.5,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2000 (ApJ, 545, 504)",HIRES,Iodine,Wright,,,,,,,,
+2451581.8907,37.3,3.7,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2000 (ApJ, 545, 504)",HIRES,Iodine,Wright,,,,,,,,
+2451582.7971,38.8,4.0,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2000 (ApJ, 545, 504)",HIRES,Iodine,Wright,,,,,,,,
+2451583.9146,41.8,3.3,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2000 (ApJ, 545, 504)",HIRES,Iodine,Wright,,,,,,,,
+2451585.9235,37.4,3.8,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2000 (ApJ, 545, 504)",HIRES,Iodine,Wright,,,,,,,,
+2450838.880579,-10.1,5.4,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451071.117766,-24.5,5.0,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451171.923252,-49.2,5.3,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451226.865174,43.0,5.1,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451227.859549,31.0,5.0,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451228.946331,25.1,5.1,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451310.760590,-10.4,5.0,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451312.741227,-20.2,5.2,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451544.050058,-56.7,5.2,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451550.973634,-12.8,5.3,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451551.984155,-17.4,5.1,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451552.959699,-18.8,5.4,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451580.867975,35.8,5.2,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451581.890741,39.4,5.2,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451582.797141,23.4,5.1,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451583.914572,45.0,5.3,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451585.923530,33.2,5.5,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451883.023299,-23.9,5.2,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451884.106331,-26.3,5.2,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451898.100162,-42.6,5.3,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451899.057824,-49.6,5.3,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451974.828322,-12.7,5.1,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2452007.790706,-47.7,5.2,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2452220.006030,-18.9,5.4,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2452573.082523,23.7,5.1,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2452987.935938,8.5,5.5,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2453340.083773,-20.2,5.1,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2453368.979537,32.5,5.0,"Mauna Kea, Hawaii",HD 52265,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451138.810132,53784.00,10.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451183.731889,53724.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451187.712055,53727.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451190.741799,53741.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451193.717130,53753.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451196.703975,53758.00,11.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451199.732102,53779.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451200.656990,53762.00,11.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451214.573230,53803.00,8.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451230.559475,53798.00,8.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451233.586250,53798.00,8.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451234.550909,53795.00,8.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451235.530554,53795.00,8.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451236.538287,53802.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451237.528323,53797.00,8.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451238.529469,53780.00,8.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451239.526308,53791.00,8.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451240.525612,53799.00,8.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451241.567446,53795.00,8.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451242.522677,53799.00,8.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451243.521816,53792.00,8.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451245.532360,53779.00,8.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451246.537931,53781.00,8.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451248.521412,53776.00,8.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451288.521933,53719.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451291.467944,53717.00,8.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451296.516504,53718.00,8.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451298.464388,53714.00,8.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451300.458845,53721.00,8.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451302.458374,53716.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451303.462277,53718.00,11.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451304.466921,53726.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451307.459204,53752.00,14.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451416.909097,53720.00,8.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451417.875073,53720.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451418.914480,53707.00,11.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451423.907420,53718.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451438.899470,53791.00,8.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451440.899795,53803.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451441.905201,53802.00,8.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451442.901985,53830.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451443.904974,53804.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451444.901631,53792.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451446.889820,53797.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451450.891493,53823.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451455.893640,53832.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451458.846306,53817.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451460.831527,53805.00,11.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451464.849993,53833.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451480.831659,53821.00,15.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451484.848922,53810.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451486.774378,53808.00,16.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451490.749796,53795.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451493.865519,53807.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451496.828863,53791.00,11.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451499.847781,53802.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451501.848786,53804.00,10.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451549.686424,53757.00,8.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451550.736982,53761.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451567.789336,53794.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451568.669094,53793.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451575.669303,53810.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451577.566638,53794.00,10.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451605.553702,53793.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451607.561658,53797.00,8.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451608.531957,53791.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451611.527807,53790.00,10.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451616.543746,53778.00,8.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451619.563362,53773.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451621.550051,53782.00,10.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451623.660338,53779.00,11.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451624.539361,53784.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451625.578926,53769.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451626.519888,53764.00,10.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451627.537313,53762.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451628.530145,53766.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451629.549595,53768.00,10.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451630.518539,53765.00,10.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451631.538647,53746.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451632.514385,53756.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451633.530292,53759.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451634.550411,53775.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451635.518359,53756.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451638.537620,53746.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451639.523598,53745.00,12.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451640.544018,53751.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451641.506491,53747.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451642.506554,53734.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451643.527437,53720.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451645.530954,53732.00,9.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2451646.613938,53737.00,10.00,"ESO La Silla, Chile",HD 52265,BJD,"Naef et al. 2001 (A&A, 375, 205)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2453037.678,-6.052,1.03,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.390031347,0.000373135,8.710795658,0.024846018,191.5,300.0007,,-11.43747737
+2453412.651,-34.31,0.843,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.391926119,0.000350853,8.711380066,0.023264994,204.6,336.7009,,-15.33735721
+2455289.533,10.366,0.868,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.388130855,0.000265697,8.72672364,0.024826625,279.6,400.0066,,-26.40275813
+2455289.538,11.012,0.869,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.388283043,0.000265811,8.726928644,0.024105024,279.5,400.0005,,-26.41404032
+2455291.544,6.237,0.721,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.389220079,0.000324645,8.7247014,0.02553796,229.3,400.0058,,-26.49332999
+2455291.549,7.216,0.726,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.388971507,0.000327062,8.726484116,0.026173623,227.0,400.0002,,-26.50401234
+2457610.921,-24.397,1.242,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.391724287,0.00047057,8.750893868,0.030492017,161.5,249.9983,,13.95367534
+2457610.924,-23.415,1.208,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.39235091,0.000434219,8.745475764,0.034335729,175.0,249.9983,,13.9512754
+2457610.927,-25.276,1.185,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.393340399,0.00040996,8.745689917,0.031451479,186.4,249.9983,,13.94862218
+2457610.931,-24.222,1.231,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.39242903,0.000460001,8.745185318,0.033323415,165.6,249.9983,,13.94558666
+2457610.934,-23.551,1.154,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.392478967,0.000372712,8.750904274,0.032563391,204.9,249.9983,,13.94281337
+2457610.937,-25.345,1.215,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.392526268,0.00044717,8.747349615,0.026492882,170.7,249.9983,,13.93974145
+2457610.941,-25.573,1.2,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.39323417,0.000430986,8.747385788,0.02979717,177.6,249.9983,,13.93620389
+2457610.944,-25.399,1.18,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.393418391,0.000407586,8.748809538,0.032149285,188.0,249.9983,,13.93314462
+2457610.947,-24.977,1.224,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.395181467,0.000431811,8.749217546,0.032146664,177.6,249.9983,,13.92926688
+2458082.766,-22.519,1.514,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.396337422,0.0007091,8.746628598,0.037188025,109.6,79.9982,,18.48601799
+2458082.767,-26.825,1.49,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.397151778,0.000690902,8.740690652,0.032239832,112.7,79.9982,,18.4824285
+2458082.768,-24.714,1.486,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.396903053,0.000689057,8.74674317,0.035623665,113.2,79.9982,,18.47886509
+2458082.769,-25.045,1.466,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.396773813,0.00067131,8.74872813,0.031902992,116.2,79.9982,,18.47529373
+2458082.771,-25.962,1.47,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.39577574,0.000671651,8.748906776,0.032146607,115.8,79.9983,,18.47171657
+2458082.772,-26.502,1.476,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.395661178,0.00067365,8.744463156,0.027698016,115.3,79.9983,,18.46806686
+2458085.777,-29.424,1.611,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.388718094,0.000800952,8.747054742,0.028485377,98.1,79.9982,,17.40153303
+2458085.779,-30.281,1.639,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.392232265,0.000826308,8.743617933,0.029694415,95.6,79.9983,,17.39781679
+2458085.78,-27.529,1.637,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.391297433,0.000831947,8.74197903,0.026371378,95.0,79.9982,,17.39416581
+2458085.781,-26.358,1.642,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.392236041,0.000839527,8.73867508,0.035716033,94.5,79.9983,,17.39053573
+2458085.783,-26.067,1.646,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.393146439,0.00083977,8.742573408,0.033594827,94.3,79.9983,,17.38676833
+2458085.784,-29.65,1.665,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.391481507,0.000857088,8.745457103,0.027408532,92.6,79.9982,,17.38310291
+2458143.646,52.286,1.13,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.395370735,0.000317464,8.744327206,0.030601137,237.9,249.9982,,-8.007814799
+2458143.649,53.387,1.141,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.39605785,0.000335389,8.743990206,0.029889021,225.6,249.9982,,-8.017639174
+2458143.652,51.065,1.139,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.3964178,0.000330238,8.748661571,0.033122044,228.8,249.9982,,-8.027379262
+2458144.635,53.457,1.256,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.39249541,0.00048418,8.749256145,0.033723297,158.1,249.9982,,-8.423656617
+2458144.638,53.31,1.255,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.392222471,0.000481841,8.742984897,0.029981464,158.6,249.9982,,-8.433378819
+2458144.641,53.564,1.263,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.3929575,0.000491904,8.749126031,0.029437872,155.9,249.9982,,-8.443018544
+2458145.615,53.089,1.253,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.396200904,0.000447159,8.739889249,0.032900038,167.2,249.9982,,-8.81207959
+2458145.618,54.68,1.245,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.39525991,0.000422335,8.741017782,0.031876451,174.4,249.9983,,-8.820863945
+2458145.622,53.774,1.218,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.396354717,0.000412755,8.743018858,0.033169111,180.8,249.9982,,-8.830753938
+2458172.525,21.246,1.337,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.392803342,0.000580342,8.74386525,0.028902765,131.6,249.9981,,-19.11821104
+2458173.525,27.425,1.178,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.396109424,0.000380603,8.748600451,0.030452778,195.9,249.9981,,-19.43414971
+2458174.529,19.946,1.139,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.392376312,0.00032992,8.746390107,0.030185386,225.9,249.9982,,-19.75568783
+2458175.53,15.667,1.182,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.392102448,0.000385285,8.749455433,0.030748147,193.6,249.9982,,-20.06293438
+2458195.526,-7.929,1.163,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.395254461,0.000358554,8.740389988,0.033686715,204.7,179.9982,,-24.76958878
+2458195.529,-5.717,1.186,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.394669768,0.000387904,8.738732576,0.03073379,189.7,179.9982,,-24.77606212
+2458195.531,-7.007,1.178,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.394420134,0.000380976,8.741294005,0.031278283,193.1,179.9982,,-24.78252844
+2458197.645,-12.357,1.254,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.391675325,0.000431966,8.752575996,0.033167445,165.6,239.9982,,-25.3477104
+2458197.648,-12.312,1.22,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.391949126,0.000396464,8.743701969,0.032550064,179.9,239.9982,,-25.35273233
+2458197.651,-11.541,1.254,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.392002095,0.000432706,8.743737676,0.031636943,165.0,239.9982,,-25.35763031
+2458223.529,-14.119,1.193,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.392852851,0.000396129,8.741222831,0.0338842,184.2,249.9982,,-26.29685458
+2458223.533,-14.775,1.213,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.392097879,0.00041027,8.744332006,0.031971804,176.6,249.9983,,-26.30319559
+2458223.536,-15.437,1.225,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.393405538,0.000426802,8.747083212,0.0296805,170.5,249.9983,,-26.30959207
+2458224.538,-15.347,1.151,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.392222415,0.000331185,8.742711755,0.033249709,217.9,249.9982,,-26.25379819
+2458224.541,-14.141,1.173,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.392548683,0.000363867,8.743209788,0.034653075,199.3,249.9982,,-26.25972102
+2458224.544,-14.003,1.165,La Silla Observatory,HD52265,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.392738778,0.000356317,8.744982616,0.032201391,204.1,249.9983,,-26.26564507

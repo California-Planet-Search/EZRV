@@ -1,0 +1,8 @@
+Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisector,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
+2455547.021390,-206.37,22.40,"Fred L. Whipple Observatory, Mt. Hopkins, Arizona",HATS-P-36,BJD-UTC,"Bakos et al. 2012 (arXiv, 1201, 0659)",TRES,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455550.042360,200.83,22.80,"Fred L. Whipple Observatory, Mt. Hopkins, Arizona",HATS-P-36,BJD-UTC,"Bakos et al. 2012 (arXiv, 1201, 0659)",TRES,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455554.993940,-293.87,11.40,"Fred L. Whipple Observatory, Mt. Hopkins, Arizona",HATS-P-36,BJD-UTC,"Bakos et al. 2012 (arXiv, 1201, 0659)",TRES,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455556.053880,-237.67,7.40,"Fred L. Whipple Observatory, Mt. Hopkins, Arizona",HATS-P-36,BJD-UTC,"Bakos et al. 2012 (arXiv, 1201, 0659)",TRES,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455557.055330,240.83,24.60,"Fred L. Whipple Observatory, Mt. Hopkins, Arizona",HATS-P-36,BJD-UTC,"Bakos et al. 2012 (arXiv, 1201, 0659)",TRES,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455558.957410,-355.47,10.50,"Fred L. Whipple Observatory, Mt. Hopkins, Arizona",HATS-P-36,BJD-UTC,"Bakos et al. 2012 (arXiv, 1201, 0659)",TRES,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455559.996130,-199.97,17.70,"Fred L. Whipple Observatory, Mt. Hopkins, Arizona",HATS-P-36,BJD-UTC,"Bakos et al. 2012 (arXiv, 1201, 0659)",TRES,Emission Reference Spectrum (ThAr),Wright,,,,,,,,

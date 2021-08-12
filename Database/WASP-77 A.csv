@@ -1,0 +1,34 @@
+Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisector,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
+2455069.780300,1324.60,4.90,"ESO La Silla, Chile",WASP-77 A,BJD-UTC,"Maxted et al. 2013 (2013, PASP, 125, 48)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455163.609100,1336.20,5.20,"ESO La Silla, Chile",WASP-77 A,BJD-UTC,"Maxted et al. 2013 (2013, PASP, 125, 48)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455169.692000,1967.30,4.90,"ESO La Silla, Chile",WASP-77 A,BJD-UTC,"Maxted et al. 2013 (2013, PASP, 125, 48)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455170.662500,1570.60,5.30,"ESO La Silla, Chile",WASP-77 A,BJD-UTC,"Maxted et al. 2013 (2013, PASP, 125, 48)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455188.625800,1969.60,5.40,"ESO La Silla, Chile",WASP-77 A,BJD-UTC,"Maxted et al. 2013 (2013, PASP, 125, 48)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455856.709500,1865.50,5.30,"ESO La Silla, Chile",WASP-77 A,BJD-UTC,"Maxted et al. 2013 (2013, PASP, 125, 48)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455914.678300,1710.50,4.30,"ESO La Silla, Chile",WASP-77 A,BJD-UTC,"Maxted et al. 2013 (2013, PASP, 125, 48)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455915.677500,1332.80,4.40,"ESO La Silla, Chile",WASP-77 A,BJD-UTC,"Maxted et al. 2013 (2013, PASP, 125, 48)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455916.668100,1708.70,4.80,"ESO La Silla, Chile",WASP-77 A,BJD-UTC,"Maxted et al. 2013 (2013, PASP, 125, 48)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455917.650000,1954.40,4.70,"ESO La Silla, Chile",WASP-77 A,BJD-UTC,"Maxted et al. 2013 (2013, PASP, 125, 48)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455918.664500,1554.20,6.50,"ESO La Silla, Chile",WASP-77 A,BJD-UTC,"Maxted et al. 2013 (2013, PASP, 125, 48)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455832.861500,1462.60,2.00,"ESO La Silla, Chile",WASP-77 A,BJD-UTC,"Maxted et al. 2013 (2013, PASP, 125, 48)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455832.904000,1511.10,2.40,"ESO La Silla, Chile",WASP-77 A,BJD-UTC,"Maxted et al. 2013 (2013, PASP, 125, 48)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455832.911000,1523.30,2.50,"ESO La Silla, Chile",WASP-77 A,BJD-UTC,"Maxted et al. 2013 (2013, PASP, 125, 48)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455889.745800,1406.30,3.60,"ESO La Silla, Chile",WASP-77 A,BJD-UTC,"Maxted et al. 2013 (2013, PASP, 125, 48)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455890.537000,2022.00,3.70,"ESO La Silla, Chile",WASP-77 A,BJD-UTC,"Maxted et al. 2013 (2013, PASP, 125, 48)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455890.738600,1865.60,4.10,"ESO La Silla, Chile",WASP-77 A,BJD-UTC,"Maxted et al. 2013 (2013, PASP, 125, 48)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455891.572100,1767.00,4.40,"ESO La Silla, Chile",WASP-77 A,BJD-UTC,"Maxted et al. 2013 (2013, PASP, 125, 48)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455891.746800,1988.50,4.60,"ESO La Silla, Chile",WASP-77 A,BJD-UTC,"Maxted et al. 2013 (2013, PASP, 125, 48)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455832.862,-197.223,1.342,La Silla Observatory,WASP-77A,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.457178038,0.001462218,7.073476339,0.036931294,58.2,600.0056,,12.32166273
+2455832.871,1086.26,5.812,La Silla Observatory,WASP-77A,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.608927996,0.004240424,6.250840366,0.018362017,23.5,550.0058,,12.29784636
+2455832.889,1080.836,6.475,La Silla Observatory,WASP-77A,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.609234907,0.004782977,6.332811783,0.037308263,20.8,550.0059,,12.25211717
+2455832.897,1084.002,6.48,La Silla Observatory,WASP-77A,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.596521265,0.004508019,6.340530539,0.016374067,21.0,550.0059,,12.23399931
+2455832.905,-147.534,1.558,La Silla Observatory,WASP-77A,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.453236351,0.001658461,7.091083156,0.035528095,50.8,500.0059,,12.21523431
+2455832.912,-130.867,1.619,La Silla Observatory,WASP-77A,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.453518007,0.0017197,7.091666739,0.041626459,49.0,500.0055,,12.19947991
+2455889.747,-249.857,2.175,La Silla Observatory,WASP-77A,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.450128092,0.002345868,7.580415274,-0.001956332,36.3,599.9994,,-14.2555928
+2455890.538,361.853,2.277,La Silla Observatory,WASP-77A,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.448677091,0.002383168,7.570381681,-0.006962141,35.4,299.9995,,-14.11066588
+2455890.546,1058.941,6.379,La Silla Observatory,WASP-77A,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.610855103,0.00454558,7.121168115,-0.019423638,21.3,599.9997,,-14.13150837
+2455890.739,210.276,2.44,La Silla Observatory,WASP-77A,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.450458182,0.002640664,7.594124883,-0.012814086,33.0,300.0053,,-14.67467452
+2455891.573,107.204,2.647,La Silla Observatory,WASP-77A,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.44833638,0.002813707,7.567158037,-0.008316844,30.7,300.0052,,-14.63914817
+2455891.748,329.443,2.771,La Silla Observatory,WASP-77A,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.45414024,0.002919499,7.556365221,-0.003647298,30.1,300.0053,,-15.12506795
+2457302.819,12.859,2.393,La Silla Observatory,WASP-77A,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.59619126,0.005330601,7.291635222,-0.067188432,17.9,899.9983,,8.455169865
+2457303.859,-168.149,8.654,La Silla Observatory,WASP-77A,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.592652047,0.011009158,7.198184943,-0.039729434,9.5,899.9983,,7.886783669

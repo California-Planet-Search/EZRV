@@ -1,0 +1,10 @@
+Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisector,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
+2454986.087289,68.42,4.48,"Mauna Kea, Hawaii",Kepler-6,BJD,"Dunham et al. 2010 (ApJ, 713, 136L)",HIRES,Iodine,Wright,,,,,,,,
+2454987.087348,-59.94,4.59,"Mauna Kea, Hawaii",Kepler-6,BJD,"Dunham et al. 2010 (ApJ, 713, 136L)",HIRES,Iodine,Wright,,,,,,,,
+2454988.077695,-67.64,4.75,"Mauna Kea, Hawaii",Kepler-6,BJD,"Dunham et al. 2010 (ApJ, 713, 136L)",HIRES,Iodine,Wright,,,,,,,,
+2454989.019649,48.64,4.64,"Mauna Kea, Hawaii",Kepler-6,BJD,"Dunham et al. 2010 (ApJ, 713, 136L)",HIRES,Iodine,Wright,,,,,,,,
+2454995.112273,18.56,4.79,"Mauna Kea, Hawaii",Kepler-6,BJD,"Dunham et al. 2010 (ApJ, 713, 136L)",HIRES,Iodine,Wright,,,,,,,,
+2455014.881155,51.75,4.54,"Mauna Kea, Hawaii",Kepler-6,BJD,"Dunham et al. 2010 (ApJ, 713, 136L)",HIRES,Iodine,Wright,,,,,,,,
+2455015.984052,-34.79,4.65,"Mauna Kea, Hawaii",Kepler-6,BJD,"Dunham et al. 2010 (ApJ, 713, 136L)",HIRES,Iodine,Wright,,,,,,,,
+2455017.067098,-75.84,4.94,"Mauna Kea, Hawaii",Kepler-6,BJD,"Dunham et al. 2010 (ApJ, 713, 136L)",HIRES,Iodine,Wright,,,,,,,,
+2455044.019956,50.59,5.42,"Mauna Kea, Hawaii",Kepler-6,BJD,"Dunham et al. 2010 (ApJ, 713, 136L)",HIRES,Iodine,Wright,,,,,,,,

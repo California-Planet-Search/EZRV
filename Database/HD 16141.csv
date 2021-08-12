@@ -1,0 +1,149 @@
+Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisector,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
+2450365.988831,-16.2,2.4,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2450715.107685,16.0,2.3,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2450786.833877,17.0,2.5,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2450806.894502,-6.8,2.3,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2450837.738947,-4.8,2.5,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2450838.714977,2.1,1.9,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2450839.737917,1.1,2.2,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451010.117674,8.6,2.3,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451013.117095,15.7,2.4,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451043.074688,-10.6,2.7,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451044.103322,-7.7,2.6,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451050.997627,-9.6,2.6,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451068.954977,-1.2,1.7,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451070.103079,-1.4,2.6,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451070.981157,-1.3,2.8,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451071.996262,4.2,2.3,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451072.968877,0.3,2.4,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451074.909583,6.9,2.2,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451170.810127,3.8,2.3,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451171.751690,6.2,2.5,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451172.846308,6.0,2.2,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451173.798206,-2.3,2.4,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451226.725949,8.1,2.1,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451227.726678,1.9,2.2,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451228.714850,6.9,2.3,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451368.124329,5.1,2.8,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451370.126424,3.1,2.7,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451371.117905,3.5,2.3,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451373.132616,4.3,2.0,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451374.117975,2.5,2.3,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451410.139039,-8.2,2.8,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451411.037153,-5.4,2.6,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451412.097245,-5.3,2.6,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451438.932650,-4.0,2.7,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451439.928067,0.0,2.5,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451440.935914,-3.9,2.4,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451441.936331,-5.1,2.4,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451543.855255,9.8,2.3,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451550.797106,7.0,2.4,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451551.799792,4.3,2.1,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451552.849977,6.3,2.2,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451580.727361,-8.7,2.6,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451581.760173,-7.3,1.9,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451582.720476,-8.6,1.8,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451583.735769,-5.1,1.7,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451585.733414,-1.5,2.3,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451757.082292,8.3,2.2,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451793.102674,-9.2,3.1,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451882.787535,-9.8,2.6,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451883.897060,-11.5,2.8,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451898.977361,6.8,2.1,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451899.929884,3.9,2.2,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451900.872917,6.8,3.0,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451973.724630,-1.2,2.2,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451974.727083,0.0,2.3,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2452133.137303,7.0,3.2,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2452134.046582,6.6,1.8,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2452242.826875,-17.5,2.6,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2452516.021007,15.3,2.7,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2452574.913079,-9.4,2.9,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2452835.126817,6.5,3.3,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2452851.129873,-3.2,3.0,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2452897.938657,17.0,2.6,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2452924.924734,-12.4,2.4,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2452987.754282,-4.9,3.9,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2452988.784919,-0.7,2.7,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2453016.759606,-8.9,3.7,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2453238.065995,-3.9,2.6,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2453301.899062,-6.4,2.7,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2453338.773970,-1.3,2.2,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2453368.849144,1.2,2.3,"Mauna Kea, Hawaii",HD 16141,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2450365.9888,-15.1,2.5,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2450715.1077,10.9,2.7,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2450786.8339,16.9,3.1,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2450806.8945,-10.4,2.9,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2450837.7389,-3.5,2.5,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2450838.7150,1.4,2.5,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2450839.7379,0.0,2.5,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451010.1177,10.6,2.5,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451013.1171,15.6,2.9,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451043.0747,-9.6,3.0,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451044.1033,-8.5,2.5,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451050.9976,-6.2,2.8,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451068.9550,2.8,2.2,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451070.1031,-0.3,2.4,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451070.9812,8.2,3.0,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451071.9963,2.4,3.1,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451072.9689,1.5,2.7,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451074.9096,4.2,2.8,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451170.8101,1.3,2.7,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451171.7517,0.7,2.6,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451172.8463,-1.8,2.8,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451173.7982,0.0,2.9,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451226.7259,4.4,2.4,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451227.7267,0.2,2.0,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451228.7149,6.0,2.5,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451368.1243,5.8,3.3,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451370.1264,-2.1,3.0,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451371.1179,2.4,2.7,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451373.1326,5.3,2.7,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451374.1180,4.0,3.1,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451410.1390,-3.9,2.8,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451411.0372,-2.5,3.0,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451412.0972,-5.5,3.3,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451438.9326,-3.2,3.1,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451439.9281,-0.6,3.0,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451440.9359,-5.0,3.0,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451441.9363,-4.4,2.8,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451543.8553,12.4,2.8,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451550.7971,4.1,3.0,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451551.7998,5.4,2.5,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451552.8500,7.9,2.8,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451580.7274,-7.0,2.8,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451581.7594,-8.9,2.1,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451582.7209,-9.9,2.0,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451583.7356,-7.4,2.1,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2451585.7334,-2.2,2.9,"Mauna Kea, Hawaii",HD 16141,JD,"Marcy et al. 2000 (ApJ, 536, L43)",HIRES,Iodine,Wright,,,,,,,,
+2454054.767,-12.377,0.892,La Silla Observatory,HD16141,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.409538901,0.000240194,7.269661016,-0.01031574,305.0,830.4998,,-9.16092445
+2455020.938,4.272,0.93,La Silla Observatory,HD16141,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.412011935,0.000373713,7.272190071,-0.011798956,202.9,269.9997,,26.5363591
+2455020.942,5.264,0.929,La Silla Observatory,HD16141,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.411417405,0.000373599,7.269698262,-0.009271301,202.6,269.9997,,26.52876907
+2455020.945,3.923,0.931,La Silla Observatory,HD16141,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.411305404,0.000379128,7.274475386,-0.009602078,199.8,269.9989,,26.52111235
+2457560.886,5.054,1.124,La Silla Observatory,HD16141,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.415806737,0.000505755,7.298971603,0.000235127,155.1,499.9983,,23.1299248
+2457560.892,6.522,1.117,La Silla Observatory,HD16141,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.416251057,0.000495856,7.299202416,0.000803797,158.5,499.9983,,23.12359473
+2457560.898,5.886,1.101,La Silla Observatory,HD16141,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.415895042,0.000462053,7.299110293,0.00077001,170.1,499.9983,,23.11663423
+2457610.83,-4.691,1.066,La Silla Observatory,HD16141,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.41698636,0.00038536,7.297058136,-0.000680731,204.9,499.9983,,27.45995345
+2457610.837,-4.846,1.073,La Silla Observatory,HD16141,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.41614256,0.000404677,7.295164132,-0.000690474,194.9,499.9983,,27.44575028
+2457610.843,-3.326,1.065,La Silla Observatory,HD16141,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.416457291,0.0003811,7.29661457,0.002380096,207.1,499.9983,,27.43136691
+2458003.857,0.241,1.075,La Silla Observatory,HD16141,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.411994059,0.000378714,7.29585873,-0.000640411,206.4,499.9982,,21.43989813
+2458003.863,0.059,1.068,La Silla Observatory,HD16141,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.412012626,0.000361374,7.297153292,0.000266672,216.4,499.9982,,21.42268894
+2458003.869,-2.066,1.076,La Silla Observatory,HD16141,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.41237454,0.00038058,7.296694874,-0.000974512,205.7,499.9982,,21.40524392
+2458082.692,-2.872,1.306,La Silla Observatory,HD16141,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.414528298,0.000754926,7.293493594,-0.003601649,103.6,99.9982,,-13.73511518
+2458082.694,-2.264,1.309,La Silla Observatory,HD16141,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.415145749,0.000754939,7.291299979,0.000672348,103.5,99.9982,,-13.73931698
+2458082.695,-0.485,1.335,La Silla Observatory,HD16141,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.414926992,0.000797779,7.295870506,0.000259739,98.3,99.9982,,-13.74369995
+2458082.697,0.423,1.302,La Silla Observatory,HD16141,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.414473532,0.000745428,7.294288924,-2.74e-05,104.9,99.9983,,-13.74778746
+2458082.698,-0.928,1.345,La Silla Observatory,HD16141,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.414672663,0.000804479,7.300327319,0.003176313,97.1,99.9982,,-13.75202899
+2458082.7,-3.135,1.309,La Silla Observatory,HD16141,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.414248647,0.0007612,7.29552537,-0.000102647,102.6,99.9982,,-13.75626823
+2458085.706,1.134,1.282,La Silla Observatory,HD16141,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.412005509,0.000723225,7.293733587,-0.000168873,108.4,119.9982,,-15.10168245
+2458085.708,0.633,1.253,La Silla Observatory,HD16141,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.412086541,0.000671119,7.290759575,-0.000102343,116.2,119.9982,,-15.10632869
+2458085.71,-1.824,1.23,La Silla Observatory,HD16141,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.412537505,0.000642473,7.294741665,-0.004062922,121.7,119.9982,,-15.11091605
+2458085.711,-1.99,1.256,La Silla Observatory,HD16141,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.411728241,0.00067637,7.294654124,-0.000218696,115.2,119.9983,,-15.11537259
+2458085.713,-1.244,1.261,La Silla Observatory,HD16141,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.410667473,0.000683727,7.292606843,-0.002470225,114.1,119.9982,,-15.12001791
+2458085.715,-0.483,1.264,La Silla Observatory,HD16141,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.411555608,0.000686766,7.295042773,-0.003542334,113.4,119.9983,,-15.1244582
+2458144.577,-3.978,1.065,La Silla Observatory,HD16141,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.415374825,0.000322831,7.296482086,-0.002432513,232.9,499.9982,,-29.06797892
+2458144.583,-4.115,1.096,La Silla Observatory,HD16141,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.414394658,0.000381935,7.294119015,0.00178976,194.6,499.9982,,-29.07985315
+2458144.589,-4.275,1.068,La Silla Observatory,HD16141,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.415216397,0.000327733,7.295832673,-0.000267782,228.7,499.9983,,-29.09025463
+2458145.562,-5.985,1.118,La Silla Observatory,HD16141,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.41724429,0.000478914,7.294729087,0.000506956,164.2,1199.9982,,-29.03339612
+2458174.509,11.739,1.062,La Silla Observatory,HD16141,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.416242434,0.000303766,7.297117745,0.000857602,241.0,499.9981,,-25.08292483
+2458175.509,13.795,1.091,La Silla Observatory,HD16141,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.413598557,0.000399144,7.29760547,-0.002639824,188.8,559.9982,,-24.82702429

@@ -1,0 +1,9 @@
+Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisector,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
+2455752.508900,-37975.00,19.00,"Observatoire de Haute Provence, France",Kepler-43,BJD-UTC,"Bonomo et al. 2011 (arXiv, 1110, 5462)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455753.465200,-37391.00,26.00,"Observatoire de Haute Provence, France",Kepler-43,BJD-UTC,"Bonomo et al. 2011 (arXiv, 1110, 5462)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455754.412700,-37362.00,29.00,"Observatoire de Haute Provence, France",Kepler-43,BJD-UTC,"Bonomo et al. 2011 (arXiv, 1110, 5462)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455773.390800,-37936.00,22.00,"Observatoire de Haute Provence, France",Kepler-43,BJD-UTC,"Bonomo et al. 2011 (arXiv, 1110, 5462)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455774.365800,-37551.00,19.00,"Observatoire de Haute Provence, France",Kepler-43,BJD-UTC,"Bonomo et al. 2011 (arXiv, 1110, 5462)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455802.344800,-37225.00,12.00,"Observatoire de Haute Provence, France",Kepler-43,BJD-UTC,"Bonomo et al. 2011 (arXiv, 1110, 5462)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455806.359500,-37783.00,19.00,"Observatoire de Haute Provence, France",Kepler-43,BJD-UTC,"Bonomo et al. 2011 (arXiv, 1110, 5462)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455807.334100,-37792.00,22.00,"Observatoire de Haute Provence, France",Kepler-43,BJD-UTC,"Bonomo et al. 2011 (arXiv, 1110, 5462)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,

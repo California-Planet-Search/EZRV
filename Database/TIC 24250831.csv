@@ -1,0 +1,6 @@
+Time,RV,Uncertainty,Observatory_Name,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisetor,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
+2453311.632,2.68,1.104,La Silla Observatory,GJ3072,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.714885717,0.001249889,6.177462869,0.043745256,67.9,463.4958,,-14.69992598
+2453321.682,1.757,1.081,La Silla Observatory,GJ3072,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.718638517,0.001457154,6.167277996,0.037390397,58.1,463.4775,,-19.0481636
+2454084.611,-2.826,1.539,La Silla Observatory,GJ3072,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.73097476,0.001823781,6.129507057,0.04999256,47.5,463.5014,,-28.09244276
+2456645.576,-1.235,1.096,La Silla Observatory,GJ3072,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.743092447,0.001308978,6.201377879,0.062009354,69.3,900.0006,,-28.56823103
+2457024.658,-29.482,4.464,La Silla Observatory,GJ3072,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.741939322,0.004706279,6.38492706,-0.006181055,19.0,900.0006,,-29.50325595

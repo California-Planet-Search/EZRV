@@ -1,0 +1,216 @@
+Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisector,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
+2450983.791690,-26.8,2.2,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451200.094155,28.4,2.6,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451310.928495,6.1,2.9,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451370.812130,-20.9,2.6,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451551.167650,-12.0,2.4,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451552.154861,-10.8,2.4,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451581.118669,0.3,2.7,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451582.085336,-0.2,2.5,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451583.064352,-0.2,2.5,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451584.104317,-1.1,2.7,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451585.026675,-0.3,1.6,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451586.024525,0.9,2.4,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451678.880150,18.9,2.6,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451679.897164,11.2,2.5,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451702.915347,27.4,2.5,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451703.809803,29.5,2.8,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451704.881852,26.2,2.8,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451705.881458,25.3,2.5,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451755.758646,23.9,2.8,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451884.163287,-21.9,2.4,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451898.170093,-25.4,2.6,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451899.175498,-27.0,2.5,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451900.171701,-25.8,2.3,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451901.179954,-24.9,2.4,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451972.109988,-27.4,2.4,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451973.135243,-24.0,2.5,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451974.135255,-28.9,2.4,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451975.144896,-32.3,2.6,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2451982.107905,-29.1,2.3,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2452002.980822,-22.4,3.0,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2452003.896921,-21.1,2.8,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2452009.044525,-23.6,2.9,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2452030.911528,-19.8,2.9,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2452062.824074,4.1,3.6,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2452094.772222,-2.6,2.9,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2452100.789213,1.4,2.5,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2452127.782604,16.1,2.6,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2452333.986354,2.0,3.2,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2452445.817188,-28.8,2.7,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2452654.163125,33.0,2.9,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2452683.014491,40.4,3.1,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2452712.038819,36.6,3.1,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2452776.921736,18.6,3.0,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2452806.735231,20.9,2.9,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2452834.761458,-3.3,2.9,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2452850.743553,-11.9,2.7,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2453071.941713,14.4,2.8,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2453153.837095,34.0,2.8,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2453180.874201,33.2,3.1,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2453195.785706,35.4,2.8,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2453239.737998,36.3,3.1,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2453399.099220,-7.7,1.9,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2453725.168611,46.9,2.5,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2453753.163773,37.9,2.3,"Mauna Kea, Hawaii",HD 114783,JD,"Butler et al. 2006 (ApJ, 646, 505)",HIRES,Iodine,Wright,,,,,,,,
+2450983.7917,-22.9,2.8,"Mauna Kea, Hawaii",HD 114783,JD,"Vogt et al. 2002 (ApJ, 568, 352)",HIRES,Iodine,Wright,,,,,,,,
+2451200.0942,29.1,2.8,"Mauna Kea, Hawaii",HD 114783,JD,"Vogt et al. 2002 (ApJ, 568, 352)",HIRES,Iodine,Wright,,,,,,,,
+2451310.9285,5.6,2.8,"Mauna Kea, Hawaii",HD 114783,JD,"Vogt et al. 2002 (ApJ, 568, 352)",HIRES,Iodine,Wright,,,,,,,,
+2451370.8121,-17.8,3.4,"Mauna Kea, Hawaii",HD 114783,JD,"Vogt et al. 2002 (ApJ, 568, 352)",HIRES,Iodine,Wright,,,,,,,,
+2451551.1677,-11.6,2.8,"Mauna Kea, Hawaii",HD 114783,JD,"Vogt et al. 2002 (ApJ, 568, 352)",HIRES,Iodine,Wright,,,,,,,,
+2451552.1549,-8.9,2.3,"Mauna Kea, Hawaii",HD 114783,JD,"Vogt et al. 2002 (ApJ, 568, 352)",HIRES,Iodine,Wright,,,,,,,,
+2451581.1187,3.2,2.5,"Mauna Kea, Hawaii",HD 114783,JD,"Vogt et al. 2002 (ApJ, 568, 352)",HIRES,Iodine,Wright,,,,,,,,
+2451582.0853,-0.2,2.5,"Mauna Kea, Hawaii",HD 114783,JD,"Vogt et al. 2002 (ApJ, 568, 352)",HIRES,Iodine,Wright,,,,,,,,
+2451583.0644,2.9,2.8,"Mauna Kea, Hawaii",HD 114783,JD,"Vogt et al. 2002 (ApJ, 568, 352)",HIRES,Iodine,Wright,,,,,,,,
+2451584.1043,2.1,2.5,"Mauna Kea, Hawaii",HD 114783,JD,"Vogt et al. 2002 (ApJ, 568, 352)",HIRES,Iodine,Wright,,,,,,,,
+2451585.0266,2.8,1.7,"Mauna Kea, Hawaii",HD 114783,JD,"Vogt et al. 2002 (ApJ, 568, 352)",HIRES,Iodine,Wright,,,,,,,,
+2451586.0245,4.8,2.7,"Mauna Kea, Hawaii",HD 114783,JD,"Vogt et al. 2002 (ApJ, 568, 352)",HIRES,Iodine,Wright,,,,,,,,
+2451678.8802,21.9,2.8,"Mauna Kea, Hawaii",HD 114783,JD,"Vogt et al. 2002 (ApJ, 568, 352)",HIRES,Iodine,Wright,,,,,,,,
+2451679.8972,10.8,2.6,"Mauna Kea, Hawaii",HD 114783,JD,"Vogt et al. 2002 (ApJ, 568, 352)",HIRES,Iodine,Wright,,,,,,,,
+2451702.9153,28.5,2.6,"Mauna Kea, Hawaii",HD 114783,JD,"Vogt et al. 2002 (ApJ, 568, 352)",HIRES,Iodine,Wright,,,,,,,,
+2451703.8098,29.9,2.5,"Mauna Kea, Hawaii",HD 114783,JD,"Vogt et al. 2002 (ApJ, 568, 352)",HIRES,Iodine,Wright,,,,,,,,
+2451704.8819,26.5,2.8,"Mauna Kea, Hawaii",HD 114783,JD,"Vogt et al. 2002 (ApJ, 568, 352)",HIRES,Iodine,Wright,,,,,,,,
+2451705.8815,28.8,2.7,"Mauna Kea, Hawaii",HD 114783,JD,"Vogt et al. 2002 (ApJ, 568, 352)",HIRES,Iodine,Wright,,,,,,,,
+2451755.7586,28.7,3.3,"Mauna Kea, Hawaii",HD 114783,JD,"Vogt et al. 2002 (ApJ, 568, 352)",HIRES,Iodine,Wright,,,,,,,,
+2451884.1633,-17.7,2.7,"Mauna Kea, Hawaii",HD 114783,JD,"Vogt et al. 2002 (ApJ, 568, 352)",HIRES,Iodine,Wright,,,,,,,,
+2451898.1701,-25.5,2.4,"Mauna Kea, Hawaii",HD 114783,JD,"Vogt et al. 2002 (ApJ, 568, 352)",HIRES,Iodine,Wright,,,,,,,,
+2451899.1755,-23.3,2.7,"Mauna Kea, Hawaii",HD 114783,JD,"Vogt et al. 2002 (ApJ, 568, 352)",HIRES,Iodine,Wright,,,,,,,,
+2451900.1717,-18.6,2.3,"Mauna Kea, Hawaii",HD 114783,JD,"Vogt et al. 2002 (ApJ, 568, 352)",HIRES,Iodine,Wright,,,,,,,,
+2451901.1800,-25.4,2.6,"Mauna Kea, Hawaii",HD 114783,JD,"Vogt et al. 2002 (ApJ, 568, 352)",HIRES,Iodine,Wright,,,,,,,,
+2451972.1100,-22.4,2.5,"Mauna Kea, Hawaii",HD 114783,JD,"Vogt et al. 2002 (ApJ, 568, 352)",HIRES,Iodine,Wright,,,,,,,,
+2451973.1352,-23.7,2.9,"Mauna Kea, Hawaii",HD 114783,JD,"Vogt et al. 2002 (ApJ, 568, 352)",HIRES,Iodine,Wright,,,,,,,,
+2451974.1353,-26.1,2.8,"Mauna Kea, Hawaii",HD 114783,JD,"Vogt et al. 2002 (ApJ, 568, 352)",HIRES,Iodine,Wright,,,,,,,,
+2451975.1449,-28.0,2.7,"Mauna Kea, Hawaii",HD 114783,JD,"Vogt et al. 2002 (ApJ, 568, 352)",HIRES,Iodine,Wright,,,,,,,,
+2451982.1079,-21.9,3.0,"Mauna Kea, Hawaii",HD 114783,JD,"Vogt et al. 2002 (ApJ, 568, 352)",HIRES,Iodine,Wright,,,,,,,,
+2452002.9808,-20.6,3.0,"Mauna Kea, Hawaii",HD 114783,JD,"Vogt et al. 2002 (ApJ, 568, 352)",HIRES,Iodine,Wright,,,,,,,,
+2452003.8969,-16.5,3.0,"Mauna Kea, Hawaii",HD 114783,JD,"Vogt et al. 2002 (ApJ, 568, 352)",HIRES,Iodine,Wright,,,,,,,,
+2452009.0445,-23.0,3.2,"Mauna Kea, Hawaii",HD 114783,JD,"Vogt et al. 2002 (ApJ, 568, 352)",HIRES,Iodine,Wright,,,,,,,,
+2452030.9115,-13.8,3.1,"Mauna Kea, Hawaii",HD 114783,JD,"Vogt et al. 2002 (ApJ, 568, 352)",HIRES,Iodine,Wright,,,,,,,,
+2452062.8241,8.2,4.0,"Mauna Kea, Hawaii",HD 114783,JD,"Vogt et al. 2002 (ApJ, 568, 352)",HIRES,Iodine,Wright,,,,,,,,
+2452094.7722,9.3,3.1,"Mauna Kea, Hawaii",HD 114783,JD,"Vogt et al. 2002 (ApJ, 568, 352)",HIRES,Iodine,Wright,,,,,,,,
+2452100.7892,1.4,3.0,"Mauna Kea, Hawaii",HD 114783,JD,"Vogt et al. 2002 (ApJ, 568, 352)",HIRES,Iodine,Wright,,,,,,,,
+2452127.7826,19.7,3.4,"Mauna Kea, Hawaii",HD 114783,JD,"Vogt et al. 2002 (ApJ, 568, 352)",HIRES,Iodine,Wright,,,,,,,,
+2453366.02839,-17.8,6.0,"McDonald Observatory, Texas",HD 114783,JD,"Wittenmyer et al. 2009 (ApJS, 182, 97)",HRS,Iodine,Wright,,,,,,,,
+2453368.02525,-25.3,5.5,"McDonald Observatory, Texas",HD 114783,JD,"Wittenmyer et al. 2009 (ApJS, 182, 97)",HRS,Iodine,Wright,,,,,,,,
+2453374.00882,-13.9,6.5,"McDonald Observatory, Texas",HD 114783,JD,"Wittenmyer et al. 2009 (ApJS, 182, 97)",HRS,Iodine,Wright,,,,,,,,
+2453378.99750,-16.3,5.3,"McDonald Observatory, Texas",HD 114783,JD,"Wittenmyer et al. 2009 (ApJS, 182, 97)",HRS,Iodine,Wright,,,,,,,,
+2453395.95201,-23.9,5.4,"McDonald Observatory, Texas",HD 114783,JD,"Wittenmyer et al. 2009 (ApJS, 182, 97)",HRS,Iodine,Wright,,,,,,,,
+2453399.94906,-25.0,5.2,"McDonald Observatory, Texas",HD 114783,JD,"Wittenmyer et al. 2009 (ApJS, 182, 97)",HRS,Iodine,Wright,,,,,,,,
+2453415.90535,-27.0,6.2,"McDonald Observatory, Texas",HD 114783,JD,"Wittenmyer et al. 2009 (ApJS, 182, 97)",HRS,Iodine,Wright,,,,,,,,
+2453416.96080,-27.8,5.7,"McDonald Observatory, Texas",HD 114783,JD,"Wittenmyer et al. 2009 (ApJS, 182, 97)",HRS,Iodine,Wright,,,,,,,,
+2453421.88527,-21.5,5.5,"McDonald Observatory, Texas",HD 114783,JD,"Wittenmyer et al. 2009 (ApJS, 182, 97)",HRS,Iodine,Wright,,,,,,,,
+2453423.88025,-29.5,5.9,"McDonald Observatory, Texas",HD 114783,JD,"Wittenmyer et al. 2009 (ApJS, 182, 97)",HRS,Iodine,Wright,,,,,,,,
+2453429.88531,-19.4,5.7,"McDonald Observatory, Texas",HD 114783,JD,"Wittenmyer et al. 2009 (ApJS, 182, 97)",HRS,Iodine,Wright,,,,,,,,
+2453436.92048,-22.8,5.6,"McDonald Observatory, Texas",HD 114783,JD,"Wittenmyer et al. 2009 (ApJS, 182, 97)",HRS,Iodine,Wright,,,,,,,,
+2453440.91863,-24.7,6.9,"McDonald Observatory, Texas",HD 114783,JD,"Wittenmyer et al. 2009 (ApJS, 182, 97)",HRS,Iodine,Wright,,,,,,,,
+2453446.81643,-20.4,5.2,"McDonald Observatory, Texas",HD 114783,JD,"Wittenmyer et al. 2009 (ApJS, 182, 97)",HRS,Iodine,Wright,,,,,,,,
+2453447.81352,-16.1,5.5,"McDonald Observatory, Texas",HD 114783,JD,"Wittenmyer et al. 2009 (ApJS, 182, 97)",HRS,Iodine,Wright,,,,,,,,
+2453448.81555,-13.6,5.6,"McDonald Observatory, Texas",HD 114783,JD,"Wittenmyer et al. 2009 (ApJS, 182, 97)",HRS,Iodine,Wright,,,,,,,,
+2453450.81211,-18.4,5.5,"McDonald Observatory, Texas",HD 114783,JD,"Wittenmyer et al. 2009 (ApJS, 182, 97)",HRS,Iodine,Wright,,,,,,,,
+2453451.82012,-22.9,5.2,"McDonald Observatory, Texas",HD 114783,JD,"Wittenmyer et al. 2009 (ApJS, 182, 97)",HRS,Iodine,Wright,,,,,,,,
+2453452.81032,-16.8,5.5,"McDonald Observatory, Texas",HD 114783,JD,"Wittenmyer et al. 2009 (ApJS, 182, 97)",HRS,Iodine,Wright,,,,,,,,
+2453455.78717,-20.4,5.3,"McDonald Observatory, Texas",HD 114783,JD,"Wittenmyer et al. 2009 (ApJS, 182, 97)",HRS,Iodine,Wright,,,,,,,,
+2453779.91198,6.9,5.7,"McDonald Observatory, Texas",HD 114783,JD,"Wittenmyer et al. 2009 (ApJS, 182, 97)",HRS,Iodine,Wright,,,,,,,,
+2454097.02928,27.2,5.7,"McDonald Observatory, Texas",HD 114783,JD,"Wittenmyer et al. 2009 (ApJS, 182, 97)",HRS,Iodine,Wright,,,,,,,,
+2454106.00717,32.2,6.0,"McDonald Observatory, Texas",HD 114783,JD,"Wittenmyer et al. 2009 (ApJS, 182, 97)",HRS,Iodine,Wright,,,,,,,,
+2454121.96750,24.7,5.3,"McDonald Observatory, Texas",HD 114783,JD,"Wittenmyer et al. 2009 (ApJS, 182, 97)",HRS,Iodine,Wright,,,,,,,,
+2454127.95124,28.9,5.3,"McDonald Observatory, Texas",HD 114783,JD,"Wittenmyer et al. 2009 (ApJS, 182, 97)",HRS,Iodine,Wright,,,,,,,,
+2454130.94440,35.9,5.3,"McDonald Observatory, Texas",HD 114783,JD,"Wittenmyer et al. 2009 (ApJS, 182, 97)",HRS,Iodine,Wright,,,,,,,,
+2454140.98702,26.0,5.7,"McDonald Observatory, Texas",HD 114783,JD,"Wittenmyer et al. 2009 (ApJS, 182, 97)",HRS,Iodine,Wright,,,,,,,,
+2454143.92794,21.4,6.0,"McDonald Observatory, Texas",HD 114783,JD,"Wittenmyer et al. 2009 (ApJS, 182, 97)",HRS,Iodine,Wright,,,,,,,,
+2454156.87064,35.6,5.8,"McDonald Observatory, Texas",HD 114783,JD,"Wittenmyer et al. 2009 (ApJS, 182, 97)",HRS,Iodine,Wright,,,,,,,,
+2454158.87301,34.8,5.8,"McDonald Observatory, Texas",HD 114783,JD,"Wittenmyer et al. 2009 (ApJS, 182, 97)",HRS,Iodine,Wright,,,,,,,,
+2454163.85683,38.2,5.8,"McDonald Observatory, Texas",HD 114783,JD,"Wittenmyer et al. 2009 (ApJS, 182, 97)",HRS,Iodine,Wright,,,,,,,,
+2454168.83901,42.2,5.6,"McDonald Observatory, Texas",HD 114783,JD,"Wittenmyer et al. 2009 (ApJS, 182, 97)",HRS,Iodine,Wright,,,,,,,,
+2454186.78882,32.9,5.0,"McDonald Observatory, Texas",HD 114783,JD,"Wittenmyer et al. 2009 (ApJS, 182, 97)",HRS,Iodine,Wright,,,,,,,,
+2454191.77547,36.7,5.2,"McDonald Observatory, Texas",HD 114783,JD,"Wittenmyer et al. 2009 (ApJS, 182, 97)",HRS,Iodine,Wright,,,,,,,,
+2453050.839,-3.013,0.905,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.507338155,0.000435879,6.081371341,0.004558035,179.9,899.996,,23.82075808
+2453167.444,23.034,3.47,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.507590375,0.003769392,6.090714654,0.012142323,19.9,59.9965,,-25.65722108
+2453167.445,25.458,3.106,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.50715438,0.003423959,6.096768414,0.005649457,22.1,60.0016,,-25.6598246
+2453167.446,22.639,3.327,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.506329309,0.003610965,6.086218648,0.00326388,20.7,60.0022,,-25.66240352
+2453167.447,19.929,3.292,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.515189203,0.003628875,6.076279667,0.008218903,21.0,60.0018,,-25.66499033
+2453167.448,25.436,2.902,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.507471775,0.003248539,6.098108708,0.000344122,23.4,60.0033,,-25.66756421
+2453167.449,30.979,3.058,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.503623287,0.003388475,6.088766304,0.014640796,22.3,60.0023,,-25.67017272
+2453167.45,25.271,3.295,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.503882469,0.0035988,6.105644125,-0.008403947,20.9,60.0033,,-25.67277852
+2453167.451,22.066,2.573,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.507034567,0.002929437,6.107002474,-0.003214544,26.1,60.0013,,-25.67545093
+2453167.452,27.01,2.82,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.50523013,0.00315643,6.090800633,0.006271462,24.1,60.0019,,-25.67805203
+2453167.453,21.681,3.393,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.510223713,0.003756144,6.080688327,0.000575883,20.1,60.0012,,-25.68069864
+2453167.454,28.154,3.493,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.505334235,0.003825558,6.097083854,0.008966332,19.6,60.0028,,-25.68334235
+2453167.455,21.274,4.331,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.512146078,0.004718435,6.101555987,-0.015567981,16.0,60.0019,,-25.68597904
+2453167.456,26.515,3.518,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.510535244,0.003868387,6.091924452,-0.002920803,19.5,60.002,,-25.68865028
+2453167.457,21.045,3.428,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.513009246,0.003855482,6.095599501,0.001435263,19.7,60.0024,,-25.69127889
+2453167.458,19.797,4.327,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.516309238,0.004697243,6.07956025,-0.005260825,16.1,60.0027,,-25.69395126
+2453167.459,25.171,3.88,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.509494494,0.00426928,6.081693928,0.001653965,17.7,60.0027,,-25.69669818
+2453167.461,25.988,3.332,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.519945133,0.003759818,6.074170961,0.005394853,20.4,60.0021,,-25.69940053
+2453167.462,26.856,3.213,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.50957527,0.003621817,6.103993228,0.020756928,20.9,59.9943,,-25.70204225
+2453167.463,27.573,2.831,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.502442953,0.003186324,6.089013417,-0.005679838,23.8,59.9959,,-25.70476009
+2453167.464,21.438,2.951,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.508614818,0.003354942,6.109857614,-0.000778846,22.8,60.002,,-25.70751158
+2453167.465,17.755,3.312,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.504384088,0.003706512,6.094439589,0.001883723,20.5,59.9959,,-25.7101831
+2453167.466,24.564,3.253,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.508339577,0.00365844,6.096952157,0.012851096,20.9,60.0016,,-25.7129296
+2453167.467,23.214,3.031,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.510756132,0.003423618,6.10887868,0.002530778,22.3,60.0021,,-25.71560148
+2453167.468,24.337,3.152,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.51692635,0.003590305,6.092529704,-0.001662157,21.3,60.002,,-25.71838216
+2453167.469,25.48,2.969,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.499772549,0.003340342,6.096309005,-0.008736813,22.7,59.995,,-25.72118297
+2453167.47,22.504,2.971,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.508930157,0.003399794,6.093828989,0.012483194,22.6,60.0006,,-25.72393133
+2453167.471,26.152,2.931,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.510047007,0.003355136,6.079823462,0.010612799,22.8,60.0008,,-25.72659794
+2453167.472,20.511,2.752,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.50614296,0.003187781,6.078313959,0.005780176,24.1,60.0019,,-25.72942238
+2453167.473,26.528,2.473,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.503093708,0.002866904,6.094028638,0.004044599,26.8,60.0019,,-25.73215111
+2453167.474,28.328,2.499,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.507611883,0.002883474,6.109805613,-0.006944138,26.7,59.997,,-25.7349428
+2453167.475,24.238,2.416,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.505230035,0.002821662,6.075228255,0.011137511,27.3,60.0027,,-25.73773071
+2453167.476,27.745,2.43,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.502867798,0.002817293,6.094828727,0.00282851,27.3,59.9968,,-25.74053425
+2453167.477,22.065,2.399,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.502260127,0.002771652,6.095588801,-0.00246516,27.7,60.0026,,-25.74334693
+2453167.478,22.823,2.49,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.507615856,0.002860806,6.102605249,0.009420845,26.8,60.0022,,-25.74612135
+2453167.48,21.685,2.513,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.505431869,0.002926998,6.094444332,0.003271585,26.4,60.0021,,-25.74888279
+2453167.481,21.946,2.35,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.503824278,0.002744252,6.088948099,0.003823603,28.1,60.0017,,-25.75170945
+2453167.482,28.136,2.386,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.503832184,0.002787939,6.09247266,0.004293297,27.7,60.002,,-25.75454657
+2453167.483,25.992,2.387,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.505010607,0.002776266,6.089840084,0.009320197,27.8,60.0025,,-25.75733509
+2453167.484,20.588,2.553,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.511554767,0.002975334,6.084279804,0.008444452,26.0,60.0026,,-25.76024605
+2453167.485,24.639,2.568,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.501178981,0.002973659,6.089859338,0.005485786,25.8,60.0021,,-25.76302734
+2453167.486,24.121,2.484,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.506316322,0.002919225,6.103228982,0.009573074,26.5,60.0018,,-25.76590593
+2453167.487,21.049,2.323,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.499484139,0.00275481,6.090895783,0.009754147,28.1,60.0015,,-25.76873487
+2453167.488,25.193,2.222,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.511223035,0.00264634,6.090476548,0.006458797,29.6,60.0022,,-25.77154975
+2453167.489,26.585,2.356,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.509397915,0.00282156,6.077283538,0.017174931,27.7,59.9964,,-25.77439217
+2453167.49,21.918,2.125,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.506590929,0.002556477,6.099872769,0.002196025,30.5,60.0026,,-25.77729977
+2453167.491,25.425,2.121,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.5017479,0.002534364,6.096134785,0.005644496,30.7,60.0027,,-25.78017945
+2453167.492,26.647,2.146,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.502777833,0.002577823,6.09225856,-0.001208174,30.2,60.002,,-25.78305367
+2453167.493,26.92,2.087,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.507657352,0.00251767,6.091294456,5.87e-05,31.0,59.996,,-25.78586173
+2453167.494,27.068,2.107,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.503131529,0.00251868,6.089345322,0.005212341,30.9,59.9965,,-25.7887652
+2453167.495,25.137,2.068,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.508168893,0.002474231,6.092466758,0.00944946,31.6,59.9961,,-25.79162843
+2453167.496,26.238,2.136,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.509884846,0.002583766,6.086223972,0.01109252,30.4,60.0019,,-25.79452176
+2453202.54,24.592,0.929,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.504478656,0.000389625,6.076693713,0.007183479,197.2,899.9962,,-29.28275045
+2453203.51,24.474,0.909,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.503695953,0.000324747,6.079657825,0.006062868,239.2,899.9772,,-29.17043575
+2453205.492,23.701,0.915,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.505003836,0.000352061,6.079325936,0.004307123,220.7,899.9958,,-29.00365843
+2453217.49,28.743,0.924,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.505749818,0.000380485,6.096046672,0.00733239,203.8,899.9999,,-27.54695314
+2453218.522,30.036,0.932,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.504851834,0.000400898,6.083840323,0.009600034,191.6,899.9773,,-27.43001577
+2453400.871,-30.765,0.937,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.501779827,0.00066058,6.066652924,0.005490633,118.5,899.9815,,27.88306825
+2453402.812,-32.877,0.816,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.507433089,0.000357095,6.065343097,0.004721599,220.2,900.0019,,27.60537878
+2453403.79,-32.397,0.905,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.506825759,0.000308977,6.06434632,0.001634143,253.6,813.5017,,27.43228929
+2453405.902,-30.242,0.903,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.507589503,0.00030609,6.062551058,0.003871348,259.7,700.0018,,26.64883161
+2453406.875,-30.363,0.865,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.507680463,0.000376868,6.062696568,0.003433472,211.0,813.5021,,26.46632734
+2453408.884,-31.539,0.911,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.508905057,0.000362305,6.066173086,0.003273583,220.5,705.0008,,25.90412937
+2453409.8,-34.352,0.808,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.508857879,0.00040717,6.068114876,0.002551619,193.7,813.4956,,25.85649507
+2453410.849,-31.414,0.934,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.504951782,0.000455014,6.067755473,0.005239325,174.6,700.0008,,25.43248922
+2453411.872,-31.209,0.93,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.509901192,0.000425535,6.067084543,0.004050045,185.4,813.495,,25.06948732
+2453412.878,-31.006,0.758,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.508353501,0.000525518,6.067728133,0.003121889,151.2,800.0007,,24.74577244
+2456700.777,9.505,0.504,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.506911195,0.000503056,6.096323071,0.00277639,162.9,899.9941,,24.78775229
+2456702.775,11.197,0.637,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.507185824,0.00048768,6.096127473,0.0016779,169.2,900.0008,,24.15909602
+2456703.806,6.553,0.569,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.503485755,0.000492085,6.096707334,0.004045128,167.6,900.0008,,23.74676839
+2456704.801,7.202,0.568,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.50733038,0.000494814,6.098471072,0.001995116,166.2,900.0003,,23.42449464
+2456737.834,-2.533,0.942,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.506506475,0.000467626,6.090986457,0.000495449,178.8,899.9937,,9.08842193
+2456740.687,-4.054,0.709,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.50615444,0.000380428,6.089502233,0.00176369,215.9,900.0001,,8.02409045
+2456744.855,-5.746,0.636,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.508984435,0.000454826,6.091757141,0.002431026,181.5,900.0007,,5.506154159
+2456756.738,-9.787,0.74,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.50104756,0.000400291,6.096717345,0.00241514,209.8,899.994,,-0.363256733
+2456758.718,-11.604,0.761,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.504778121,0.000449665,6.096677303,0.007083011,183.3,900.0021,,-1.327767254
+2456760.698,-12.774,0.555,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.507483209,0.000421537,6.092542867,0.003831388,196.3,900.0014,,-2.290161578
+2456808.656,-31.165,0.789,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.505518051,0.000552632,6.092659432,0.000790578,146.6,900.0014,,-23.07149975
+2456811.63,-30.821,0.945,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.506734216,0.000451498,6.092033426,0.003616448,181.5,900.001,,-23.91469392
+2457050.867,5.024,0.921,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.508340443,0.000394506,6.094964823,0.002491185,214.3,900.0021,,28.39713978
+2457079.788,11.631,0.694,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.506566737,0.000437694,6.092470427,0.00240024,190.3,900.002,,19.83361347
+2457082.855,13.803,0.878,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.505582678,0.000373415,6.093788566,0.003578231,227.4,900.0018,,18.39981943
+2457101.824,19.605,0.916,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.508938976,0.000462296,6.086846139,0.000211534,181.4,900.0008,,9.737703668
+2457137.664,21.671,0.669,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.505746545,0.000399378,6.089087061,0.003311266,207.6,900.0002,,-8.097429027
+2457141.585,18.282,0.753,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.504474109,0.000367755,6.080988395,0.000412923,222.5,900.0009,,-9.794933938
+2457147.752,21.73,0.974,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.505179788,0.000533726,6.088889649,-0.00200481,152.7,900.0,,-13.05654038
+2457201.509,19.201,1.088,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.505398511,0.000668257,6.116908948,0.02051306,129.6,899.9983,,-28.61070971
+2457204.574,21.013,0.82,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.507401338,0.000382783,6.117310307,0.022013824,217.3,899.9983,,-29.05048495
+2457462.681,-5.804,0.515,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.512581455,0.000369067,6.101681037,0.018162875,229.9,899.9983,,12.22529724
+2457465.67,-5.172,0.449,La Silla Observatory,GJ3769,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.509157622,0.000426506,6.101815889,0.016597937,200.4,899.9983,,10.7942105

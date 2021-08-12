@@ -1,0 +1,9 @@
+Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisector,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
+2454227.5199,7721.4,12.2,"Observatoire de Haute Provence (OHP), France",HAT-P-5,BJD,"Bakos et al. 2007 (ApJ, 671, L173)",SOPHIE,Thorium Argon,Wright,,,,,,,,
+2454228.5949,7457.4,22.3,"Observatoire de Haute Provence (OHP), France",HAT-P-5,BJD,"Bakos et al. 2007 (ApJ, 671, L173)",SOPHIE,Thorium Argon,Wright,,,,,,,,
+2454229.6098,7710.4,17.2,"Observatoire de Haute Provence (OHP), France",HAT-P-5,BJD,"Bakos et al. 2007 (ApJ, 671, L173)",SOPHIE,Thorium Argon,Wright,,,,,,,,
+2454230.4900,7603.8,22.4,"Observatoire de Haute Provence (OHP), France",HAT-P-5,BJD,"Bakos et al. 2007 (ApJ, 671, L173)",SOPHIE,Thorium Argon,Wright,,,,,,,,
+2454231.6088,7521.3,14.3,"Observatoire de Haute Provence (OHP), France",HAT-P-5,BJD,"Bakos et al. 2007 (ApJ, 671, L173)",SOPHIE,Thorium Argon,Wright,,,,,,,,
+2454233.6057,7579.4,15.1,"Observatoire de Haute Provence (OHP), France",HAT-P-5,BJD,"Bakos et al. 2007 (ApJ, 671, L173)",SOPHIE,Thorium Argon,Wright,,,,,,,,
+2454234.5210,7510.5,21.3,"Observatoire de Haute Provence (OHP), France",HAT-P-5,BJD,"Bakos et al. 2007 (ApJ, 671, L173)",SOPHIE,Thorium Argon,Wright,,,,,,,,
+2454255.5171,7680.5,9.8,"Observatoire de Haute Provence (OHP), France",HAT-P-5,BJD,"Bakos et al. 2007 (ApJ, 671, L173)",SOPHIE,Thorium Argon,Wright,,,,,,,,

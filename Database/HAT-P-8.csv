@@ -1,0 +1,11 @@
+Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisector,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
+2454336.83041,-240.9,4.3,"Mauna Kea, Hawaii",HAT-P-8,BJD,"Latham et al. 2009 (ApJ, 704, 1107)",HIRES,Iodine,Wright,,,,,,,,
+2454337.79687,-47.4,3.9,"Mauna Kea, Hawaii",HAT-P-8,BJD,"Latham et al. 2009 (ApJ, 704, 1107)",HIRES,Iodine,Wright,,,,,,,,
+2454337.91459,-19.4,3.8,"Mauna Kea, Hawaii",HAT-P-8,BJD,"Latham et al. 2009 (ApJ, 704, 1107)",HIRES,Iodine,Wright,,,,,,,,
+2454338.80841,+27.0,3.6,"Mauna Kea, Hawaii",HAT-P-8,BJD,"Latham et al. 2009 (ApJ, 704, 1107)",HIRES,Iodine,Wright,,,,,,,,
+2454338.91425,0.0,3.6,"Mauna Kea, Hawaii",HAT-P-8,BJD,"Latham et al. 2009 (ApJ, 704, 1107)",HIRES,Iodine,Wright,,,,,,,,
+2454339.79280,-243.7,3.4,"Mauna Kea, Hawaii",HAT-P-8,BJD,"Latham et al. 2009 (ApJ, 704, 1107)",HIRES,Iodine,Wright,,,,,,,,
+2454343.86602,-100.9,4.4,"Mauna Kea, Hawaii",HAT-P-8,BJD,"Latham et al. 2009 (ApJ, 704, 1107)",HIRES,Iodine,Wright,,,,,,,,
+2454344.99747,+21.4,4.6,"Mauna Kea, Hawaii",HAT-P-8,BJD,"Latham et al. 2009 (ApJ, 704, 1107)",HIRES,Iodine,Wright,,,,,,,,
+2454396.80973,+49.3,5.0,"Mauna Kea, Hawaii",HAT-P-8,BJD,"Latham et al. 2009 (ApJ, 704, 1107)",HIRES,Iodine,Wright,,,,,,,,
+2454427.80583,+61.6,5.5,"Mauna Kea, Hawaii",HAT-P-8,BJD,"Latham et al. 2009 (ApJ, 704, 1107)",HIRES,Iodine,Wright,,,,,,,,

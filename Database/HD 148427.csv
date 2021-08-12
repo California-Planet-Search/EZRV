@@ -1,0 +1,84 @@
+Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisector,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
+2452117.77468,3.02,5.84,"Lick Observatory, California",HD 148427,JD,"Fischer et al. 2009 (ApJ, 703, 1545)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2452121.73047,8.93,7.15,"Lick Observatory, California",HD 148427,JD,"Fischer et al. 2009 (ApJ, 703, 1545)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2452122.74609,0.73,4.99,"Lick Observatory, California",HD 148427,JD,"Fischer et al. 2009 (ApJ, 703, 1545)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2452470.75977,12.77,3.94,"Lick Observatory, California",HD 148427,JD,"Fischer et al. 2009 (ApJ, 703, 1545)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2452707.99301,28.24,3.50,"Lick Observatory, California",HD 148427,JD,"Fischer et al. 2009 (ApJ, 703, 1545)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2452795.82135,13.79,3.39,"Lick Observatory, California",HD 148427,JD,"Fischer et al. 2009 (ApJ, 703, 1545)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2453069.05859,17.30,5.59,"Lick Observatory, California",HD 148427,JD,"Fischer et al. 2009 (ApJ, 703, 1545)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2453130.97559,15.45,4.56,"Lick Observatory, California",HD 148427,JD,"Fischer et al. 2009 (ApJ, 703, 1545)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2453482.91224,-2.92,5.06,"Lick Observatory, California",HD 148427,JD,"Fischer et al. 2009 (ApJ, 703, 1545)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2453514.81401,-5.86,4.83,"Lick Observatory, California",HD 148427,JD,"Fischer et al. 2009 (ApJ, 703, 1545)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2453515.77733,-14.75,4.61,"Lick Observatory, California",HD 148427,JD,"Fischer et al. 2009 (ApJ, 703, 1545)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2453774.07313,8.72,5.17,"Lick Observatory, California",HD 148427,JD,"Fischer et al. 2009 (ApJ, 703, 1545)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2453775.06466,-2.58,5.11,"Lick Observatory, California",HD 148427,JD,"Fischer et al. 2009 (ApJ, 703, 1545)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2453953.67145,-11.12,4.99,"Lick Observatory, California",HD 148427,JD,"Fischer et al. 2009 (ApJ, 703, 1545)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2453954.67293,-4.05,4.61,"Lick Observatory, California",HD 148427,JD,"Fischer et al. 2009 (ApJ, 703, 1545)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2453988.64826,15.42,5.15,"Lick Observatory, California",HD 148427,JD,"Fischer et al. 2009 (ApJ, 703, 1545)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2453989.64802,10.30,5.48,"Lick Observatory, California",HD 148427,JD,"Fischer et al. 2009 (ApJ, 703, 1545)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2454196.94310,-18.46,4.76,"Lick Observatory, California",HD 148427,JD,"Fischer et al. 2009 (ApJ, 703, 1545)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2454255.88785,-23.03,3.60,"Lick Observatory, California",HD 148427,JD,"Fischer et al. 2009 (ApJ, 703, 1545)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2454310.74223,-6.88,4.23,"Lick Observatory, California",HD 148427,JD,"Fischer et al. 2009 (ApJ, 703, 1545)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2454549.03808,-23.48,4.66,"Lick Observatory, California",HD 148427,JD,"Fischer et al. 2009 (ApJ, 703, 1545)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2454574.91787,-21.97,4.91,"Lick Observatory, California",HD 148427,JD,"Fischer et al. 2009 (ApJ, 703, 1545)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2454578.89804,-30.23,3.05,"Lick Observatory, California",HD 148427,JD,"Fischer et al. 2009 (ApJ, 703, 1545)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2454606.89543,-12.78,4.42,"Lick Observatory, California",HD 148427,JD,"Fischer et al. 2009 (ApJ, 703, 1545)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2454622.86542,-16.01,4.29,"Lick Observatory, California",HD 148427,JD,"Fischer et al. 2009 (ApJ, 703, 1545)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2454723.66497,31.67,2.92,"Lick Observatory, California",HD 148427,JD,"Fischer et al. 2009 (ApJ, 703, 1545)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2454845.09173,-31.67,5.13,"Lick Observatory, California",HD 148427,JD,"Fischer et al. 2009 (ApJ, 703, 1545)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2454847.10053,-10.97,4.69,"Lick Observatory, California",HD 148427,JD,"Fischer et al. 2009 (ApJ, 703, 1545)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2454848.09531,-16.06,3.20,"Lick Observatory, California",HD 148427,JD,"Fischer et al. 2009 (ApJ, 703, 1545)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2454865.07943,-20.97,3.61,"Lick Observatory, California",HD 148427,JD,"Fischer et al. 2009 (ApJ, 703, 1545)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2454866.07445,-25.72,4.03,"Lick Observatory, California",HD 148427,JD,"Fischer et al. 2009 (ApJ, 703, 1545)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
+2457507.825,-4.35,1.03,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.467848763,0.000325504,6.710362911,0.047344082,244.7,499.9983,,14.17960338
+2457507.831,-6.361,1.026,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.46749531,0.000304764,6.711384799,0.048774777,260.8,499.9983,,14.16250146
+2457507.836,-5.437,1.041,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.467461639,0.000370379,6.709903564,0.04820849,214.9,499.9983,,14.14621143
+2457519.892,-20.614,2.675,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.458978584,0.00322207,6.693472189,0.041232007,28.6,635.5656,,8.408551992
+2457520.813,-13.142,1.822,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.466060976,0.001677895,6.695377026,0.036888547,48.3,499.9983,,8.117972765
+2457520.82,-13.34,1.385,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.468061198,0.001125465,6.686516828,0.047046245,71.6,499.9983,,8.100262463
+2457520.825,-13.507,1.264,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.468349305,0.000929568,6.690559749,0.049769433,86.5,499.9983,,8.085791712
+2457559.756,-6.417,1.045,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.464787356,0.000393556,6.688408899,0.047620031,199.5,499.9983,,-10.82251334
+2457559.763,-6.552,1.038,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.465929968,0.000366154,6.687182477,0.046542317,215.0,499.9983,,-10.83679901
+2457559.769,-5.01,1.044,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.46623221,0.000385743,6.686311281,0.047183049,203.6,499.9983,,-10.85067061
+2457560.595,-3.089,1.026,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.46561911,0.000335324,6.688860449,0.045408814,238.4,499.9983,,-10.83135779
+2457560.601,-3.723,1.025,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.465046312,0.000322874,6.689668399,0.044352826,247.3,499.9983,,-10.84871281
+2457560.607,-4.212,1.025,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.466165608,0.000326151,6.687591757,0.045439998,245.1,499.9983,,-10.86655189
+2457561.66,-1.749,1.035,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.466681791,0.000378503,6.683798201,0.044693306,212.2,499.9983,,-11.47814234
+2457561.666,-4.23,1.036,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.466679008,0.000381574,6.68580451,0.044814664,210.8,499.9983,,-11.49617797
+2457561.672,-3.957,1.035,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.466378381,0.000376923,6.686708541,0.045139574,213.7,499.9983,,-11.51392445
+2457587.636,5.445,0.759,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.459942558,0.00037275,6.686700043,0.045743114,211.5,499.9983,,-21.85485834
+2457587.643,8.563,0.77,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.460624875,0.000407349,6.686647012,0.044446069,194.1,499.9983,,-21.87065997
+2457587.649,9.577,0.759,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.460422924,0.000371253,6.6848257,0.046554291,212.1,499.9983,,-21.8860301
+2457610.572,14.03,1.039,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.46491789,0.00039606,6.685484377,0.045174011,202.0,499.9983,,-27.61910567
+2457610.578,10.328,1.041,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.465415506,0.000398723,6.685176056,0.046938782,200.0,499.9983,,-27.63363453
+2457610.584,8.154,1.045,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.465153286,0.000417218,6.687075042,0.04667731,191.8,499.9983,,-27.64800949
+2457611.469,7.933,1.018,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.465086135,0.000281484,6.686833336,0.045009517,283.4,499.9983,,-27.52206231
+2457611.476,6.518,1.032,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.464736777,0.000351368,6.684153192,0.046568115,226.8,499.9983,,-27.5395146
+2457611.482,7.275,1.021,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.464777225,0.000292424,6.684570525,0.046747182,271.9,499.9983,,-27.55522125
+2458004.502,23.941,1.103,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.464338119,0.000559396,6.685443295,0.047289069,140.2,499.9983,,-29.11013478
+2458004.508,25.874,1.098,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.464048554,0.000547193,6.684961129,0.050108658,143.3,499.9983,,-29.12286988
+2458004.514,28.751,1.088,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.464688028,0.000516438,6.687058188,0.045724739,151.7,499.9982,,-29.13560947
+2458145.868,-7.55,1.071,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.465844794,0.000467212,6.687610031,0.042651385,168.8,299.9982,,26.04472787
+2458145.872,-9.217,1.066,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.46472068,0.000455895,6.684599449,0.040803969,173.6,299.9982,,26.0405402
+2458145.875,-10.292,1.071,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.464440066,0.000474786,6.684967889,0.044647774,167.2,299.9983,,26.03631234
+2458196.834,-7.648,1.063,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.461638943,0.000466446,6.683680749,0.043697652,167.4,239.9982,,27.98498155
+2458196.837,-9.64,1.06,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.461724047,0.000456285,6.685380601,0.043622548,171.4,239.9982,,27.97705171
+2458196.84,-13.63,1.06,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.462306006,0.000459051,6.685261435,0.045961638,170.5,239.9983,,27.96928685
+2458220.88,-1.886,1.06,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.463096944,0.000444353,6.685749839,0.04485818,174.2,299.9983,,21.15823454
+2458220.884,-2.559,1.069,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.463612698,0.000472988,6.684248415,0.044284943,163.8,299.9982,,21.14730743
+2458220.888,-3.682,1.062,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.463363099,0.000453297,6.682921596,0.044653141,171.1,299.9983,,21.13740637
+2458223.91,-6.43,1.072,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.461327818,0.000481171,6.684099317,0.045731701,159.7,299.9982,,19.96819859
+2458223.914,-6.168,1.074,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.461172659,0.000484102,6.684116754,0.044129577,158.4,299.9983,,19.9586505
+2458223.918,-5.809,1.078,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.460925219,0.000490947,6.685070315,0.044135279,155.5,299.9983,,19.94939846
+2458224.825,-4.342,1.038,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.460758953,0.000368117,6.686773153,0.045195525,210.2,299.9983,,19.81839756
+2458224.829,-4.593,1.042,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.465370313,0.000377439,6.686832626,0.045668586,204.3,299.9982,,19.80717345
+2458224.833,-4.318,1.042,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.465228302,0.000376671,6.685687764,0.045992799,204.2,299.9983,,19.79626777
+2458241.845,-2.603,0.56,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.465953905,0.000376519,6.688245443,0.044487293,205.7,499.9982,,12.54629254
+2458241.851,-2.168,0.55,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.465375363,0.000348643,6.683827962,0.046229662,221.7,499.9983,,12.53026377
+2458241.857,-1.217,0.55,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.46599299,0.000345477,6.684925371,0.045168497,223.5,499.9982,,12.51357298
+2458249.882,11.39,1.159,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.465117492,0.000709916,6.683718551,0.044733026,107.4,249.9982,,8.704450679
+2458249.885,12.39,1.148,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.465862736,0.000676996,6.684904058,0.044453885,112.2,249.9982,,8.697478547
+2458249.888,9.064,1.157,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.464656926,0.000697652,6.686409413,0.045058149,109.0,249.9982,,8.690563951
+2458251.827,-4.668,1.876,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.466834467,0.001166383,6.686511161,0.049942935,66.8,299.9982,,7.870872255
+2458251.832,-1.84,1.928,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.46700704,0.001256542,6.681346729,0.046980503,62.2,449.9982,,7.857667023
+2458251.838,0.565,1.948,La Silla Observatory,HD148427,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.467149134,0.001274099,6.679594729,0.043605676,60.9,449.9982,,7.842857605

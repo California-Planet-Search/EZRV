@@ -1,0 +1,12 @@
+Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisector,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
+2455392.508500,6320.00,36.00,"Observatoire de Haute Provence, France",Kepler-40,BJD-UTC,"Santerne et al. 2011 (arXiv, 1101, 0196)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455395.518800,6755.00,69.00,"Observatoire de Haute Provence, France",Kepler-40,BJD-UTC,"Santerne et al. 2011 (arXiv, 1101, 0196)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455396.442200,6627.00,29.00,"Observatoire de Haute Provence, France",Kepler-40,BJD-UTC,"Santerne et al. 2011 (arXiv, 1101, 0196)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455398.503400,6411.00,27.00,"Observatoire de Haute Provence, France",Kepler-40,BJD-UTC,"Santerne et al. 2011 (arXiv, 1101, 0196)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455400.538900,6549.00,138.00,"Observatoire de Haute Provence, France",Kepler-40,BJD-UTC,"Santerne et al. 2011 (arXiv, 1101, 0196)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455401.493200,6850.00,166.00,"Observatoire de Haute Provence, France",Kepler-40,BJD-UTC,"Santerne et al. 2011 (arXiv, 1101, 0196)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455425.487200,6489.00,49.00,"Observatoire de Haute Provence, France",Kepler-40,BJD-UTC,"Santerne et al. 2011 (arXiv, 1101, 0196)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455431.348900,6695.00,86.00,"Observatoire de Haute Provence, France",Kepler-40,BJD-UTC,"Santerne et al. 2011 (arXiv, 1101, 0196)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455441.326100,6582.00,84.00,"Observatoire de Haute Provence, France",Kepler-40,BJD-UTC,"Santerne et al. 2011 (arXiv, 1101, 0196)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455442.443500,6634.00,34.00,"Observatoire de Haute Provence, France",Kepler-40,BJD-UTC,"Santerne et al. 2011 (arXiv, 1101, 0196)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455453.418400,6417.00,53.00,"Observatoire de Haute Provence, France",Kepler-40,BJD-UTC,"Santerne et al. 2011 (arXiv, 1101, 0196)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,

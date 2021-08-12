@@ -1,0 +1,11 @@
+Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisector,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
+2454934.841490,-1139.51,2.94,"Manua Kea, Hawaii",HAT-P-20,BJD-UTC,"Bakos et al. 2010 (arXiv, 1008, 3388)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454954.831750,-942.88,2.24,"Manua Kea, Hawaii",HAT-P-20,BJD-UTC,"Bakos et al. 2010 (arXiv, 1008, 3388)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454956.804810,1092.32,2.28,"Manua Kea, Hawaii",HAT-P-20,BJD-UTC,"Bakos et al. 2010 (arXiv, 1008, 3388)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454983.738510,-1151.02,2.39,"Manua Kea, Hawaii",HAT-P-20,BJD-UTC,"Bakos et al. 2010 (arXiv, 1008, 3388)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454984.740640,328.09,2.14,"Manua Kea, Hawaii",HAT-P-20,BJD-UTC,"Bakos et al. 2010 (arXiv, 1008, 3388)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454986.742960,-1225.77,2.34,"Manua Kea, Hawaii",HAT-P-20,BJD-UTC,"Bakos et al. 2010 (arXiv, 1008, 3388)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455107.152260,-870.02,4.89,"Manua Kea, Hawaii",HAT-P-20,BJD-UTC,"Bakos et al. 2010 (arXiv, 1008, 3388)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455109.057520,1233.55,3.76,"Manua Kea, Hawaii",HAT-P-20,BJD-UTC,"Bakos et al. 2010 (arXiv, 1008, 3388)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455191.102740,-1147.72,2.07,"Manua Kea, Hawaii",HAT-P-20,BJD-UTC,"Bakos et al. 2010 (arXiv, 1008, 3388)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455192.117540,1100.72,2.12,"Manua Kea, Hawaii",HAT-P-20,BJD-UTC,"Bakos et al. 2010 (arXiv, 1008, 3388)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,

@@ -1,0 +1,13 @@
+Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisector,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
+2455193.119250,6.67,1.87,"Manua Kea, Hawaii",HAT-P-26,BJD-UTC,"Hartman et al. 2010 (arXiv, 1010, 1008)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455194.160060,10.75,1.62,"Manua Kea, Hawaii",HAT-P-26,BJD-UTC,"Hartman et al. 2010 (arXiv, 1010, 1008)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455252.020170,2.23,1.89,"Manua Kea, Hawaii",HAT-P-26,BJD-UTC,"Hartman et al. 2010 (arXiv, 1010, 1008)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455285.146290,-7.14,2.58,"Manua Kea, Hawaii",HAT-P-26,BJD-UTC,"Hartman et al. 2010 (arXiv, 1010, 1008)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455320.845840,8.96,2.00,"Manua Kea, Hawaii",HAT-P-26,BJD-UTC,"Hartman et al. 2010 (arXiv, 1010, 1008)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455343.786490,-3.54,1.79,"Manua Kea, Hawaii",HAT-P-26,BJD-UTC,"Hartman et al. 2010 (arXiv, 1010, 1008)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455350.922720,4.54,2.18,"Manua Kea, Hawaii",HAT-P-26,BJD-UTC,"Hartman et al. 2010 (arXiv, 1010, 1008)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455351.914100,-6.17,1.70,"Manua Kea, Hawaii",HAT-P-26,BJD-UTC,"Hartman et al. 2010 (arXiv, 1010, 1008)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455372.772750,-6.44,1.65,"Manua Kea, Hawaii",HAT-P-26,BJD-UTC,"Hartman et al. 2010 (arXiv, 1010, 1008)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455373.757700,-9.14,1.71,"Manua Kea, Hawaii",HAT-P-26,BJD-UTC,"Hartman et al. 2010 (arXiv, 1010, 1008)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455374.916460,2.06,1.78,"Manua Kea, Hawaii",HAT-P-26,BJD-UTC,"Hartman et al. 2010 (arXiv, 1010, 1008)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455375.808510,6.63,1.71,"Manua Kea, Hawaii",HAT-P-26,BJD-UTC,"Hartman et al. 2010 (arXiv, 1010, 1008)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,

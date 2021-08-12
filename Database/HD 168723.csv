@@ -1,0 +1,302 @@
+Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisector,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
+2453239.75288,1.8715152,2.0315468,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",j: post-upgrade Keck HIRES (after August 19 2004),Iodine,Wright,,,,,,,,
+2453511.93743,3.4026983,2.2947245,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",j: post-upgrade Keck HIRES (after August 19 2004),Iodine,Wright,,,,,,,,
+2453512.92262,-4.5831103,2.4440122,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",j: post-upgrade Keck HIRES (after August 19 2004),Iodine,Wright,,,,,,,,
+2453523.9256,-5.7802477,2.6005981,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",j: post-upgrade Keck HIRES (after August 19 2004),Iodine,Wright,,,,,,,,
+2453541.90503,0.5244972,3.0403969,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",j: post-upgrade Keck HIRES (after August 19 2004),Iodine,Wright,,,,,,,,
+2453553.80283,-2.1220279,2.3334575,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",j: post-upgrade Keck HIRES (after August 19 2004),Iodine,Wright,,,,,,,,
+2453554.77805,1.9087415,2.5415611,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",j: post-upgrade Keck HIRES (after August 19 2004),Iodine,Wright,,,,,,,,
+2453555.84225,7.2669067,2.3863506,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",j: post-upgrade Keck HIRES (after August 19 2004),Iodine,Wright,,,,,,,,
+2453556.7873,-1.2431238,2.4743385,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",j: post-upgrade Keck HIRES (after August 19 2004),Iodine,Wright,,,,,,,,
+2453557.78533,-3.2520037,2.3623755,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",j: post-upgrade Keck HIRES (after August 19 2004),Iodine,Wright,,,,,,,,
+2453558.8043,-3.9919262,2.3958893,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",j: post-upgrade Keck HIRES (after August 19 2004),Iodine,Wright,,,,,,,,
+2453559.81008,-2.4954996,2.4790165,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",j: post-upgrade Keck HIRES (after August 19 2004),Iodine,Wright,,,,,,,,
+2453561.79785,-6.3803811,2.9074335,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",j: post-upgrade Keck HIRES (after August 19 2004),Iodine,Wright,,,,,,,,
+2453564.74077,-1.5023348,2.6652358,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",j: post-upgrade Keck HIRES (after August 19 2004),Iodine,Wright,,,,,,,,
+2453565.79075,-3.6015875,2.5377023,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",j: post-upgrade Keck HIRES (after August 19 2004),Iodine,Wright,,,,,,,,
+2453566.80745,-0.916361,2.643548,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",j: post-upgrade Keck HIRES (after August 19 2004),Iodine,Wright,,,,,,,,
+2453570.75288,0.8724598,2.6707869,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",j: post-upgrade Keck HIRES (after August 19 2004),Iodine,Wright,,,,,,,,
+2453590.71771,6.0282149,2.9663198,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",j: post-upgrade Keck HIRES (after August 19 2004),Iodine,Wright,,,,,,,,
+2453593.74371,-0.4234928,2.789319,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",j: post-upgrade Keck HIRES (after August 19 2004),Iodine,Wright,,,,,,,,
+2453595.73091,-10.7358437,3.0221713,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",j: post-upgrade Keck HIRES (after August 19 2004),Iodine,Wright,,,,,,,,
+2453596.72974,-2.8497663,2.6838636,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",j: post-upgrade Keck HIRES (after August 19 2004),Iodine,Wright,,,,,,,,
+2453923.79332,1.4857054,2.4213688,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",j: post-upgrade Keck HIRES (after August 19 2004),Iodine,Wright,,,,,,,,
+2453924.77876,15.3095331,2.3674998,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",j: post-upgrade Keck HIRES (after August 19 2004),Iodine,Wright,,,,,,,,
+2453926.76244,5.7638493,2.4719951,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",j: post-upgrade Keck HIRES (after August 19 2004),Iodine,Wright,,,,,,,,
+2453953.74543,-4.1443529,3.3269877,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",j: post-upgrade Keck HIRES (after August 19 2004),Iodine,Wright,,,,,,,,
+2453955.78404,0.7433252,3.4009054,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",j: post-upgrade Keck HIRES (after August 19 2004),Iodine,Wright,,,,,,,,
+2453957.7579,-15.2690325,2.5860708,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",j: post-upgrade Keck HIRES (after August 19 2004),Iodine,Wright,,,,,,,,
+2448780.91641,-8.1795425,5.1050067,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2448800.85316,5.1741629,5.4454722,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2448801.8359,17.7457275,7.5264006,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2448833.79124,-15.7870426,5.220552,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2448846.7942,-3.5273795,7.2007227,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2448855.6924,-19.0955601,6.3403792,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2448891.67222,-9.6861296,4.9647369,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2449124.9222,-1.3490696,7.2119551,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2449587.72123,-17.4776173,5.0018892,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2449601.6723,1.9882097,7.053369,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2449783.06973,2.8426604,3.2696607,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2449857.90258,-1.414253,2.2581742,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2449859.95801,29.2567558,4.9943686,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2449871.91711,7.2269721,2.4304361,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2449892.85227,24.3002472,2.787137,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2449956.66403,12.9591064,2.162605,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2450188.02246,-3.4488113,2.9618237,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2450200.96612,7.7702274,2.2246516,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2450613.87695,-12.4444857,3.8702343,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2450656.84473,-2.7687013,4.4825749,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2451014.80371,-9.2022696,4.3998852,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2451049.70898,3.0185695,4.44315,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2451377.80976,1.7937951,2.5764668,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2451379.84505,2.3028493,2.90764,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2451380.85806,20.3490639,2.9439685,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2451387.77197,3.967129,2.7607245,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2451389.82439,5.0502524,3.2983615,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2451446.62598,9.8251247,4.4342399,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2451629.03759,9.1221142,1.4945672,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2451752.78809,0.5130012,3.9966273,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2451814.62695,-1.4910042,4.080606,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2452001.03027,-1.008245,4.0888939,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2452073.83261,2.8584538,2.7856605,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2452142.70953,11.3117113,2.6131783,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2452147.70836,10.2010384,2.6487103,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2452449.87891,0.5172286,5.3655739,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2453121.99805,-1.0752802,3.6735582,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2453122.99414,-0.9967604,3.54919,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2453123.99316,8.6499119,3.6189084,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2453125.00977,10.2775955,3.6398668,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2453125.99987,6.4416556,2.4702268,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2453131.96484,19.2320137,3.6117613,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2453135.00586,12.5485582,3.8475771,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2453150.94455,13.1900043,2.0856574,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2453188.87091,13.7631121,1.8900883,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2453201.84234,0.4044449,1.831602,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2453220.81554,6.6378927,1.9943765,"Mauna Kea, Hawaii",HD 168723,HJD,"Howard & Fulton, 2016",k: pre-upgrade Keck HIRES (on or before August 19 2004),Iodine,Wright,,,,,,,,
+2449783.07232,24.998436,2.2394149,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2449857.90101,9.0690022,1.0464892,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2449859.95833,35.9405518,2.3343184,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2449871.91605,12.3165083,1.1514399,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2449892.85205,23.9049988,1.4707822,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2449956.66406,22.2935581,1.0195508,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2450188.02246,10.0500002,1.5700002,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2450200.96569,19.3233032,1.1307743,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2450613.87695,7.75,2.2,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2450656.84473,12.9300003,2.3499999,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2451014.80371,6.5500002,2.4000001,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2451049.70898,8.04,2.3099999,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2451377.80984,10.6154413,1.4386365,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2451379.84428,11.6522512,1.5265651,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2451380.85887,32.0364151,1.5756595,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2451387.77075,13.3401947,1.530874,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2451389.82478,7.5561757,1.7745706,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2451446.62598,20.2700005,2.3399999,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2451629.03701,18.2379494,0.8429281,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2451752.78809,11.4099998,2.24,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2451814.62695,14.2600002,2.4200001,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2452001.03027,5.7800002,2.4300001,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2452073.83341,16.7677078,1.4279182,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2452142.70931,18.7810211,1.4389492,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2452147.70858,19.436142,1.3746549,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453121.99805,-8.3299999,2.01,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453122.99414,-9.1400003,1.87,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453123.99316,0.68,2.03,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453125.00977,2.4200001,2.02,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453126.00116,-5.9257488,1.3470246,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453131.96484,4.52,1.9200001,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453135.00586,1.9400001,1.9299999,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453150.94534,0.4844315,1.1033903,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453188.87048,2.39955,1.0207338,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453201.84219,-9.6133337,0.9006664,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453220.81598,0.4619799,1.0551732,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453239.75285,-7.8626337,1.0616723,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453511.93743,6.9154205,1.2620519,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453512.92292,-3.8872499,1.2603891,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453523.92612,-6.8979492,1.3237282,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453541.90446,-2.3485923,1.5048929,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453553.8033,-3.8324859,1.3143065,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453554.77774,-0.1494378,1.3600651,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453555.84283,7.4412355,1.316353,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453556.78718,-6.3744664,1.2680606,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453557.78473,-6.893878,1.2674702,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453558.8042,-5.6164217,1.1509582,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453559.80966,-6.9063973,1.2830336,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453561.79749,-9.5242329,1.5175934,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453564.74024,-3.1724343,1.4515438,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453565.79136,-8.4181643,1.4232285,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453566.80779,-3.2583253,1.3823802,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453570.7537,2.1265476,1.4336141,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453590.71717,3.058367,1.5554421,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453593.74329,-7.0753803,1.4765848,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453595.73134,-5.9016051,1.5816003,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453596.72997,-7.9934855,1.4317733,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453923.79181,-1.5332754,1.2284251,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453924.77934,9.7750883,1.294116,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453926.76276,4.2634878,1.2159771,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453953.74543,-15.1700001,1.66,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453955.78404,-4.29,1.85,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453957.75739,-21.698101,1.2635894,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453988.70424,-3.0979695,1.392785,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2453989.74609,-13.5303097,1.2439656,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2454049.58901,-15.636569,1.2832673,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2454253.93419,-17.9060383,1.0162348,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2454311.8003,-0.9438359,1.2848376,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2454597.95784,-1.2881091,1.2620519,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2454598.94664,5.5900002,1.9500002,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2454606.93611,-15.5552616,1.2443445,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2454612.91306,-7.9463654,1.2052283,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2454622.95049,5.9962468,1.0491046,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2454640.86273,-12.8534126,1.2500921,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2454649.90034,-9.9427223,1.2727332,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2454650.84409,1.7269615,1.2485399,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2454661.82508,-5.8231125,0.7575771,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2454674.78665,-8.1263342,0.8269356,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2454697.81319,-13.5842314,0.962156,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2454722.7139,-1.9709382,0.9583778,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2455846.64983,-1.67,2.3099999,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
+2447048.7836,10.4300003,9.6099997,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",p: Hamilton Spectrograph dewar 16 (prior to November 1994),Iodine,Wright,,,,,,,,
+2448437.9322,5.5300002,9.3299999,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",p: Hamilton Spectrograph dewar 16 (prior to November 1994),Iodine,Wright,,,,,,,,
+2448745.9973,6.8800001,8.6000004,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",p: Hamilton Spectrograph dewar 16 (prior to November 1994),Iodine,Wright,,,,,,,,
+2448780.91615,6.75,5.1053104,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",p: Hamilton Spectrograph dewar 16 (prior to November 1994),Iodine,Wright,,,,,,,,
+2448800.85238,19.8667717,5.4482265,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",p: Hamilton Spectrograph dewar 16 (prior to November 1994),Iodine,Wright,,,,,,,,
+2448801.84556,31.4566307,5.5799451,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",p: Hamilton Spectrograph dewar 16 (prior to November 1994),Iodine,Wright,,,,,,,,
+2448833.79124,-1.0069373,5.2213621,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",p: Hamilton Spectrograph dewar 16 (prior to November 1994),Iodine,Wright,,,,,,,,
+2448846.795,7.9550905,5.6582713,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",p: Hamilton Spectrograph dewar 16 (prior to November 1994),Iodine,Wright,,,,,,,,
+2448855.68843,-1.1144645,4.9046297,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",p: Hamilton Spectrograph dewar 16 (prior to November 1994),Iodine,Wright,,,,,,,,
+2448891.67221,4.5509052,4.9627786,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",p: Hamilton Spectrograph dewar 16 (prior to November 1994),Iodine,Wright,,,,,,,,
+2448905.6836,-11.8699999,6.5700002,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",p: Hamilton Spectrograph dewar 16 (prior to November 1994),Iodine,Wright,,,,,,,,
+2449122.92526,7.3816552,5.9792743,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",p: Hamilton Spectrograph dewar 16 (prior to November 1994),Iodine,Wright,,,,,,,,
+2449124.9222,13.4300003,7.21,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",p: Hamilton Spectrograph dewar 16 (prior to November 1994),Iodine,Wright,,,,,,,,
+2449210.74297,1.8233515,5.7650256,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",p: Hamilton Spectrograph dewar 16 (prior to November 1994),Iodine,Wright,,,,,,,,
+2449481.9137,-13.6499996,12.8999996,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",p: Hamilton Spectrograph dewar 16 (prior to November 1994),Iodine,Wright,,,,,,,,
+2449587.72094,-4.3213744,5.0007982,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",p: Hamilton Spectrograph dewar 16 (prior to November 1994),Iodine,Wright,,,,,,,,
+2449601.66972,13.8926868,5.2541256,"Lick Observatory, California",HD 168723,HJD,"Howard & Fulton, 2016",p: Hamilton Spectrograph dewar 16 (prior to November 1994),Iodine,Wright,,,,,,,,
+2454238.929,-1.138,0.905,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.435630271,0.00024608,6.752527609,0.050435931,300.1,39.9952,,17.23055574
+2454238.93,-1.115,0.927,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.435763142,0.000305538,6.754601523,0.051898723,235.1,39.995,,17.22871144
+2454238.931,-1.065,0.915,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.435498739,0.000259958,6.753452148,0.051234223,273.4,39.9958,,17.2268643
+2454238.932,-0.222,0.909,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.435624521,0.000236754,6.751984297,0.050715062,300.3,39.9984,,17.22500565
+2454238.933,-1.923,0.901,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.435784006,0.000208077,6.752043766,0.051788366,343.1,39.9957,,17.22318709
+2454238.933,-1.692,0.902,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.436003965,0.000216861,6.753302151,0.051745659,332.5,39.9996,,17.22135074
+2454238.934,-0.883,0.908,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.435639976,0.000232703,6.753284617,0.051447344,304.4,40.0008,,17.21953477
+2454238.935,-0.653,0.902,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.435209466,0.000222219,6.752635631,0.052037747,325.3,39.9973,,17.21771039
+2454238.936,-0.712,0.902,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.435395216,0.000211985,6.752195601,0.051149269,336.3,39.9999,,17.21592105
+2454238.937,-1.383,0.909,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.435907058,0.000243656,6.75257562,0.051593002,294.4,39.9972,,17.21410699
+2454238.937,0.26,0.904,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.435219442,0.000232733,6.752861671,0.051738241,313.7,39.9953,,17.21235654
+2454238.938,0.101,0.909,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.435575063,0.000242568,6.752961209,0.051103734,294.3,39.9997,,17.21057793
+2454238.939,-0.076,0.908,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.435604571,0.000242555,6.752783881,0.051904905,296.6,39.9987,,17.20879197
+2454238.941,0.876,0.917,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.435893749,0.000266934,6.750519184,0.052365894,266.3,30.0005,,17.20566973
+2454238.941,0.523,0.918,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.436375091,0.000278818,6.751009466,0.051129124,259.1,30.0027,,17.20417347
+2454239.923,4.557,1.216,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440968521,0.000893726,6.752364734,0.049074027,82.2,29.9992,,16.86740939
+2454239.924,5.004,1.097,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.439960536,0.000703748,6.752360824,0.051814886,103.6,29.9975,,16.86573177
+2454239.925,6.521,1.178,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.441238728,0.000818203,6.757704543,0.046906546,88.8,29.9964,,16.86417166
+2454239.925,5.33,1.182,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440503971,0.00083142,6.754240049,0.05550816,87.8,30.0002,,16.86252848
+2454239.927,4.436,0.934,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440457468,0.000344952,6.751020318,0.050792784,210.3,50.0029,,16.85897682
+2454239.928,5.231,0.911,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440804691,0.000278767,6.752073302,0.050234185,266.0,49.9962,,16.85685256
+2454239.929,4.372,0.906,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.439692794,0.000265997,6.753362651,0.050943741,281.3,49.9993,,16.85475504
+2454239.93,4.439,0.909,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440471347,0.000278423,6.753382509,0.050336612,269.4,49.997,,16.85262794
+2454239.931,5.218,0.912,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440100426,0.000317152,6.753245388,0.050987226,243.7,50.0021,,16.85058402
+2454239.932,3.796,0.909,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440455004,0.000291417,6.754249245,0.05205844,261.3,50.0003,,16.84848337
+2454239.933,3.689,0.905,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.43980369,0.000269599,6.754475437,0.051413413,281.3,50.0006,,16.84643425
+2454239.934,3.851,0.906,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440518923,0.000273807,6.753429264,0.050850235,278.2,50.0004,,16.84439414
+2454239.935,3.269,0.9,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.439455124,0.000238767,6.75302265,0.053581988,314.3,50.0044,,16.84233988
+2454239.935,2.742,0.901,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.439988866,0.000251648,6.753461431,0.052269627,303.6,50.0042,,16.8403038
+2454239.936,3.195,0.901,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440379092,0.000256141,6.75377107,0.051872912,300.3,50.0044,,16.83829777
+2454239.937,2.917,0.901,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440527021,0.000257212,6.7535161,0.052769093,300.4,50.0041,,16.83628631
+2454239.938,3.178,0.901,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440105485,0.000241345,6.753142841,0.053195561,310.8,50.0035,,16.83426676
+2454239.939,2.082,0.899,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440263564,0.000230986,6.75340922,0.053617443,327.2,50.004,,16.83227038
+2454239.94,1.917,0.901,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.441081118,0.000263657,6.753010199,0.053448816,295.1,50.0004,,16.83031125
+2454239.941,1.347,0.899,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440841825,0.000244584,6.752035974,0.052764578,313.8,50.0,,16.82833184
+2454239.942,1.516,0.903,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440907727,0.000273055,6.751951091,0.053521539,287.0,50.0002,,16.82635081
+2454239.943,1.452,0.902,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440961543,0.000248539,6.752415865,0.053377255,303.0,50.0005,,16.82445333
+2454240.923,5.716,0.906,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440130017,0.000219939,6.747897354,0.053716567,321.1,29.9959,,16.48593353
+2454240.924,6.004,0.904,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.43973433,0.000228739,6.747928145,0.052537753,315.0,29.9973,,16.48430431
+2454240.925,6.567,0.905,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.439741031,0.000234719,6.748478227,0.05477804,307.6,30.0005,,16.48272119
+2454240.926,6.471,0.909,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.44003935,0.000254684,6.747302025,0.052679608,285.8,29.9966,,16.48112313
+2454240.926,6.687,0.911,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440141058,0.000251427,6.749724029,0.051823223,284.0,29.9994,,16.47954974
+2454240.927,7.479,0.917,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440182931,0.000276469,6.749195646,0.053091659,260.0,29.9987,,16.47796262
+2454240.928,7.034,0.911,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.439906574,0.000245086,6.747973521,0.052721005,290.2,29.9966,,16.47640271
+2454240.928,6.1,0.909,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440190113,0.00023583,6.748963368,0.052798434,300.1,29.9954,,16.47483308
+2454240.929,6.419,0.909,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.441163764,0.000259783,6.749135088,0.053921245,281.9,29.9953,,16.47327003
+2454240.93,6.178,0.913,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440371066,0.0002741,6.747302002,0.053132018,266.3,29.9987,,16.47170461
+2454240.931,7.286,0.91,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.439994133,0.000254998,6.748390927,0.054132648,282.0,29.9965,,16.4701627
+2454240.931,7.02,0.918,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440261714,0.000282744,6.749650358,0.052642821,254.3,29.9962,,16.46861138
+2454240.932,7.274,0.914,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440074282,0.000276141,6.749093022,0.055179317,262.9,29.996,,16.46706096
+2454240.933,6.141,0.915,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.44044875,0.000261471,6.747566268,0.054071725,271.7,29.9948,,16.46554396
+2454240.933,6.493,0.91,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440286098,0.000258098,6.748777938,0.053696845,281.6,29.9953,,16.46400547
+2454240.934,7.344,0.914,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440353521,0.000271509,6.747203719,0.05468252,266.7,29.9948,,16.46249223
+2454240.935,6.527,0.915,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440262179,0.000264709,6.748575735,0.052553282,268.8,29.9945,,16.4609653
+2454240.935,7.381,0.917,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440488941,0.000276904,6.749071759,0.053405031,259.3,29.9945,,16.45947145
+2454240.936,6.001,0.906,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.439948703,0.000233744,6.747850546,0.053893055,307.6,29.9958,,16.4579534
+2454240.937,6.485,0.906,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440292,0.000242402,6.746288065,0.05508747,299.9,29.9948,,16.4564543
+2454240.938,7.34,0.909,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.4402391,0.000248372,6.747832909,0.055252823,288.5,29.9948,,16.45495959
+2454240.938,6.269,0.905,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.43981997,0.000225659,6.74764722,0.054171266,315.4,29.9942,,16.45347929
+2454240.939,6.355,0.911,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440242225,0.000246227,6.748500582,0.053523356,288.3,29.9956,,16.45199677
+2454240.94,7.319,0.917,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440269201,0.000260035,6.747564108,0.053954923,269.8,29.9969,,16.45050667
+2454240.94,5.89,0.913,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440223504,0.000255646,6.751491221,0.053965911,277.5,29.9939,,16.44905033
+2454240.941,6.701,0.911,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.44015126,0.000251272,6.748769957,0.053180775,282.9,29.9944,,16.44756912
+2454241.922,-6.316,0.934,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440379231,0.000334909,6.752086198,0.054026504,214.7,29.9956,,16.1036712
+2454241.923,-4.588,0.93,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440538938,0.000339716,6.753070738,0.055448465,216.0,29.9966,,16.10209558
+2454241.923,-5.199,0.942,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440215469,0.000363505,6.75472977,0.053385305,198.9,29.9964,,16.1004956
+2454241.924,-4.956,0.938,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440428752,0.000353655,6.753489515,0.054144572,205.1,29.996,,16.09890817
+2454241.925,-5.335,0.929,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440813239,0.000344677,6.753152739,0.055226972,215.2,29.9949,,16.09732678
+2454241.926,-6.241,0.93,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.4406773,0.000334713,6.755592899,0.055354143,218.3,29.9962,,16.09574115
+2454241.926,-5.816,0.921,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440279907,0.000316515,6.754112635,0.05516941,234.8,29.9967,,16.09417624
+2454241.927,-5.155,0.929,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440571684,0.000346891,6.754037385,0.056128939,213.6,29.9963,,16.09260235
+2454241.928,-6.225,0.918,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.4401474,0.000304083,6.752669748,0.055442777,243.8,29.9965,,16.0910553
+2454241.928,-5.327,0.916,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440603224,0.000294736,6.75440475,0.054005653,250.8,29.9964,,16.08951102
+2454241.929,-5.372,0.921,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440429776,0.000297546,6.753390026,0.055916834,243.8,29.9969,,16.08798142
+2454241.93,-4.934,0.95,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440376063,0.000406474,6.752278032,0.055572783,181.3,29.9978,,16.08645616
+2454241.93,-4.667,0.933,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.439786455,0.000339952,6.755299753,0.055895857,213.9,29.9942,,16.08489881
+2454241.931,-4.347,0.937,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440852316,0.000352715,6.755690758,0.055092612,206.0,30.0,,16.08338358
+2454241.932,-4.715,0.926,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440487085,0.000318617,6.753514424,0.056263652,228.2,30.0016,,16.08184513
+2454241.933,-5.088,0.923,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440129554,0.000294671,6.754299931,0.056142748,243.4,30.001,,16.08034687
+2454241.933,-4.721,0.921,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440879807,0.000292644,6.753099681,0.057157413,246.8,29.9991,,16.07882678
+2454241.934,-4.525,0.919,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440749501,0.000296405,6.752781364,0.057148547,246.8,30.0021,,16.07733698
+2454241.935,-4.281,0.924,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.439883051,0.000310544,6.752815878,0.055845577,234.1,29.9961,,16.07583407
+2454241.935,-4.175,0.93,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.44028638,0.000325432,6.752088503,0.05634595,221.6,30.0017,,16.0743284
+2454241.936,-3.736,0.927,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440779989,0.000301007,6.752968155,0.056925185,235.2,29.9986,,16.07284342
+2454241.937,-3.935,0.92,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.441291061,0.000292257,6.753836866,0.055712799,247.2,30.0001,,16.07135749
+2454241.938,-3.021,0.915,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440790598,0.000292786,6.752023316,0.055229923,253.7,30.0012,,16.06987201
+2454241.938,-3.134,0.909,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440062719,0.000269852,6.753483928,0.054681959,276.9,29.9989,,16.06842267
+2454241.939,-3.161,0.911,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.441036461,0.000279186,6.751974501,0.055068755,268.5,29.9976,,16.06695064
+2454241.94,-1.921,0.921,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440372768,0.000310856,6.753308337,0.053505527,237.1,29.9986,,16.06550113
+2454241.94,-2.23,0.91,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.441349009,0.000275411,6.751523266,0.054902083,271.7,29.9951,,16.06404956
+2454241.941,-2.07,0.91,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440359209,0.000272922,6.752791291,0.055523395,272.6,29.9949,,16.06260356
+2454241.942,-1.928,0.911,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.441208341,0.000284463,6.752138497,0.05381069,265.0,29.9967,,16.06116125
+2454241.942,-0.725,0.915,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440538693,0.00029386,6.753273355,0.054930773,253.5,29.9963,,16.05974553
+2454243.917,2.543,0.928,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440117836,0.000290388,6.750765016,0.054473789,239.5,29.9956,,15.33204224
+2454243.918,3.104,0.915,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.439327919,0.000263178,6.749458906,0.054336414,270.6,29.9992,,15.33044771
+2454243.918,3.111,0.913,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.439582419,0.000269623,6.748902986,0.054256272,268.6,29.9983,,15.32886019
+2454243.919,3.198,0.923,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.439819116,0.000295347,6.74912988,0.05359867,243.1,29.9987,,15.32727473
+2454243.92,3.201,0.931,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.439536847,0.000309909,6.750768686,0.055423263,228.1,29.9975,,15.32568229
+2454243.92,2.601,0.929,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.439708507,0.000319215,6.747798557,0.053517068,224.7,30.0011,,15.32410888
+2454243.921,3.166,0.929,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440063696,0.000326367,6.750126563,0.05296049,222.4,29.999,,15.32253074
+2454243.922,3.737,0.937,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.439309738,0.000312018,6.750033517,0.053172598,222.3,29.9959,,15.32097876
+2454243.923,1.679,0.922,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.438741351,0.00031204,6.748923365,0.054732455,235.4,29.996,,15.31940899
+2454243.923,0.549,0.923,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.43934375,0.000288265,6.748638661,0.052885875,246.7,29.9997,,15.31785639
+2454243.924,1.655,0.922,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.439102134,0.000292884,6.750463439,0.052727963,245.7,29.9988,,15.31631097
+2454243.925,0.689,0.93,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.438633857,0.000303302,6.746709169,0.05445871,232.1,30.003,,15.31475574
+2454243.925,0.275,0.93,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.438895049,0.000318706,6.74707536,0.053738698,224.9,30.0002,,15.31322449
+2454243.926,-0.067,0.952,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.43950576,0.000360137,6.749990064,0.054436659,194.2,30.0009,,15.31167934
+2454243.927,-1.686,0.934,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.439397221,0.000338744,6.748163416,0.055093872,214.1,29.996,,15.31016408
+2454243.927,-2.848,0.933,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.439335985,0.000319471,6.748154495,0.05374263,222.5,30.0017,,15.30863778
+2454243.928,-3.254,0.93,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.438165715,0.000319471,6.749349055,0.054935973,225.8,29.9993,,15.30713176
+2454243.929,-2.84,0.93,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.439511438,0.000311227,6.75173575,0.054311373,229.6,29.9958,,15.30561621
+2454243.93,-7.303,0.937,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.438471254,0.000326955,6.749850334,0.053578118,216.8,29.9983,,15.3041284
+2454243.93,-3.982,0.937,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.439009144,0.000316286,6.751976815,0.054544395,222.1,29.9991,,15.30263047
+2454243.931,-7.984,0.936,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.438660943,0.000330794,6.751896733,0.052959025,216.7,29.9968,,15.3011404
+2454243.932,-5.121,0.934,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.438939325,0.000337356,6.752292305,0.053634095,215.6,29.9953,,15.29964848
+2454243.932,-5.116,0.948,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.439554218,0.000367733,6.75241824,0.054743031,195.6,29.9947,,15.29816909
+2454243.933,-10.475,0.963,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.43923605,0.000417586,6.750963264,0.055739235,173.2,29.9982,,15.29669661
+2454243.934,-9.622,0.961,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.439173768,0.00038215,6.755033278,0.05503528,184.4,29.995,,15.29521312
+2454243.935,-5.672,0.958,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.439273474,0.00039729,6.7526568,0.055070137,181.9,29.9963,,15.29374964
+2454243.935,-7.744,0.956,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.439446598,0.000404773,6.753692592,0.055781462,181.4,29.9977,,15.29230796
+2454243.936,-8.057,0.963,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.439579361,0.000414968,6.753420989,0.05523899,175.3,29.9986,,15.29085798
+2454243.937,-11.529,0.95,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.438821543,0.000387835,6.752430762,0.057714787,190.0,29.9969,,15.289412
+2454243.937,-9.262,0.957,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.439377954,0.000407566,6.753063385,0.056845967,180.9,29.9959,,15.28795101
+2454243.938,-10.179,0.972,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.439695084,0.000419936,6.754000869,0.057180609,170.7,29.9958,,15.28652561
+2454243.939,-5.899,0.98,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.438910479,0.000446729,6.756651315,0.054605339,161.6,29.9956,,15.28508817
+2454243.939,-8.07,0.964,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.439294413,0.000411183,6.753891121,0.056814221,177.0,29.9968,,15.28367579
+2454243.94,-7.924,0.985,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.439669589,0.000465614,6.756875045,0.057356521,156.6,29.9987,,15.28225711
+2454243.941,-10.762,0.993,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.439518983,0.000516649,6.756735277,0.058658131,145.1,29.9952,,15.28085441
+2454243.942,-10.291,0.991,La Silla Observatory,GJ711,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440164564,0.000480186,6.754774157,0.057550727,152.2,29.9942,,15.27946113
