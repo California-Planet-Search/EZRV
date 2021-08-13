@@ -193,3 +193,53 @@ Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrum
 2453164.496,-2.752,1.146,La Silla Observatory,HD92788,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.423968712,0.000822344,7.240421248,-0.025779593,89.7,100.0023,,-29.01422665
 2453164.498,-1.594,1.153,La Silla Observatory,HD92788,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.426799423,0.000812793,7.246452536,-0.025781302,89.9,100.0023,,-29.01776145
 2453369.869,-2.349,0.696,La Silla Observatory,HD92788,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.432549791,0.000251118,7.240392789,-0.025377829,300.7,899.9949,,26.85379617
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2452306.886,-4552.0,4.0,ESO La Silla,HD 92788,BJD,"Mayor et al. 2004 (A&A, 415, 391)",CORALIE,ThAr,Wright,,,,,,,NaN,
+2452320.733,-4558.0,4.0,ESO La Silla,HD 92788,BJD,"Mayor et al. 2004 (A&A, 415, 391)",CORALIE,ThAr,Wright,,,,,,,NaN,
+2452373.646,-4513.0,4.0,ESO La Silla,HD 92788,BJD,"Mayor et al. 2004 (A&A, 415, 391)",CORALIE,ThAr,Wright,,,,,,,NaN,
+2452462.472,-4386.0,3.0,ESO La Silla,HD 92788,BJD,"Mayor et al. 2004 (A&A, 415, 391)",CORALIE,ThAr,Wright,,,,,,,NaN,
+2452712.628,-4457.0,4.0,ESO La Silla,HD 92788,BJD,"Mayor et al. 2004 (A&A, 415, 391)",CORALIE,ThAr,Wright,,,,,,,NaN,
+2452306.886,-4552.0,4.0,ESO La Silla,HD 92788,BJD,"Mayor et al. 2004 (A&A, 415, 391)",CORALIE,ThAr,Wright,,,,,,,NaN,
+2452320.733,-4558.0,4.0,ESO La Silla,HD 92788,BJD,"Mayor et al. 2004 (A&A, 415, 391)",CORALIE,ThAr,Wright,,,,,,,NaN,
+2452373.646,-4513.0,4.0,ESO La Silla,HD 92788,BJD,"Mayor et al. 2004 (A&A, 415, 391)",CORALIE,ThAr,Wright,,,,,,,NaN,
+2452462.472,-4386.0,3.0,ESO La Silla,HD 92788,BJD,"Mayor et al. 2004 (A&A, 415, 391)",CORALIE,ThAr,Wright,,,,,,,NaN,
+2452712.628,-4457.0,4.0,ESO La Silla,HD 92788,BJD,"Mayor et al. 2004 (A&A, 415, 391)",CORALIE,ThAr,Wright,,,,,,,NaN,

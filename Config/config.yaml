@@ -11,7 +11,7 @@ input_dict : {"Time": "time",
            "Star_Name" : "star",
            "Time_Convention" : "time_system",
            "Reference" : "reference",
-           "Instrument" : "inst",
+           "Instrument" : "instr",
            "Wavelength_Calibration_Technique" : "constant:ThAr" ,
            "Source" : "source",
            "Halpha_Index" :"halpha",
@@ -23,6 +23,6 @@ input_dict : {"Time": "time",
            "Airmass":"constant:NaN",
            "Barycentric_Earth_Radial_Velocity":"barycentric_earth_rv"}
 
-
+retrieve_data : 'starname for desired data'
 
 #change dict to be from example file to our new structure
