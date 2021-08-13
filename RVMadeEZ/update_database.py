@@ -14,14 +14,13 @@ def update_database(file_name):
     data_dir = config['data_dir']
 
 
-    # df_database = need loop to read file names in our database
-
     df_input = pd.read_csv(file_name)
 
     database = glob.glob('../Database/*.csv')
 
     for i in range(10)
+        filename = database[i]
         starname = database[i][:-4]
         name = np.array(starname)
-        df = pd.DataFrame(data = name)
+        df = pd.DataFrame(data = filename , name)
         print(df)
