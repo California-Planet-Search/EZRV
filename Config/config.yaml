@@ -25,4 +25,5 @@ input_dict : {"Time": "time",
 
 retrieve_data : 'starname for desired data'
 
+
 #change dict to be from example file to our new structure

@@ -75,7 +75,7 @@ def update_database(file_name):
         # print(match_rows, df_update.iloc[match_rows])
     # #either appends existing file or creates new file
         if np.any(match_name) == True:
-            df_update.iloc[match_rows].to_csv(df_internal['filename'].iloc[match_name[0]], mode='a', index=False, header = None)
+            df_update.iloc[match_rows].to_csv(df_internal['filename'].iloc[match_name[0]], mode='a+', index=False, header = None)
             #
             # print([i],input_names[i], simbad_name_input, df_update[match_rows])
             # print(df_internal['filename'].iloc[match_name[0]])

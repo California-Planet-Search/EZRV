@@ -1,6 +1,7 @@
 import RVMadeEZ
-RVMadeEZ.update_database('Example/example_file.csv')
+#RVMadeEZ.update_database('Example/example_file.csv')
 
-# RVMadeEZ.update_internal_dataframe('Example/example_file.csv')
-# RVMadeEZ.update_headers('Example/example_file.csv')
+RVMadeEZ.retrieve_data(input_star_name)
+
+
 #later change to run on every file

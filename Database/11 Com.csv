@@ -1,50 +1,50 @@
 Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisector,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
-2453002.2791,-201700.00,5700.00,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
-2453101.0241,178700.00,4600.00,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
-2453216.0035,74500.00,7900.00,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
-2453334.3172,-184500.00,5500.00,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
-2453340.3401,-160200.00,4600.00,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
-2453364.3191,-76900.00,7900.00,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
-2453366.2249,-76600.00,5200.00,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
-2453367.2333,-79300.00,5400.00,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
-2453376.3243,-12500.00,4700.00,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
-2453403.2636,65300.00,5100.00,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
-2453424.1132,150700.00,5100.00,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
-2453447.1803,232500.00,4600.00,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
-2453468.0504,251200.00,5600.00,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
-2453495.1120,293400.00,4500.00,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
-2453521.0884,212500.00,7500.00,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
-2453577.9651,-217700.00,6200.00,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
-2453694.3575,-38200.00,5000.00,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
-2453728.3204,63200.00,5100.00,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
-2453743.3484,127700.00,5000.00,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
-2453775.2089,241600.00,4700.00,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
-2453810.1629,311600.00,3900.00,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
-2453831.1262,301000.00,4500.00,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
-2453853.1393,188700.00,5800.00,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
-2453887.0520,-148500.00,5700.00,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
-2454051.3576,43800.00,4600.00,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
-2454088.3683,189000.00,4800.00,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
-2454121.2706,239600.00,5900.00,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
-2454143.2374,274500.00,4000.00,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
-2453420.2939,195400.00,33500.00,Xinglong Station,11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",CES,Iodine,Wright,,,,,,,,
-2453422.2517,126700.00,36200.00,Xinglong Station,11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",CES,Iodine,Wright,,,,,,,,
-2453422.2627,112000.00,33100.00,Xinglong Station,11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",CES,Iodine,Wright,,,,,,,,
-2453511.0423,281900.00,29900.00,Xinglong Station,11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",CES,Iodine,Wright,,,,,,,,
-2453514.0647,249400.00,25600.00,Xinglong Station,11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",CES,Iodine,Wright,,,,,,,,
-2453514.0779,304800.00,20600.00,Xinglong Station,11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",CES,Iodine,Wright,,,,,,,,
-2453775.2678,243100.00,30600.00,Xinglong Station,11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",CES,Iodine,Wright,,,,,,,,
-2453778.3433,220600.00,30300.00,Xinglong Station,11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",CES,Iodine,Wright,,,,,,,,
-2453839.1013,229100.00,36600.00,Xinglong Station,11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",CES,Iodine,Wright,,,,,,,,
-2453839.1229,204400.00,18600.00,Xinglong Station,11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",CES,Iodine,Wright,,,,,,,,
-2453839.1462,246700.00,31800.00,Xinglong Station,11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",CES,Iodine,Wright,,,,,,,,
-2453841.1569,227500.00,28900.00,Xinglong Station,11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",CES,Iodine,Wright,,,,,,,,
-2453891.0521,-124400.00,18300.00,Xinglong Station,11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",CES,Iodine,Wright,,,,,,,,
-2453894.0998,-178100.00,22700.00,Xinglong Station,11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",CES,Iodine,Wright,,,,,,,,
-2454045.3959,78700.00,21100.00,Xinglong Station,11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",CES,Iodine,Wright,,,,,,,,
-2454046.3706,58300.00,26700.00,Xinglong Station,11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",CES,Iodine,Wright,,,,,,,,
-2454132.3744,249100.00,30900.00,Xinglong Station,11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",CES,Iodine,Wright,,,,,,,,
-2454132.3976,253200.00,19700.00,Xinglong Station,11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",CES,Iodine,Wright,,,,,,,,
+2453002.279,-201700,5700,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
+2453101.024,178700,4600,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
+2453216.004,74500,7900,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
+2453334.317,-184500,5500,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
+2453340.34,-160200,4600,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
+2453364.319,-76900,7900,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
+2453366.225,-76600,5200,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
+2453367.233,-79300,5400,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
+2453376.324,-12500,4700,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
+2453403.264,65300,5100,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
+2453424.113,150700,5100,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
+2453447.18,232500,4600,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
+2453468.05,251200,5600,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
+2453495.112,293400,4500,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
+2453521.088,212500,7500,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
+2453577.965,-217700,6200,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
+2453694.358,-38200,5000,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
+2453728.32,63200,5100,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
+2453743.348,127700,5000,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
+2453775.209,241600,4700,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
+2453810.163,311600,3900,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
+2453831.126,301000,4500,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
+2453853.139,188700,5800,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
+2453887.052,-148500,5700,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
+2454051.358,43800,4600,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
+2454088.368,189000,4800,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
+2454121.271,239600,5900,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
+2454143.237,274500,4000,"Okayama Astrophysical Observatory (OAO), Japan",11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",HIDES,Iodine,Wright,,,,,,,,
+2453420.294,195400,33500,Xinglong Station,11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",CES,Iodine,Wright,,,,,,,,
+2453422.252,126700,36200,Xinglong Station,11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",CES,Iodine,Wright,,,,,,,,
+2453422.263,112000,33100,Xinglong Station,11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",CES,Iodine,Wright,,,,,,,,
+2453511.042,281900,29900,Xinglong Station,11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",CES,Iodine,Wright,,,,,,,,
+2453514.065,249400,25600,Xinglong Station,11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",CES,Iodine,Wright,,,,,,,,
+2453514.078,304800,20600,Xinglong Station,11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",CES,Iodine,Wright,,,,,,,,
+2453775.268,243100,30600,Xinglong Station,11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",CES,Iodine,Wright,,,,,,,,
+2453778.343,220600,30300,Xinglong Station,11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",CES,Iodine,Wright,,,,,,,,
+2453839.101,229100,36600,Xinglong Station,11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",CES,Iodine,Wright,,,,,,,,
+2453839.123,204400,18600,Xinglong Station,11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",CES,Iodine,Wright,,,,,,,,
+2453839.146,246700,31800,Xinglong Station,11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",CES,Iodine,Wright,,,,,,,,
+2453841.157,227500,28900,Xinglong Station,11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",CES,Iodine,Wright,,,,,,,,
+2453891.052,-124400,18300,Xinglong Station,11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",CES,Iodine,Wright,,,,,,,,
+2453894.1,-178100,22700,Xinglong Station,11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",CES,Iodine,Wright,,,,,,,,
+2454045.396,78700,21100,Xinglong Station,11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",CES,Iodine,Wright,,,,,,,,
+2454046.371,58300,26700,Xinglong Station,11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",CES,Iodine,Wright,,,,,,,,
+2454132.374,249100,30900,Xinglong Station,11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",CES,Iodine,Wright,,,,,,,,
+2454132.398,253200,19700,Xinglong Station,11 Com,JD,"Liu et al. 2008 (ApJ, 672, 553)",CES,Iodine,Wright,,,,,,,,
 2457559.571,33.157,1.042,La Silla Observatory,HD107383,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.403660686,0.000257428,8.037604347,0.053918466,262.6,89.9983,,-28.03019462
 2457559.572,33.134,1.042,La Silla Observatory,HD107383,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.404172748,0.000254575,8.038433013,0.05288559,265.3,89.9983,,-28.03289874
 2457559.574,32.964,1.04,La Silla Observatory,HD107383,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.403705079,0.000253667,8.035586028,0.053072181,267.8,89.9983,,-28.0355295
@@ -53,7 +53,7 @@ Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrum
 2457559.578,32.756,1.047,La Silla Observatory,HD107383,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.403599845,0.000270191,8.036056966,0.053104111,248.8,89.9983,,-28.04333147
 2457559.579,33.454,1.048,La Silla Observatory,HD107383,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.403457382,0.000273533,7.995572162,0.055210511,246.8,89.9983,,-28.04593515
 2457559.581,33.378,1.051,La Silla Observatory,HD107383,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.403512985,0.000280666,7.996402127,0.054008767,239.9,89.9983,,-28.04849949
-2457559.582,33.494,1.049,La Silla Observatory,HD107383,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.40403806,0.000276464,8.034446152,0.054353024,243.0,89.9983,,-28.05105525
+2457559.582,33.494,1.049,La Silla Observatory,HD107383,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.40403806,0.000276464,8.034446152,0.054353024,243,89.9983,,-28.05105525
 2457559.583,34.083,1.049,La Silla Observatory,HD107383,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.403520411,0.00027454,8.036261802,0.053874791,245.1,89.9983,,-28.05356963
 2457559.585,33.302,1.048,La Silla Observatory,HD107383,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.403506586,0.000269058,8.034287353,0.052901661,248.9,89.9983,,-28.05606083
 2457559.586,32.869,1.046,La Silla Observatory,HD107383,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.403389309,0.000265083,8.034814501,0.052518162,253.7,89.9983,,-28.05853562
@@ -91,7 +91,7 @@ Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrum
 2458145.888,-143.933,1.048,La Silla Observatory,HD107383,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.406983521,0.000268501,7.962777256,0.063252713,256.8,89.9983,,22.15386542
 2458145.889,-143.837,1.053,La Silla Observatory,HD107383,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.407458842,0.00026961,8.004230958,0.062361927,251.7,89.9982,,22.14995465
 2458171.753,-55.03,1.094,La Silla Observatory,HD107383,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.40378481,0.00030447,8.071906403,0.050807597,240.9,89.9981,,12.11187013
-2458171.755,-55.36,1.101,La Silla Observatory,HD107383,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.403811923,0.000318274,8.06292423,0.05405144,226.0,89.9982,,12.10802671
+2458171.755,-55.36,1.101,La Silla Observatory,HD107383,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.403811923,0.000318274,8.06292423,0.05405144,226,89.9982,,12.10802671
 2458171.756,-53.957,1.103,La Silla Observatory,HD107383,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.403809697,0.000330988,8.068846323,0.054138523,220.7,89.9982,,12.10408988
 2458171.757,-54.478,1.112,La Silla Observatory,HD107383,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.403486889,0.000326364,8.06519851,0.055915586,216.1,89.9981,,12.10015308
 2458171.759,-54.203,1.113,La Silla Observatory,HD107383,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.404283125,0.000337249,8.062976503,0.053250686,209.2,89.9982,,12.09611063
@@ -110,7 +110,7 @@ Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrum
 2458224.651,120.165,1.063,La Silla Observatory,HD107383,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.410996684,0.000355128,7.97918171,0.060050492,196.7,89.9982,,-13.0026557
 2458224.653,120.149,1.06,La Silla Observatory,HD107383,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.40974337,0.000341482,7.979800003,0.056626335,203.2,89.9982,,-13.00673103
 2458224.654,120.575,1.063,La Silla Observatory,HD107383,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.410137906,0.000351396,7.976832249,0.060694729,197.9,89.9982,,-13.01074679
-2458224.656,119.878,1.059,La Silla Observatory,HD107383,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.410592555,0.000338491,7.976271146,0.059438789,205.0,89.9983,,-13.01482268
+2458224.656,119.878,1.059,La Silla Observatory,HD107383,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.410592555,0.000338491,7.976271146,0.059438789,205,89.9983,,-13.01482268
 2458224.657,119.614,1.059,La Silla Observatory,HD107383,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.411070528,0.000347037,7.978930649,0.058091565,201.7,89.9982,,-13.01880727
 2458224.658,120.022,1.057,La Silla Observatory,HD107383,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.410650197,0.000349377,7.977043726,0.058873178,202.3,89.9983,,-13.02291543
 2458224.66,119.91,1.06,La Silla Observatory,HD107383,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.410445843,0.000395282,7.977858318,0.058718587,186.7,89.9982,,-13.02688642
