@@ -1,14 +1,14 @@
 from setuptools import setup
 
 setup(
-    name='RVMadeEZ',
+    name='EZRV',
     version='0.1.0',
     description='A Packages that keeps track of Exoplanet RV data',
-    url='https://github.com/California-Planet-Search/RVMadeEZ.git',
+    url='https://github.com/California-Planet-Search/EZRV.git',
     author='Sarah Lange & Fei Dai',
     author_email='fdai@caltech.edu',
     license='MIT License',
-    packages=['RVMadeEZ'],
+    packages=['EZRV'],
     install_requires=['astropy',
                       'numpy',
                       'barycorrpy',

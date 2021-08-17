@@ -70,12 +70,20 @@ def update_database(file_name):
         simbad_name_input = np.array(table['ID'][0], 'str')
 
         match_name = np.where(simbad_name_input == database_names)[0]
-        match_rows = np.where(unqiue_input_names[i] == input_names)[0]
+        match_rows = np.where((unqiue_input_names[i] == input_names) & )[0]
+
+        #finish! by:
+        #to avoid duplciation
+        #(names are same & time is outside 1 or 2 minutes) or (names the same and instrument not same and time within 5 minutes!)
+        #design example file so these are reflected
+
+
 
         # print(match_rows, df_update.iloc[match_rows])
     # #either appends existing file or creates new file
         if np.any(match_name) == True:
-            df_update.iloc[match_rows].to_csv(df_internal['filename'].iloc[match_name[0]], mode='a+', index=False, header = None)
+            df_update.iloc[match_rows].to_csv(df_internal['filename'].iloc[match_name[0]], mode='a', index=False, header = None)
+
             #
             # print([i],input_names[i], simbad_name_input, df_update[match_rows])
             # print(df_internal['filename'].iloc[match_name[0]])
