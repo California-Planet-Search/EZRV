@@ -1,1 +1,22 @@
-Observatory_Site,Latitude,Longitutde,Altitude(m)Apache Point,32.780278,-105.820278,2788Bohyunsan Optical Astronomy Observatory,36.16416667,128.9783333,1160Calar Alto Observatory,37.223611,-2.546111,2168ESO La Silla,-29.25,-70.73,2400ESO VLT,-24.6273,-70.40417,2635Fred L. Whipple Observatory,31.6811,-110.878,2606La Palma,28.7636,-17.8947,2396Las Campanas Observatory,-29.01597,-70.69208,2380Lick Observatory,37.341389,-121.642778,1283Manua Kea,19.8222,-155.4749,4205McDonald Observatory,30.6714,-104.022,2077Observatoire de Haute Provence,43.9308,5.7133,650Observatorio del Roque de los Muchacho,28.7636,-17.8947,2396Okayama Astrophysical Observatory,34.57606,133.59409,370Siding Springs Observatory,-31.273333,149.064444,1165Smithsonian Center for Astrophysics,42.381345,-71.127706,12Thuringer Landessternwarte Tautenburg (TLS),50.980111,11.711167,341
+Observatory_Site,Latitude,Longitutde,Altitude(m)
+"Apache Point Observatory, New Mexico",32.780278,-105.820278,2788
+"Bohyunsan Optical Astronomy Observatory (BOAO), Korea",36.16416667,128.9783333,1160
+"Calar Alto Observatory, Andalucia, Spain",37.223611,-2.546111,2168
+"Cerro Paranal Observatory, Chile",-24.6273,-70.40417,2635
+"Dominion Astrophysical Observatory (DAO), British Columbia",48.520286,-123.418147,227
+"ESO La Silla, Chile",-29.25,-70.73,2400
+"ESO VLT Paranal Observatory, Chile",-24.6273,-70.40417,2635
+"Erwin W. Fick Observatory, Ames, Iowa",42.005611,-93.943944,314
+"Fred L. Whipple Observatory (FLWO), Mt. Hopkins, Arizona",31.6811,-110.878,2606
+"Kitt Peak National Observatory (KPNO), Arizona",31.9583,-111.5967,"2,096"
+"Las Campanas Observatory, Chile",-29.01597,-70.69208,2380
+"Lick Observatory, California",37.341389,-121.642778,1283
+"Mauna Kea, Hawaii",19.8222,-155.4749,4205
+"McDonald Observatory, Texas",30.6714,-104.022,2077
+"Observatoire de Haute Provence (OHP), France",43.9308,5.7133,650
+"Observatorio del Roque de los Muchachos, La Palma, Spain",28.7636,-17.8947,2396
+"Okayama Astrophysical Observatory (OAO), Japan",34.57606,133.59409,370
+"Siding Spring Observatory, Australia",-31.273333,149.064444,1165
+"Smithsonian Center for Astrophysics, Cambridge",42.381345,-71.127706,12
+"Thuringer Landessternwarte Tautenburg (TLS), Germany",50.980111,11.711167,341
+"Xinglong Station, China",40.3942,117.575,900
