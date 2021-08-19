@@ -6,10 +6,16 @@ from astropy.coordinates import SkyCoord
 import pandas as pd
 import numpy as np
 import requests
+import matplotlib.pylab as plt
 
 #check this page for the major observatories on Earth: https://en.wikipedia.org/wiki/List_of_astronomical_observatories
 class BarycorrError(BaseException):
     pass
+
+class observatory:
+	lat = 1.
+	longi = 1.
+	alt = 1.
 
 def _query_webserver(server_url, params, expected_length):
     """
@@ -75,40 +81,74 @@ def hjd2bjd(hjd_utc, ra, dec, raunits='degrees'):
         len(hjd_utc)
     )
 
-print(hjd2bjd(2454833.0132, 312.321124, -32.1312, raunits='degrees'))
-'''
 
 
-class observatory:
-	lat = 1.
-	longi = 1.
-	alt = 1.
 
-obs_list = pd.read_csv('observatory_library.csv',header = 0)
-match = obs_list[obs_list['obs']=='harps']
-print(match)
+def time_conversion(file_name): #input is one particular file in our database
+    print("Converting Time to BJD for "+file_name+"...")
+    # get the information on the observatories
+    obs_info = pd.read_csv('Obs_list/observ_names.csv',header = 0)
+    #print(obs_info)
 
-obs = observatory()
-obs.lat = match['lat'].values[0]
-obs.longi = match['longi'].values[0]
-obs.alt = match['alt'].values[0]
-print(obs.lat,obs.longi,obs.alt)
+    #get the data to be converted
+    df = pd.read_csv(file_name,header = 0)
+    df['Time_BJD'] = df['Time']#np.ones(len(
 
 
-print(Simbad.list_votable_fields())
-Simbad.add_votable_fields('pmra','pmdec','plx','rv_value')
+    #get info on the host star
+    Simbad.add_votable_fields('pmra','pmdec','plx','rv_value')
+    result_table = Simbad.query_object(df['Star_Name'][0])
+    c = SkyCoord(str(result_table['RA'][0])+str(result_table['DEC'][0]), unit=(u.hourangle, u.deg))
 
-result_table = Simbad.query_object("HD 189733")
+    #read in the leap second file
+    leap_sec_df = pd.read_csv('Obs_list/leap_seconds.csv',header = 0)
+    leap_sec_df['Sec'] += 32
+    leap_sec_df['jd'] = np.ones(len(leap_sec_df['Sec']))
+    for i in range(len(leap_sec_df['jd'])):
+        tmp = Time(str(leap_sec_df['Year'][i])+'-'+str(leap_sec_df['Month'][i]).zfill(2)+'-'+str(leap_sec_df['Day'][i]).zfill(2), format = 'isot')
+        leap_sec_df['jd'][i] = tmp.jd
 
-c = SkyCoord(str(result_table['RA'][0])+str(result_table['DEC'][0]), unit=(u.hourangle, u.deg))
-
-print(result_table['PMRA'][0])
 
 
-JDUTC = Time(2458000, format='jd', scale='utc')
-bjd = utc_tdb.JDUTC_to_BJDTDB(JDUTC,ra=c.ra.degree, dec=c.dec.degree, pmra=result_table['PMRA'][0], pmdec=result_table['PMDEC'][0], px=result_table['PLX_VALUE'][0], rv=result_table['RV_VALUE'][0]*1e3, lat=obs.lat, longi=obs.longi, alt=obs.alt)
-print(bjd)
 
-bjd = utc_tdb.JDUTC_to_BJDTDB(JDUTC,hip_id = 98505, lat=-29.25, longi=-70.73, alt=2400.)
-print(bjd)
-'''
+
+    for i in range(len(df['Time_Convention'])):#
+        match = np.where(obs_info['Observatory_Site'] == df['Observatory_Site'][i])[0]
+
+        #find the info on the observatories
+        obs = observatory()
+        obs.lat = obs_info['Latitude'][match].values[0]
+        obs.longi = obs_info['Longitutde'][match].values[0]
+        obs.alt = obs_info['Altitude(m)'][match].values[0]#match['alt'].values[0]
+
+
+
+
+
+
+        if (df['Time_Convention'][i] == 'BJD') or (df['Time_Convention'][i] == 'BJD_TDB') or (df['Time_Convention'][i] == 'BJD-TDB'):#no need to convert
+            df['Time_BJD'][i] = df['Time'][i]
+
+        if (df['Time_Convention'][i] == 'BJD-UTC'):#correct for leap seconds BJD-UTC
+            tmp = abs(df['Time'][i]-leap_sec_df['jd'])
+            index_tmp = np.where(tmp==np.min(tmp))[0]
+            df['Time_BJD'][i] = df['Time'][i]+leap_sec_df['Sec'][index_tmp].values[0]/24/3600.
+
+        if (df['Time_Convention'][i] == 'JD') or (df['Time_Convention'][i] == 'JD-UTC') or (df['Time_Convention'][i] == 'FCJD') or (df['Time_Convention'][i] == 'MJD'):
+            JDUTC = Time(df['Time'][i], format='jd', scale='utc')
+            bjd = utc_tdb.JDUTC_to_BJDTDB(JDUTC,ra=c.ra.degree, dec=c.dec.degree, pmra=result_table['PMRA'][0], pmdec=result_table['PMDEC'][0], px=result_table['PLX_VALUE'][0], rv=result_table['RV_VALUE'][0]*1e3, lat=obs.lat, longi=obs.longi, alt=obs.alt)
+            df['Time_BJD'][i] = bjd[0][0]
+
+        if (df['Time_Convention'][i] == 'HJD') or (df['Time_Convention'][i] == 'HJD-UTC'):
+            df['Time_BJD'][i] = hjd2bjd(df['Time'][i], c.ra.degree, c.dec.degree, raunits='degrees')
+
+        if (df['Time_Convention'][i] == 'HJD_TBD'):#correct for leap second before converting
+            tmp = abs(df['Time'][i]-leap_sec_df['jd'])
+            index_tmp = np.where(tmp==np.min(tmp))[0]
+            df['Time_BJD'][i] = hjd2bjd(df['Time'][i]-leap_sec_df['Sec'][index_tmp].values[0]/24/3600., c.ra.degree, c.dec.degree, raunits='degrees')
+
+    return df #the output data frame with BJD_TDB in df['Time_BJD']
+
+#df = time_conversion('Database/HD 95089.csv')
+#plt.scatter(df['Time'],df['Time_BJD']-df['Time'])
+#plt.savefig('tmp.pdf')
