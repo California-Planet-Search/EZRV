@@ -1,5 +1,5 @@
-Time,RV,Uncertainty,Observatory_Name,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisetor,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
-2453869.836,1.302,0.975,La Silla Observatory,HD189242,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.582318503,0.000664378,6.302338873,0.023133721,127.9,899.9986,,26.89210968
-2453920.767,-5.45,1.018,La Silla Observatory,HD189242,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.559949936,0.000755768,6.226427207,0.021783492,111.7,900.0002,,7.961653167
-2453945.72,-2.454,0.8,La Silla Observatory,HD189242,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.561461172,0.00082622,6.269720958,0.026199834,102.1,900.0019,,-4.347155304
-2456216.514,10.085,1.143,La Silla Observatory,HD189242,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.569598488,0.001118532,6.2968938,0.019812064,78.1,900.0002,,-29.92332977
+Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisetor,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
+2453869.836,1.302,0.975,"La Silla Observatory, Chile",HD189242,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.582318503,0.000664378,6.302338873,0.023133721,127.9,899.9986,,26.89210968
+2453920.767,-5.45,1.018,"La Silla Observatory, Chile",HD189242,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.559949936,0.000755768,6.226427207,0.021783492,111.7,900.0002,,7.961653167
+2453945.72,-2.454,0.8,"La Silla Observatory, Chile",HD189242,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.561461172,0.00082622,6.269720958,0.026199834,102.1,900.0019,,-4.347155304
+2456216.514,10.085,1.143,"La Silla Observatory, Chile",HD189242,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.569598488,0.001118532,6.2968938,0.019812064,78.1,900.0002,,-29.92332977

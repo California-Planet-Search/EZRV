@@ -8,10 +8,12 @@ config = yaml.safe_load(open("config/config.yaml"))
 
 #updates internal dataframe of files and first Simbad resolvable name
 def update_internal_dataframe():
+    print('updating database')
     df_internal = pd.DataFrame()
     database = glob.glob('Database/*.csv')
     df_internal['filename']  = np.array(database)
     df_internal['simbad_name'] = np.array(database)
+    print('querying Simbad')
     for i in range(len(df_internal['filename'] )):
         starname = df_internal['filename'][i][9:-4]
         table = Simbad.query_objectids(starname)
@@ -20,6 +22,7 @@ def update_internal_dataframe():
 
         df_internal['simbad_name'][i] = name
 
+        df_internal.to_csv(config['default_directory'] + '/Metadata/Internal_Simbad_Names.csv')
     return df_internal
 
 
@@ -62,7 +65,10 @@ def update_database(file_name):
     input_names = df_update['Star_Name']
     unqiue_input_names = np.unique(input_names)
     database_names = df_internal['simbad_name']
-
+    time_internal =
+    time_newfile =
+    obser_internal =
+    obser_new =
     # simbad_name_input = np.unique(input_names)
 
     for i in range(len(unqiue_input_names)):
@@ -70,7 +76,22 @@ def update_database(file_name):
         simbad_name_input = np.array(table['ID'][0], 'str')
 
         match_name = np.where(simbad_name_input == database_names)[0]
-        match_rows = np.where((unqiue_input_names[i] == input_names) & )[0]
+        match_rows = np.where((unqiue_input_names[i] == input_names))[0]
+
+        for j in range(len(match_rows)):
+            time_difference = np.array(time_internal - time_newfile[match_rows[j]])
+            time_difference_min = np.min(time_difference)
+
+
+            location_min = np.where(time_difference == time_difference_min)[0][0]
+
+            obser_internal[location_min] == obser_new[match_rows][j]
+
+            if (time_difference_min < 1/24/3600) & (obser_internal[location_min] == obser_new[match_rows][j]):
+                continue
+
+
+
 
         #finish! by:
         #to avoid duplciation
@@ -82,7 +103,7 @@ def update_database(file_name):
         # print(match_rows, df_update.iloc[match_rows])
     # #either appends existing file or creates new file
         if np.any(match_name) == True:
-            df_update.iloc[match_rows].to_csv(df_internal['filename'].iloc[match_name[0]], mode='a', index=False, header = None)
+            df_update.iloc[match_rows][j].to_csv(df_internal['filename'].iloc[match_name[0]], mode='a', index=False, header = None)
 
             #
             # print([i],input_names[i], simbad_name_input, df_update[match_rows])
@@ -90,5 +111,5 @@ def update_database(file_name):
 
         if np.any(match_name) == False :
             path = r'Database/'
-            df_update.iloc[match_rows].to_csv(path + unqiue_input_names[i]+ '.csv', index=False)
+            df_update.iloc[match_rows][j].to_csv(path + unqiue_input_names[i]+ '.csv', index=False)
             # print(df_update[match_rows])

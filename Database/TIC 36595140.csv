@@ -1,5 +1,5 @@
-Time,RV,Uncertainty,Observatory_Name,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisetor,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
-2455017.935,-1.071,1.12,La Silla Observatory,GJ875,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.810507303,0.001301848,5.736264545,0.052244383,70.9,771.099,,24.60748732
-2456455.944,7.413,2.355,La Silla Observatory,GJ875,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.802397246,0.003152322,5.77768379,0.039634521,29.8,354.8405,,28.86935031
-2456522.878,-2.766,1.067,La Silla Observatory,GJ875,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.806489359,0.001149819,5.818576567,0.057729447,79.9,900.0008,,7.417401302
-2456968.656,2.63,1.163,La Silla Observatory,GJ875,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.817504876,0.001345029,5.837568538,0.051687215,69.3,900.0014,,-27.29097218
+Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisetor,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
+2455017.935,-1.071,1.12,"La Silla Observatory, Chile",GJ875,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.810507303,0.001301848,5.736264545,0.052244383,70.9,771.099,,24.60748732
+2456455.944,7.413,2.355,"La Silla Observatory, Chile",GJ875,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.802397246,0.003152322,5.77768379,0.039634521,29.8,354.8405,,28.86935031
+2456522.878,-2.766,1.067,"La Silla Observatory, Chile",GJ875,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.806489359,0.001149819,5.818576567,0.057729447,79.9,900.0008,,7.417401302
+2456968.656,2.63,1.163,"La Silla Observatory, Chile",GJ875,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.817504876,0.001345029,5.837568538,0.051687215,69.3,900.0014,,-27.29097218

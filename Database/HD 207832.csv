@@ -1,160 +1,160 @@
 Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisector,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
-2453191.073060,1.23,2.52,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2453198.109640,10.76,2.96,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2453199.109690,10.20,2.71,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2453200.028320,21.89,2.50,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2453604.052880,-32.09,2.18,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2453962.029390,-17.22,1.94,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2453964.030120,-21.66,2.20,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2453981.839580,1.37,1.91,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2453983.884140,5.39,2.27,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454023.737870,10.94,2.14,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454249.069430,-9.15,2.08,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454250.111230,-24.57,2.11,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454256.083620,-6.89,1.89,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454279.053840,7.69,2.21,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454280.077800,14.81,2.87,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454304.980790,14.17,1.91,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454305.979310,17.08,1.86,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454306.983510,18.22,1.95,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454308.007560,10.08,2.32,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454309.973080,15.16,1.96,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454310.963970,13.10,1.97,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454311.962090,17.20,1.95,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454312.958110,18.61,1.88,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454313.954610,23.62,1.95,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454314.989180,30.46,2.03,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454319.052900,41.53,1.76,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454336.998540,27.88,1.48,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454339.830470,27.06,1.48,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454343.900310,8.14,1.74,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454399.765500,-28.65,2.18,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454428.724420,2.04,2.02,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454634.110070,22.74,1.99,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454635.024520,16.73,1.48,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454636.078700,13.52,1.87,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454637.123160,19.12,1.91,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454638.073650,22.29,1.97,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454639.087410,25.12,1.72,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454641.111960,39.66,2.04,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454642.079520,47.08,2.03,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454644.108000,37.76,2.01,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454667.051750,11.18,1.99,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454672.980970,8.41,1.89,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454674.920280,7.48,2.03,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454675.923820,4.18,1.55,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454687.014490,-6.67,1.97,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454702.061350,-13.54,1.85,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454704.016820,-6.23,1.89,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454805.781290,-5.17,2.05,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454820.766370,-0.29,2.32,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454821.730810,0.11,1.64,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454964.122230,4.93,2.09,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454984.083890,-12.31,2.06,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454985.112550,-14.74,2.02,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2455015.015710,-16.25,2.01,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2455022.112970,-48.76,2.02,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2455024.104590,-36.02,1.95,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2455025.107630,-35.17,1.96,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2455050.986000,-38.79,1.74,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2455052.042730,-36.58,1.88,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2455054.057110,-47.74,1.95,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2455143.855990,4.02,2.44,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2455166.799830,-18.24,1.96,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2455168.764880,-24.14,2.09,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2455200.705990,-34.68,1.42,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2455201.702830,-37.22,1.33,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2455202.702570,-32.32,1.79,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2455341.107380,-2.76,2.01,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2455370.091900,-26.18,1.34,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2455371.021440,-34.21,1.35,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2455408.081450,-2.35,1.83,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2455409.053120,-4.91,1.29,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2455410.057760,-5.07,1.30,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2455462.946280,9.74,0.99,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2455548.695420,-6.54,1.27,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2455549.693630,-12.33,1.28,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2455720.055650,-8.89,1.30,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2455721.109100,-5.59,1.35,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2455750.032620,1.80,2.06,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2455751.032520,5.33,1.59,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2455824.909000,6.65,1.79,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2455825.965010,-0.09,1.96,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2455839.835830,-26.64,1.25,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2455840.912580,-34.41,1.29,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2455910.723890,0.00,1.87,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2455911.697790,2.56,1.24,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2455912.711410,5.28,1.35,"Manua Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2452943.574,-13.916,2.316,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.430004564,0.001865532,7.348259265,-0.012103855,39.5,110.8963,,-28.67110122
-2453273.647,-0.697,2.181,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.417603916,0.001806213,7.369684208,-0.001224409,42.5,142.5956,,-19.48044952
-2454722.668,-0.453,1.604,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.430153943,0.001293956,7.376984643,-0.021478932,61.2,356.5,,-14.5864589
-2455091.73,-14.024,2.799,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.430864752,0.002378378,7.34451074,-0.019735008,34.5,142.5991,,-16.3484962
-2455108.662,7.323,1.868,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.426384732,0.001478231,7.352235959,-0.014341008,53.0,299.9991,,-22.61212384
-2455321.932,22.836,1.87,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.430027404,0.001446875,7.386675232,-0.006248162,54.8,180.0061,,28.72981373
-2455328.916,2.424,2.312,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.427494913,0.001916196,7.368049209,-0.003127073,42.0,180.0069,,28.93893384
-2455335.93,-8.323,1.723,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.424016561,0.001324332,7.354408982,-0.014292794,59.4,356.5066,,28.65206542
-2455339.935,16.937,1.456,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.436115619,0.001192091,7.400550201,-0.02307513,66.8,285.2056,,28.30839774
-2455355.839,-18.888,1.623,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.426614031,0.001333063,7.36167263,-0.01879218,58.7,285.2068,,26.02587776
-2455376.813,-15.446,0.999,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.431869508,0.000786549,7.364829159,-0.018280761,98.5,570.3001,,20.01082476
-2455388.805,0.908,2.232,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.435066165,0.001954632,7.396669656,-0.00390776,42.3,141.8005,,15.42131343
-2455391.819,-7.858,1.938,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.43296737,0.001670668,7.383185918,-0.005052578,48.9,142.5998,,14.11361457
-2455400.872,9.536,2.239,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.431240214,0.001591469,7.400238346,-0.015926221,48.5,142.6004,,9.983198889
-2455403.764,4.327,4.568,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440241344,0.00420661,7.4047886,-0.011246676,21.6,141.8004,,8.884813397
-2455410.777,8.828,2.105,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.42958422,0.001826658,7.373503,-0.019924647,45.3,285.2006,,5.540496817
-2455411.671,10.278,1.69,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.432154955,0.001348282,7.390699053,-0.012596489,58.1,285.2007,,5.345662719
-2455412.761,15.767,1.388,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.427325793,0.001136284,7.378700892,-0.017953459,68.7,570.3007,,4.616705698
-2455414.687,16.178,1.916,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.431166375,0.001494826,7.393240815,-0.008831317,53.3,142.6005,,3.845580996
-2455427.754,20.696,1.722,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.432804265,0.001357065,7.370747939,-0.010939948,59.4,180.0004,,-2.761674
-2455439.717,29.713,1.714,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.432875064,0.001426711,7.36886019,-0.025860454,56.3,140.7003,,-8.484962035
-2455509.544,1.937,1.891,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.433609108,0.001505286,7.40599523,-0.003189905,53.8,140.7003,,-29.43731319
-2455518.505,-10.599,1.708,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.429582988,0.00131752,7.367433672,-0.015058021,60.4,300.0006,,-29.43061755
-2455523.522,5.355,1.921,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.428561894,0.001688809,7.388379575,-0.021446495,48.3,300.0005,,-29.20083625
-2455539.521,-10.848,1.649,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.428638075,0.001347396,7.363689603,-0.018764313,59.4,199.9992,,-26.87434444
-2455806.68,29.218,0.98,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.431244555,0.000740247,7.390471179,-0.013437458,106.0,709.0995,,-9.231113649
-2455876.507,8.325,1.301,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.430655516,0.00093706,7.380272369,-0.016143189,86.2,600.0052,,-29.40849856
-2456078.909,18.542,4.173,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.431161129,0.003673021,7.373950741,-0.005839906,24.3,200.0001,,27.27544716
-2456082.942,27.449,2.447,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.430730514,0.002105369,7.36838795,-0.024994829,39.4,240.0059,,26.47888827
-2456169.742,-27.745,1.726,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.429254851,0.001404468,7.36500802,-0.020053173,58.6,259.5801,,-8.311888893
-2456175.699,-21.054,1.363,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.427853161,0.001188582,7.361042731,-0.013174053,68.0,340.7402,,-11.01950088
-2456181.663,-6.214,2.408,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.433521157,0.002211773,7.391338941,-0.023591712,38.5,150.0008,,-13.65906942
-2456182.665,-20.213,2.562,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.43079841,0.00229109,7.388235565,-0.011628418,37.0,250.0003,,-14.10917793
-2456186.661,-20.374,1.606,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.425025395,0.001228579,7.358673288,-0.020820501,65.4,299.9996,,-15.84346996
-2456190.659,-16.313,1.353,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.427893367,0.001136569,7.370449621,-0.015586265,70.4,300.1999,,-17.51259387
-2456197.668,-8.521,1.906,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.423983511,0.001507899,7.369008299,-0.022039129,53.3,340.7457,,-20.25065851
-2456199.67,-6.064,2.246,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.428602811,0.001908154,7.380660597,-0.011936714,42.9,300.2063,,-20.97898217
-2456201.685,-8.842,2.617,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.428110332,0.002163589,7.371264483,0.005602942,37.6,300.2064,,-21.71740398
-2456202.555,-6.748,2.332,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.431655637,0.00197873,7.366246731,-0.002536495,40.8,300.1993,,-21.73459193
-2456501.654,-11.44,1.106,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.429387924,0.000625915,7.391648645,-0.012124762,124.5,900.0001,,8.140636436
-2456501.836,-7.747,1.821,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.434268406,0.001402277,7.391643016,-0.017534353,57.5,900.0009,,7.660863765
-2456502.779,-5.66,2.728,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.428782904,0.002356774,7.393581644,-0.014106715,36.2,1000.0005,,7.341526793
-2456506.727,-15.697,1.296,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.428421261,0.000885519,7.388852584,-0.00613697,88.6,900.0004,,5.570376906
-2456506.817,-18.459,1.388,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.433039903,0.001000309,7.391894496,-0.01000053,79.4,900.0011,,5.325998558
-2456508.731,-24.76,1.173,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.428709044,0.000716603,7.374066537,-0.007758362,109.4,900.0009,,4.588842164
-2456508.908,-21.215,1.323,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.434022608,0.000858602,7.380434247,-0.012101102,91.2,900.0013,,4.158115607
-2456510.814,-11.964,0.965,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.429721099,0.000808557,7.36869365,-0.019644631,98.6,900.0016,,3.384647424
-2456510.895,-9.451,0.95,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.428602301,0.000764804,7.367270578,-0.018141726,102.9,900.0006,,3.206834534
-2456514.812,-12.679,1.381,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.431128739,0.000999163,7.376962802,-0.01320957,79.4,900.0015,,1.421270119
-2456516.77,-8.1,1.364,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.433899165,0.001041424,7.373169921,-0.023808325,77.6,899.9946,,0.542072387
-2456516.885,-5.368,1.753,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.431016821,0.001325411,7.38301691,-0.014047446,59.9,899.9935,,0.278808562
-2456518.712,-6.354,1.25,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.431707197,0.000817942,7.387689504,-0.019014165,96.3,900.0011,,-0.288111661
-2456518.879,-2.465,1.264,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.427919618,0.000873423,7.385224071,-0.013387811,92.5,900.0016,,-0.694241726
-2456520.599,5.062,1.277,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.430824706,0.000784599,7.390581674,-0.011413595,98.0,900.0017,,-0.980994107
-2456520.747,2.843,1.12,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.431555623,0.000650283,7.395470548,-0.013873142,122.3,899.9995,,-1.372518239
-2456531.653,3.359,1.167,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.429434214,0.000693264,7.378563212,-0.013563115,112.0,900.0013,,-6.488587413
-2456531.804,2.135,1.281,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.426599362,0.000828544,7.382469481,-0.011922729,94.8,900.0019,,-6.881640106
-2456532.597,2.363,1.671,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.431593809,0.001214497,7.383492328,-0.01424118,64.6,900.0009,,-6.827600649
-2456532.783,0.946,1.419,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.431393532,0.000978228,7.381367586,-0.008914115,80.3,900.0003,,-7.317517474
-2456534.607,2.453,1.242,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.427635771,0.000779027,7.37954051,-0.014792424,99.9,900.002,,-7.816350168
-2456534.823,3.564,1.238,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.434394363,0.000821881,7.38273485,-0.017327024,97.8,900.0002,,-8.363764637
-2456535.6,6.14,1.221,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.43023793,0.000755142,7.380536554,-0.015857693,103.0,900.0008,,-8.277813583
-2456536.569,7.266,1.199,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.42642649,0.000716146,7.382671053,-0.012129883,107.7,900.0007,,-8.679862474
-2456536.809,4.477,1.752,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.429322498,0.001301631,7.393360433,-0.015135924,61.4,900.002,,-9.290469662
-2456537.68,9.768,1.445,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.429595273,0.001025213,7.38134401,-0.015565623,77.0,900.0007,,-9.449255372
-2456537.804,9.83,1.184,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.430906283,0.000720041,7.378489593,-0.015293752,109.4,900.0009,,-9.753284404
-2456539.61,16.225,1.431,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.4295313,0.001034488,7.382952029,-0.016250288,76.6,900.0,,-10.20457361
-2456539.808,16.999,1.775,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.431229364,0.001415334,7.39180034,-0.011447848,58.1,900.0019,,-10.7026608
-2456541.582,17.989,1.455,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.429533792,0.001004587,7.386610688,-0.011708328,78.0,900.0001,,-11.06714768
-2456541.769,17.633,1.179,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.430694967,0.000754846,7.385449972,-0.009320172,106.3,899.9997,,-11.55580181
-2456543.541,14.651,1.332,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.429450535,0.000990111,7.391187116,-0.009881402,78.8,900.0015,,-11.89120461
-2456543.748,10.824,0.989,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.4322236,0.000684126,7.385079587,-0.012496369,117.5,900.0002,,-12.42761147
-2456584.598,9.33,1.917,La Silla Observatory,HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.424870202,0.001489259,7.367565303,-0.012348289,54.0,200.0017,,-26.63863237
+2453191.073060,1.23,2.52,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2453198.109640,10.76,2.96,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2453199.109690,10.20,2.71,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2453200.028320,21.89,2.50,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2453604.052880,-32.09,2.18,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2453962.029390,-17.22,1.94,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2453964.030120,-21.66,2.20,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2453981.839580,1.37,1.91,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2453983.884140,5.39,2.27,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454023.737870,10.94,2.14,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454249.069430,-9.15,2.08,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454250.111230,-24.57,2.11,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454256.083620,-6.89,1.89,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454279.053840,7.69,2.21,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454280.077800,14.81,2.87,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454304.980790,14.17,1.91,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454305.979310,17.08,1.86,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454306.983510,18.22,1.95,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454308.007560,10.08,2.32,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454309.973080,15.16,1.96,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454310.963970,13.10,1.97,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454311.962090,17.20,1.95,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454312.958110,18.61,1.88,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454313.954610,23.62,1.95,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454314.989180,30.46,2.03,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454319.052900,41.53,1.76,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454336.998540,27.88,1.48,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454339.830470,27.06,1.48,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454343.900310,8.14,1.74,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454399.765500,-28.65,2.18,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454428.724420,2.04,2.02,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454634.110070,22.74,1.99,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454635.024520,16.73,1.48,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454636.078700,13.52,1.87,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454637.123160,19.12,1.91,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454638.073650,22.29,1.97,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454639.087410,25.12,1.72,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454641.111960,39.66,2.04,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454642.079520,47.08,2.03,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454644.108000,37.76,2.01,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454667.051750,11.18,1.99,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454672.980970,8.41,1.89,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454674.920280,7.48,2.03,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454675.923820,4.18,1.55,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454687.014490,-6.67,1.97,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454702.061350,-13.54,1.85,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454704.016820,-6.23,1.89,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454805.781290,-5.17,2.05,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454820.766370,-0.29,2.32,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454821.730810,0.11,1.64,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454964.122230,4.93,2.09,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454984.083890,-12.31,2.06,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454985.112550,-14.74,2.02,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455015.015710,-16.25,2.01,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455022.112970,-48.76,2.02,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455024.104590,-36.02,1.95,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455025.107630,-35.17,1.96,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455050.986000,-38.79,1.74,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455052.042730,-36.58,1.88,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455054.057110,-47.74,1.95,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455143.855990,4.02,2.44,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455166.799830,-18.24,1.96,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455168.764880,-24.14,2.09,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455200.705990,-34.68,1.42,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455201.702830,-37.22,1.33,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455202.702570,-32.32,1.79,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455341.107380,-2.76,2.01,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455370.091900,-26.18,1.34,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455371.021440,-34.21,1.35,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455408.081450,-2.35,1.83,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455409.053120,-4.91,1.29,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455410.057760,-5.07,1.30,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455462.946280,9.74,0.99,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455548.695420,-6.54,1.27,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455549.693630,-12.33,1.28,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455720.055650,-8.89,1.30,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455721.109100,-5.59,1.35,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455750.032620,1.80,2.06,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455751.032520,5.33,1.59,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455824.909000,6.65,1.79,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455825.965010,-0.09,1.96,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455839.835830,-26.64,1.25,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455840.912580,-34.41,1.29,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455910.723890,0.00,1.87,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455911.697790,2.56,1.24,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455912.711410,5.28,1.35,"Mauna Kea, Hawaii",HD 207832,JD-UTC,"Haghighipour et al. 2012 (2012, ApJ, 756, 91)",HIRES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2452943.574,-13.916,2.316,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.430004564,0.001865532,7.348259265,-0.012103855,39.5,110.8963,,-28.67110122
+2453273.647,-0.697,2.181,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.417603916,0.001806213,7.369684208,-0.001224409,42.5,142.5956,,-19.48044952
+2454722.668,-0.453,1.604,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.430153943,0.001293956,7.376984643,-0.021478932,61.2,356.5,,-14.5864589
+2455091.73,-14.024,2.799,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.430864752,0.002378378,7.34451074,-0.019735008,34.5,142.5991,,-16.3484962
+2455108.662,7.323,1.868,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.426384732,0.001478231,7.352235959,-0.014341008,53.0,299.9991,,-22.61212384
+2455321.932,22.836,1.87,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.430027404,0.001446875,7.386675232,-0.006248162,54.8,180.0061,,28.72981373
+2455328.916,2.424,2.312,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.427494913,0.001916196,7.368049209,-0.003127073,42.0,180.0069,,28.93893384
+2455335.93,-8.323,1.723,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.424016561,0.001324332,7.354408982,-0.014292794,59.4,356.5066,,28.65206542
+2455339.935,16.937,1.456,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.436115619,0.001192091,7.400550201,-0.02307513,66.8,285.2056,,28.30839774
+2455355.839,-18.888,1.623,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.426614031,0.001333063,7.36167263,-0.01879218,58.7,285.2068,,26.02587776
+2455376.813,-15.446,0.999,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.431869508,0.000786549,7.364829159,-0.018280761,98.5,570.3001,,20.01082476
+2455388.805,0.908,2.232,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.435066165,0.001954632,7.396669656,-0.00390776,42.3,141.8005,,15.42131343
+2455391.819,-7.858,1.938,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.43296737,0.001670668,7.383185918,-0.005052578,48.9,142.5998,,14.11361457
+2455400.872,9.536,2.239,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.431240214,0.001591469,7.400238346,-0.015926221,48.5,142.6004,,9.983198889
+2455403.764,4.327,4.568,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440241344,0.00420661,7.4047886,-0.011246676,21.6,141.8004,,8.884813397
+2455410.777,8.828,2.105,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.42958422,0.001826658,7.373503,-0.019924647,45.3,285.2006,,5.540496817
+2455411.671,10.278,1.69,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.432154955,0.001348282,7.390699053,-0.012596489,58.1,285.2007,,5.345662719
+2455412.761,15.767,1.388,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.427325793,0.001136284,7.378700892,-0.017953459,68.7,570.3007,,4.616705698
+2455414.687,16.178,1.916,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.431166375,0.001494826,7.393240815,-0.008831317,53.3,142.6005,,3.845580996
+2455427.754,20.696,1.722,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.432804265,0.001357065,7.370747939,-0.010939948,59.4,180.0004,,-2.761674
+2455439.717,29.713,1.714,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.432875064,0.001426711,7.36886019,-0.025860454,56.3,140.7003,,-8.484962035
+2455509.544,1.937,1.891,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.433609108,0.001505286,7.40599523,-0.003189905,53.8,140.7003,,-29.43731319
+2455518.505,-10.599,1.708,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.429582988,0.00131752,7.367433672,-0.015058021,60.4,300.0006,,-29.43061755
+2455523.522,5.355,1.921,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.428561894,0.001688809,7.388379575,-0.021446495,48.3,300.0005,,-29.20083625
+2455539.521,-10.848,1.649,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.428638075,0.001347396,7.363689603,-0.018764313,59.4,199.9992,,-26.87434444
+2455806.68,29.218,0.98,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.431244555,0.000740247,7.390471179,-0.013437458,106.0,709.0995,,-9.231113649
+2455876.507,8.325,1.301,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.430655516,0.00093706,7.380272369,-0.016143189,86.2,600.0052,,-29.40849856
+2456078.909,18.542,4.173,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.431161129,0.003673021,7.373950741,-0.005839906,24.3,200.0001,,27.27544716
+2456082.942,27.449,2.447,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.430730514,0.002105369,7.36838795,-0.024994829,39.4,240.0059,,26.47888827
+2456169.742,-27.745,1.726,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.429254851,0.001404468,7.36500802,-0.020053173,58.6,259.5801,,-8.311888893
+2456175.699,-21.054,1.363,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.427853161,0.001188582,7.361042731,-0.013174053,68.0,340.7402,,-11.01950088
+2456181.663,-6.214,2.408,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.433521157,0.002211773,7.391338941,-0.023591712,38.5,150.0008,,-13.65906942
+2456182.665,-20.213,2.562,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.43079841,0.00229109,7.388235565,-0.011628418,37.0,250.0003,,-14.10917793
+2456186.661,-20.374,1.606,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.425025395,0.001228579,7.358673288,-0.020820501,65.4,299.9996,,-15.84346996
+2456190.659,-16.313,1.353,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.427893367,0.001136569,7.370449621,-0.015586265,70.4,300.1999,,-17.51259387
+2456197.668,-8.521,1.906,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.423983511,0.001507899,7.369008299,-0.022039129,53.3,340.7457,,-20.25065851
+2456199.67,-6.064,2.246,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.428602811,0.001908154,7.380660597,-0.011936714,42.9,300.2063,,-20.97898217
+2456201.685,-8.842,2.617,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.428110332,0.002163589,7.371264483,0.005602942,37.6,300.2064,,-21.71740398
+2456202.555,-6.748,2.332,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.431655637,0.00197873,7.366246731,-0.002536495,40.8,300.1993,,-21.73459193
+2456501.654,-11.44,1.106,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.429387924,0.000625915,7.391648645,-0.012124762,124.5,900.0001,,8.140636436
+2456501.836,-7.747,1.821,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.434268406,0.001402277,7.391643016,-0.017534353,57.5,900.0009,,7.660863765
+2456502.779,-5.66,2.728,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.428782904,0.002356774,7.393581644,-0.014106715,36.2,1000.0005,,7.341526793
+2456506.727,-15.697,1.296,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.428421261,0.000885519,7.388852584,-0.00613697,88.6,900.0004,,5.570376906
+2456506.817,-18.459,1.388,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.433039903,0.001000309,7.391894496,-0.01000053,79.4,900.0011,,5.325998558
+2456508.731,-24.76,1.173,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.428709044,0.000716603,7.374066537,-0.007758362,109.4,900.0009,,4.588842164
+2456508.908,-21.215,1.323,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.434022608,0.000858602,7.380434247,-0.012101102,91.2,900.0013,,4.158115607
+2456510.814,-11.964,0.965,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.429721099,0.000808557,7.36869365,-0.019644631,98.6,900.0016,,3.384647424
+2456510.895,-9.451,0.95,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.428602301,0.000764804,7.367270578,-0.018141726,102.9,900.0006,,3.206834534
+2456514.812,-12.679,1.381,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.431128739,0.000999163,7.376962802,-0.01320957,79.4,900.0015,,1.421270119
+2456516.77,-8.1,1.364,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.433899165,0.001041424,7.373169921,-0.023808325,77.6,899.9946,,0.542072387
+2456516.885,-5.368,1.753,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.431016821,0.001325411,7.38301691,-0.014047446,59.9,899.9935,,0.278808562
+2456518.712,-6.354,1.25,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.431707197,0.000817942,7.387689504,-0.019014165,96.3,900.0011,,-0.288111661
+2456518.879,-2.465,1.264,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.427919618,0.000873423,7.385224071,-0.013387811,92.5,900.0016,,-0.694241726
+2456520.599,5.062,1.277,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.430824706,0.000784599,7.390581674,-0.011413595,98.0,900.0017,,-0.980994107
+2456520.747,2.843,1.12,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.431555623,0.000650283,7.395470548,-0.013873142,122.3,899.9995,,-1.372518239
+2456531.653,3.359,1.167,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.429434214,0.000693264,7.378563212,-0.013563115,112.0,900.0013,,-6.488587413
+2456531.804,2.135,1.281,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.426599362,0.000828544,7.382469481,-0.011922729,94.8,900.0019,,-6.881640106
+2456532.597,2.363,1.671,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.431593809,0.001214497,7.383492328,-0.01424118,64.6,900.0009,,-6.827600649
+2456532.783,0.946,1.419,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.431393532,0.000978228,7.381367586,-0.008914115,80.3,900.0003,,-7.317517474
+2456534.607,2.453,1.242,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.427635771,0.000779027,7.37954051,-0.014792424,99.9,900.002,,-7.816350168
+2456534.823,3.564,1.238,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.434394363,0.000821881,7.38273485,-0.017327024,97.8,900.0002,,-8.363764637
+2456535.6,6.14,1.221,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.43023793,0.000755142,7.380536554,-0.015857693,103.0,900.0008,,-8.277813583
+2456536.569,7.266,1.199,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.42642649,0.000716146,7.382671053,-0.012129883,107.7,900.0007,,-8.679862474
+2456536.809,4.477,1.752,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.429322498,0.001301631,7.393360433,-0.015135924,61.4,900.002,,-9.290469662
+2456537.68,9.768,1.445,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.429595273,0.001025213,7.38134401,-0.015565623,77.0,900.0007,,-9.449255372
+2456537.804,9.83,1.184,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.430906283,0.000720041,7.378489593,-0.015293752,109.4,900.0009,,-9.753284404
+2456539.61,16.225,1.431,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.4295313,0.001034488,7.382952029,-0.016250288,76.6,900.0,,-10.20457361
+2456539.808,16.999,1.775,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.431229364,0.001415334,7.39180034,-0.011447848,58.1,900.0019,,-10.7026608
+2456541.582,17.989,1.455,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.429533792,0.001004587,7.386610688,-0.011708328,78.0,900.0001,,-11.06714768
+2456541.769,17.633,1.179,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.430694967,0.000754846,7.385449972,-0.009320172,106.3,899.9997,,-11.55580181
+2456543.541,14.651,1.332,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.429450535,0.000990111,7.391187116,-0.009881402,78.8,900.0015,,-11.89120461
+2456543.748,10.824,0.989,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.4322236,0.000684126,7.385079587,-0.012496369,117.5,900.0002,,-12.42761147
+2456584.598,9.33,1.917,"La Silla Observatory, Chile",HD207832,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.424870202,0.001489259,7.367565303,-0.012348289,54.0,200.0017,,-26.63863237

@@ -1,179 +1,179 @@
 Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisector,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
-2454359.687716,11488.15,16.36,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
-2454362.573582,11436.18,16.02,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
-2454364.628975,11440.37,20.06,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
-2454365.707645,11420.32,13.34,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
-2454372.735312,11420.22,12.88,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
-2454377.716124,11484.11,14.52,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
-2454377.739618,11488.61,13.93,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
-2454378.693586,11386.38,12.71,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
-2454378.719349,11384.69,13.06,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
-2454379.690005,11459.60,14.14,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
-2454379.713452,11468.97,13.33,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
-2454380.563292,11533.22,12.02,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
-2454380.586751,11514.39,11.42,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
-2454382.617808,11397.78,14.22,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
-2454383.601838,11506.97,12.25,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
-2454383.625413,11491.14,12.53,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
-2454385.740623,11369.65,25.55,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
-2454386.638647,11463.03,14.07,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
-2454386.664860,11493.77,13.84,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
-2454387.668883,11487.42,25.78,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
-2454387.690688,11494.02,32.90,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
-2454390.521372,11521.30,12.73,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
-2454390.544901,11512.82,13.14,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
-2454398.647981,11360.02,13.61,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
-2454398.671428,11384.28,13.73,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
-2454399.616495,11411.13,12.04,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
-2454399.652117,11421.10,12.25,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
-2454720.614742,11503.58,17.21,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
-2454722.651535,11459.13,14.83,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
-2454724.579899,11401.31,16.16,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
-2454725.545387,11434.30,18.35,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
-2454726.613463,11523.63,16.70,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
-2454730.622609,11474.59,14.59,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
-2454732.703073,11470.21,18.08,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
-2454734.747409,11416.62,16.49,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
-2454746.564605,11547.38,5.76,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454746.750752,11548.40,5.55,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454747.504842,11516.20,5.59,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454747.579780,11505.97,7.11,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454747.586192,11512.99,6.77,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454747.592603,11499.59,6.65,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454747.598784,11503.13,7.81,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454747.605195,11501.41,8.19,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454747.611549,11489.40,8.85,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454747.617718,11496.53,8.11,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454747.624372,11481.37,8.08,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454747.630668,11504.86,7.16,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454747.636837,11519.29,8.12,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454747.643307,11497.37,8.08,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454747.650089,11523.99,7.66,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454747.655956,11506.07,6.12,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454747.662310,11506.22,6.48,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454747.668664,11495.28,7.06,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454747.675076,11485.67,6.34,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454747.681372,11492.07,6.24,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454747.687841,11464.78,6.16,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454747.694137,11458.35,5.71,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454747.700491,11472.40,6.18,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454747.706729,11468.78,6.55,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454747.713256,11452.66,6.19,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454747.719494,11465.19,6.25,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454747.725906,11465.26,5.91,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454747.732260,11484.27,6.03,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454747.738672,11460.37,6.89,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454747.744968,11468.63,6.68,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454747.751264,11459.86,6.85,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454747.757617,11464.32,7.34,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454747.764029,11476.62,7.59,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454747.770383,11461.43,7.83,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454747.776621,11496.90,8.18,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454747.783206,11460.28,8.86,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454747.789329,11477.87,8.75,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454747.795798,11453.89,9.16,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454748.775349,11426.89,4.06,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454749.703663,11531.25,2.70,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454750.655365,11539.33,2.40,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454753.741910,11547.05,4.14,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454754.750340,11432.95,2.99,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454755.730495,11439.08,2.61,"ESO La Silla, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
-2454746.565,42.099,4.025,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.491890153,0.004778775,6.884456988,-0.002481521,19.0,900.0,,-16.25434421
-2454746.751,52.971,3.845,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.47519932,0.004003549,6.900142209,-0.0158093,21.2,900.0,,-16.73569486
-2454747.505,19.936,3.964,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.491948459,0.004477764,6.888997471,-0.035417417,19.9,600.0,,-16.52120413
-2454747.58,15.745,4.93,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.47848202,0.005622193,6.855346112,-0.019426339,16.3,500.0,,-16.70569233
-2454747.587,15.581,4.655,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.476994056,0.005349848,6.906880571,-0.011109886,17.1,500.0,,-16.72298113
-2454747.593,16.08,4.535,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.478308137,0.005338139,6.876200372,-0.012593599,17.2,500.0,,-16.74040767
-2454747.599,23.123,5.287,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.47437555,0.006111132,6.88322092,-0.028117271,15.3,500.0,,-16.75730777
-2454747.606,5.881,5.541,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.470551442,0.006456897,6.848456563,-0.069134338,14.4,500.0,,-16.77492435
-2454747.612,0.433,5.959,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.47706573,0.007008232,6.827091492,-0.055076013,13.5,500.0,,-16.79244288
-2454747.618,13.958,5.406,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.484351558,0.006564105,6.8759793,-0.015976635,14.5,500.0,,-16.80951597
-2454747.625,-13.635,5.449,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.470634796,0.006492481,6.90212364,-0.002004926,14.6,500.0,,-16.82788134
-2454747.631,18.274,4.764,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.480560394,0.005942786,6.871358803,-0.010604713,15.9,500.0,,-16.84527344
-2454747.637,23.216,5.447,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.476388562,0.00658043,6.85581556,0.040637811,14.5,500.0,,-16.8622797
-2454747.644,24.163,5.367,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.477909413,0.006645309,6.859240813,-0.004104276,14.5,500.0,,-16.88005483
-2454747.651,19.287,5.116,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.482127345,0.00621566,6.898224501,0.001461917,15.2,500.0,,-16.89853092
-2454747.657,25.607,4.209,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.483101099,0.005014391,6.878163976,-0.019221466,18.4,500.0,,-16.91453386
-2454747.663,26.724,4.392,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.460979124,0.005087786,6.857751234,-0.000244903,17.6,500.0,,-16.93166762
-2454747.669,16.452,4.751,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.488906699,0.005597061,6.929445129,-0.049122186,16.5,500.0,,-16.94864636
-2454747.676,-1.117,4.314,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.474757072,0.004957296,6.878750647,-0.013450213,18.2,500.0,,-16.96559945
-2454747.682,1.095,4.215,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.487989655,0.004963836,6.888892762,0.002624233,18.3,500.0,,-16.98204824
-2454747.688,-17.541,4.201,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.48243768,0.004810582,6.896256328,-0.037966973,18.8,500.0,,-16.99872154
-2454747.695,-24.162,3.949,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.488344154,0.004552768,6.896194532,-0.05464951,19.7,500.0,,-17.014703
-2454747.701,-29.441,4.175,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.479581656,0.004825732,6.899590044,-0.022673542,18.5,500.0,,-17.03056554
-2454747.707,-11.747,4.393,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.477815073,0.005056682,6.899866563,-0.001127771,17.8,500.0,,-17.04585828
-2454747.714,-50.082,4.213,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.47850105,0.004891804,6.861340139,0.02871339,18.4,500.0,,-17.06154182
-2454747.72,-28.892,4.253,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.491404168,0.004909504,6.87353832,-0.018482194,18.4,500.0,,-17.07620393
-2454747.727,-7.859,4.045,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.483488377,0.004676237,6.88251944,0.004648197,19.3,500.0,,-17.09092313
-2454747.733,-2.448,4.184,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.48287964,0.004724306,6.903549326,0.00673507,19.0,500.0,,-17.10513942
-2454747.739,-16.007,4.656,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.481417127,0.005107847,6.906874051,-0.002573377,17.3,500.0,,-17.11909166
-2454747.746,-9.6,4.61,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.48583806,0.005036007,6.894736293,0.009435754,17.7,500.0,,-17.13239021
-2454747.752,-35.705,4.604,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.482558996,0.005089713,6.894621279,-0.020922615,17.5,500.0,,-17.1452733
-2454747.758,-1.366,4.886,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.477810627,0.005346028,6.919925112,0.007657896,16.7,500.0,,-17.157837
-2454747.765,-10.631,5.083,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.477258342,0.00556806,6.905634123,-0.050473658,16.1,500.0,,-17.17005284
-2454747.771,-30.79,5.086,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.477975672,0.005577499,6.92835476,-0.071773299,16.0,500.0,,-17.18168532
-2454747.777,12.14,5.569,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.485297982,0.00601222,6.900415898,0.014522265,15.1,500.0,,-17.19263341
-2454747.784,-12.497,5.943,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.482870015,0.006239325,6.918348548,-0.024925597,14.5,500.0,,-17.20366815
-2454747.79,-19.87,5.781,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.479778731,0.006173247,6.861222631,-0.025153379,14.6,500.0,,-17.21343357
-2454747.796,-11.214,6.132,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.475340889,0.006426171,6.87049951,0.004391032,14.1,500.0,,-17.22322357
-2454748.776,-58.824,2.96,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.471305983,0.003176568,6.893774913,-0.030662766,26.6,900.0,,-17.59290973
-2454749.704,44.624,2.027,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.473712173,0.002275156,6.907033977,-0.027567944,36.1,1800.0,,-17.84293758
-2454750.656,45.135,1.851,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.472094653,0.002074634,6.902764015,-0.025402677,39.5,1800.0,,-18.1149846
-2454753.743,40.831,2.861,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.476147603,0.003275171,6.893406498,-0.010949532,26.1,1800.0,,-19.46992018
-2454754.751,-62.669,2.317,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.475853299,0.002660702,6.893633832,-0.01720355,31.9,1800.0,,-19.85705713
-2454755.731,-54.655,2.071,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.47344306,0.002406971,6.886840517,-0.026114316,35.2,1800.0,,-20.18749092
-2457298.707,-21.806,4.736,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.454097126,0.005438401,6.902241512,0.039267103,17.4,599.9983,,-14.57335939
-2457298.714,0.02,4.179,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.4679626,0.004879166,6.884939335,0.001408048,19.2,599.9983,,-14.59197353
-2457298.722,-3.551,3.894,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.471631488,0.00448595,6.886735204,0.00154591,20.7,599.9983,,-14.6105558
-2457298.729,9.593,3.791,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.473213249,0.004367924,6.85753589,-0.003878037,21.2,599.9983,,-14.6277011
-2457298.736,-3.863,4.19,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.454660941,0.004688828,6.899837055,-0.008369726,19.4,599.9983,,-14.64543534
-2457298.743,-10.409,4.59,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.46924376,0.005179173,6.91581006,-0.051180736,18.0,599.9983,,-14.66143447
-2457298.751,11.617,5.497,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.452623829,0.006208466,6.902271641,-0.001523357,15.2,599.9983,,-14.67837379
-2457298.758,10.622,5.302,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.459722129,0.005968432,6.927789656,0.036691714,15.8,599.9983,,-14.69462413
-2457298.765,-31.174,5.434,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.461737807,0.005978391,6.896456228,0.0114045,15.7,599.9983,,-14.71017266
-2457298.772,11.741,6.381,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.46803606,0.006968765,6.909229192,-0.026679536,13.7,599.9983,,-14.72346977
-2457698.511,28.979,3.514,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.467492884,0.004125363,6.846701923,-0.029041936,22.1,599.9982,,-25.99222189
-2457698.52,3.74,4.124,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.459125585,0.004735908,6.845707249,0.000741762,19.2,599.9983,,-26.0137822
-2457698.527,32.946,4.854,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.450974103,0.005416805,6.871191871,-0.030032128,17.1,599.9983,,-26.03221596
-2457698.534,-1.999,5.084,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.459164507,0.005732156,6.853388454,-0.026903118,16.3,599.9983,,-26.05140184
-2457698.542,12.854,4.823,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.45692704,0.005539619,6.834190011,0.011182244,17.0,599.9983,,-26.07080562
-2457698.549,11.064,4.349,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.453050785,0.004822853,6.859675458,-0.029696644,19.0,599.9982,,-26.08947795
-2457698.556,3.253,3.971,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.451592877,0.004466997,6.88159963,0.014899566,20.3,599.9983,,-26.10829266
-2457698.564,15.272,3.889,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.459377338,0.00444365,6.858172523,-0.006468514,20.6,599.9983,,-26.12684652
-2457698.571,4.085,4.034,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.450703185,0.004825191,6.826361823,-0.001698139,19.2,599.9983,,-26.14528463
-2457698.578,-15.065,3.814,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.450633969,0.004539493,6.836593833,-0.008707019,20.3,599.9983,,-26.16410806
-2457698.585,14.79,4.162,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.449265778,0.004837037,6.860704837,-0.029311448,19.0,599.9983,,-26.18203503
-2457698.593,15.2,4.578,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.459173141,0.005524545,6.866536372,-0.035533698,17.2,599.9982,,-26.20009992
-2457698.6,9.692,4.579,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.454837696,0.005577449,6.865143949,-0.020596675,17.0,599.9983,,-26.21806605
-2457698.607,34.461,4.735,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.450729995,0.00581975,6.853786669,-0.001818909,16.5,599.9982,,-26.23557479
-2457698.615,14.16,4.01,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.451502455,0.004739963,6.79558383,-0.042578181,19.5,599.9983,,-26.25292101
-2457698.622,-5.21,3.747,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.459343608,0.00435789,6.860917152,-0.019277503,21.0,599.9983,,-26.26958517
-2457698.629,-5.307,3.861,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.460044423,0.004457275,6.866588252,-0.013173652,20.5,599.9983,,-26.28617717
-2457698.637,-8.17,3.644,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.464573187,0.004179891,6.845187368,-0.033137573,21.6,599.9983,,-26.30203524
-2457698.644,-24.399,3.718,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.457763768,0.004234567,6.872545133,-0.013152275,21.5,599.9983,,-26.31745515
-2457698.651,-17.936,3.637,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.451324229,0.004030235,6.858475782,-0.020234039,22.2,599.9983,,-26.33253576
-2457698.659,-21.247,3.626,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.456118463,0.00409154,6.848556534,0.02200794,22.1,599.9983,,-26.34752214
-2457698.667,-30.765,3.787,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.459246597,0.004225492,6.890322071,0.006691249,21.4,599.9983,,-26.36435389
-2457698.675,-24.757,3.888,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.461806094,0.004163309,6.831653699,-0.013525424,21.3,599.9983,,-26.37757322
-2457698.682,-17.445,3.742,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.455846554,0.003947874,6.863465968,0.016357343,22.4,599.9983,,-26.39032664
-2457698.689,10.911,4.272,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.461128162,0.004431843,6.822416011,-4.35e-05,19.9,599.9983,,-26.40222814
-2457698.697,8.565,4.734,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.457181794,0.004840618,6.820712877,-0.026136581,18.3,599.9983,,-26.41394696
-2457698.704,0.145,4.495,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.459139631,0.004580281,6.846251397,-0.045849673,19.2,599.9983,,-26.42467269
-2457698.711,-30.642,4.998,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.462109707,0.005052235,6.860947872,-0.026683872,17.6,599.9983,,-26.43473436
-2457698.719,-7.525,5.101,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.449838158,0.005072658,6.838095528,0.011525171,17.4,599.9983,,-26.44437037
-2457698.726,-10.858,4.94,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.454528833,0.004806377,6.886724507,0.033315168,17.9,599.9983,,-26.45302442
-2457698.733,97.781,5.456,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.462649844,0.004984384,6.86211033,-0.043535234,17.5,599.9983,,-26.46080932
-2457698.741,-48.426,5.563,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.451239832,0.005453305,6.868373218,0.001336692,16.0,599.9983,,-26.46842171
-2457698.748,-64.435,5.886,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.465593132,0.005627539,6.894454988,-0.010845698,15.5,599.9983,,-26.47474293
-2458014.497,11.368,4.273,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.47036993,0.004866018,6.861534232,-0.004016886,19.2,899.9982,,-7.437651643
-2458014.51,9.37,3.547,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.470331457,0.004099703,6.888012194,-0.014100117,22.5,1199.9982,,-7.458131197
-2458014.525,29.303,3.704,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.471542084,0.004297569,6.869241048,-0.030484719,21.6,1199.9982,,-7.483034154
-2458014.538,34.439,3.951,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.457576292,0.004660533,6.859022504,0.014690874,20.1,1199.9983,,-7.509303818
-2458014.553,26.088,3.606,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.469860778,0.004295931,6.859850745,-0.020642612,21.7,1199.9983,,-7.540443481
-2458014.567,21.283,3.654,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.471761194,0.00431381,6.896474679,-0.032909833,21.7,1199.9982,,-7.5714155
-2458014.582,-18.277,3.758,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.468552896,0.004486396,6.899309147,-0.034034832,21.0,1199.9983,,-7.60459072
-2458014.596,-21.197,3.909,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.472637236,0.004716353,6.86546302,-0.030696926,20.2,1199.9982,,-7.640162512
-2458014.61,-16.855,3.937,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.460150398,0.004719448,6.838977405,-0.020949032,20.0,1199.9983,,-7.676519666
-2458014.624,2.242,4.029,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.462425104,0.004839116,6.867237381,-0.005355843,19.7,1199.9982,,-7.714516079
-2458014.639,-23.748,4.283,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.459791007,0.005167255,6.901290055,-0.023134103,18.6,1199.9982,,-7.753484279
-2458014.653,-16.35,4.462,La Silla Observatory,WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.464353563,0.005361871,6.881690634,-0.016751321,18.1,1199.9983,,-7.793584738
+2454359.687716,11488.15,16.36,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2454362.573582,11436.18,16.02,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2454364.628975,11440.37,20.06,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2454365.707645,11420.32,13.34,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2454372.735312,11420.22,12.88,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2454377.716124,11484.11,14.52,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2454377.739618,11488.61,13.93,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2454378.693586,11386.38,12.71,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2454378.719349,11384.69,13.06,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2454379.690005,11459.60,14.14,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2454379.713452,11468.97,13.33,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2454380.563292,11533.22,12.02,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2454380.586751,11514.39,11.42,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2454382.617808,11397.78,14.22,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2454383.601838,11506.97,12.25,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2454383.625413,11491.14,12.53,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2454385.740623,11369.65,25.55,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2454386.638647,11463.03,14.07,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2454386.664860,11493.77,13.84,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2454387.668883,11487.42,25.78,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2454387.690688,11494.02,32.90,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2454390.521372,11521.30,12.73,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2454390.544901,11512.82,13.14,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2454398.647981,11360.02,13.61,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2454398.671428,11384.28,13.73,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2454399.616495,11411.13,12.04,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2454399.652117,11421.10,12.25,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2454720.614742,11503.58,17.21,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2454722.651535,11459.13,14.83,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2454724.579899,11401.31,16.16,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2454725.545387,11434.30,18.35,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2454726.613463,11523.63,16.70,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2454730.622609,11474.59,14.59,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2454732.703073,11470.21,18.08,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2454734.747409,11416.62,16.49,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",CORALIE,Thorium Argon,Wright,,,,,,,,
+2454746.564605,11547.38,5.76,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454746.750752,11548.40,5.55,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454747.504842,11516.20,5.59,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454747.579780,11505.97,7.11,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454747.586192,11512.99,6.77,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454747.592603,11499.59,6.65,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454747.598784,11503.13,7.81,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454747.605195,11501.41,8.19,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454747.611549,11489.40,8.85,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454747.617718,11496.53,8.11,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454747.624372,11481.37,8.08,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454747.630668,11504.86,7.16,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454747.636837,11519.29,8.12,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454747.643307,11497.37,8.08,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454747.650089,11523.99,7.66,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454747.655956,11506.07,6.12,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454747.662310,11506.22,6.48,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454747.668664,11495.28,7.06,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454747.675076,11485.67,6.34,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454747.681372,11492.07,6.24,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454747.687841,11464.78,6.16,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454747.694137,11458.35,5.71,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454747.700491,11472.40,6.18,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454747.706729,11468.78,6.55,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454747.713256,11452.66,6.19,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454747.719494,11465.19,6.25,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454747.725906,11465.26,5.91,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454747.732260,11484.27,6.03,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454747.738672,11460.37,6.89,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454747.744968,11468.63,6.68,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454747.751264,11459.86,6.85,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454747.757617,11464.32,7.34,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454747.764029,11476.62,7.59,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454747.770383,11461.43,7.83,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454747.776621,11496.90,8.18,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454747.783206,11460.28,8.86,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454747.789329,11477.87,8.75,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454747.795798,11453.89,9.16,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454748.775349,11426.89,4.06,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454749.703663,11531.25,2.70,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454750.655365,11539.33,2.40,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454753.741910,11547.05,4.14,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454754.750340,11432.95,2.99,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454755.730495,11439.08,2.61,"La Silla Observatory, Chile",WASP-6,BJD,"Gillon et al. 2009 (A&A, 501, 785)",HARPS,Thorium Argon,Wright,,,,,,,,
+2454746.565,42.099,4.025,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.491890153,0.004778775,6.884456988,-0.002481521,19.0,900.0,,-16.25434421
+2454746.751,52.971,3.845,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.47519932,0.004003549,6.900142209,-0.0158093,21.2,900.0,,-16.73569486
+2454747.505,19.936,3.964,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.491948459,0.004477764,6.888997471,-0.035417417,19.9,600.0,,-16.52120413
+2454747.58,15.745,4.93,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.47848202,0.005622193,6.855346112,-0.019426339,16.3,500.0,,-16.70569233
+2454747.587,15.581,4.655,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.476994056,0.005349848,6.906880571,-0.011109886,17.1,500.0,,-16.72298113
+2454747.593,16.08,4.535,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.478308137,0.005338139,6.876200372,-0.012593599,17.2,500.0,,-16.74040767
+2454747.599,23.123,5.287,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.47437555,0.006111132,6.88322092,-0.028117271,15.3,500.0,,-16.75730777
+2454747.606,5.881,5.541,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.470551442,0.006456897,6.848456563,-0.069134338,14.4,500.0,,-16.77492435
+2454747.612,0.433,5.959,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.47706573,0.007008232,6.827091492,-0.055076013,13.5,500.0,,-16.79244288
+2454747.618,13.958,5.406,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.484351558,0.006564105,6.8759793,-0.015976635,14.5,500.0,,-16.80951597
+2454747.625,-13.635,5.449,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.470634796,0.006492481,6.90212364,-0.002004926,14.6,500.0,,-16.82788134
+2454747.631,18.274,4.764,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.480560394,0.005942786,6.871358803,-0.010604713,15.9,500.0,,-16.84527344
+2454747.637,23.216,5.447,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.476388562,0.00658043,6.85581556,0.040637811,14.5,500.0,,-16.8622797
+2454747.644,24.163,5.367,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.477909413,0.006645309,6.859240813,-0.004104276,14.5,500.0,,-16.88005483
+2454747.651,19.287,5.116,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.482127345,0.00621566,6.898224501,0.001461917,15.2,500.0,,-16.89853092
+2454747.657,25.607,4.209,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.483101099,0.005014391,6.878163976,-0.019221466,18.4,500.0,,-16.91453386
+2454747.663,26.724,4.392,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.460979124,0.005087786,6.857751234,-0.000244903,17.6,500.0,,-16.93166762
+2454747.669,16.452,4.751,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.488906699,0.005597061,6.929445129,-0.049122186,16.5,500.0,,-16.94864636
+2454747.676,-1.117,4.314,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.474757072,0.004957296,6.878750647,-0.013450213,18.2,500.0,,-16.96559945
+2454747.682,1.095,4.215,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.487989655,0.004963836,6.888892762,0.002624233,18.3,500.0,,-16.98204824
+2454747.688,-17.541,4.201,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.48243768,0.004810582,6.896256328,-0.037966973,18.8,500.0,,-16.99872154
+2454747.695,-24.162,3.949,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.488344154,0.004552768,6.896194532,-0.05464951,19.7,500.0,,-17.014703
+2454747.701,-29.441,4.175,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.479581656,0.004825732,6.899590044,-0.022673542,18.5,500.0,,-17.03056554
+2454747.707,-11.747,4.393,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.477815073,0.005056682,6.899866563,-0.001127771,17.8,500.0,,-17.04585828
+2454747.714,-50.082,4.213,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.47850105,0.004891804,6.861340139,0.02871339,18.4,500.0,,-17.06154182
+2454747.72,-28.892,4.253,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.491404168,0.004909504,6.87353832,-0.018482194,18.4,500.0,,-17.07620393
+2454747.727,-7.859,4.045,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.483488377,0.004676237,6.88251944,0.004648197,19.3,500.0,,-17.09092313
+2454747.733,-2.448,4.184,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.48287964,0.004724306,6.903549326,0.00673507,19.0,500.0,,-17.10513942
+2454747.739,-16.007,4.656,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.481417127,0.005107847,6.906874051,-0.002573377,17.3,500.0,,-17.11909166
+2454747.746,-9.6,4.61,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.48583806,0.005036007,6.894736293,0.009435754,17.7,500.0,,-17.13239021
+2454747.752,-35.705,4.604,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.482558996,0.005089713,6.894621279,-0.020922615,17.5,500.0,,-17.1452733
+2454747.758,-1.366,4.886,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.477810627,0.005346028,6.919925112,0.007657896,16.7,500.0,,-17.157837
+2454747.765,-10.631,5.083,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.477258342,0.00556806,6.905634123,-0.050473658,16.1,500.0,,-17.17005284
+2454747.771,-30.79,5.086,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.477975672,0.005577499,6.92835476,-0.071773299,16.0,500.0,,-17.18168532
+2454747.777,12.14,5.569,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.485297982,0.00601222,6.900415898,0.014522265,15.1,500.0,,-17.19263341
+2454747.784,-12.497,5.943,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.482870015,0.006239325,6.918348548,-0.024925597,14.5,500.0,,-17.20366815
+2454747.79,-19.87,5.781,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.479778731,0.006173247,6.861222631,-0.025153379,14.6,500.0,,-17.21343357
+2454747.796,-11.214,6.132,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.475340889,0.006426171,6.87049951,0.004391032,14.1,500.0,,-17.22322357
+2454748.776,-58.824,2.96,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.471305983,0.003176568,6.893774913,-0.030662766,26.6,900.0,,-17.59290973
+2454749.704,44.624,2.027,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.473712173,0.002275156,6.907033977,-0.027567944,36.1,1800.0,,-17.84293758
+2454750.656,45.135,1.851,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.472094653,0.002074634,6.902764015,-0.025402677,39.5,1800.0,,-18.1149846
+2454753.743,40.831,2.861,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.476147603,0.003275171,6.893406498,-0.010949532,26.1,1800.0,,-19.46992018
+2454754.751,-62.669,2.317,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.475853299,0.002660702,6.893633832,-0.01720355,31.9,1800.0,,-19.85705713
+2454755.731,-54.655,2.071,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.47344306,0.002406971,6.886840517,-0.026114316,35.2,1800.0,,-20.18749092
+2457298.707,-21.806,4.736,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.454097126,0.005438401,6.902241512,0.039267103,17.4,599.9983,,-14.57335939
+2457298.714,0.02,4.179,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.4679626,0.004879166,6.884939335,0.001408048,19.2,599.9983,,-14.59197353
+2457298.722,-3.551,3.894,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.471631488,0.00448595,6.886735204,0.00154591,20.7,599.9983,,-14.6105558
+2457298.729,9.593,3.791,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.473213249,0.004367924,6.85753589,-0.003878037,21.2,599.9983,,-14.6277011
+2457298.736,-3.863,4.19,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.454660941,0.004688828,6.899837055,-0.008369726,19.4,599.9983,,-14.64543534
+2457298.743,-10.409,4.59,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.46924376,0.005179173,6.91581006,-0.051180736,18.0,599.9983,,-14.66143447
+2457298.751,11.617,5.497,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.452623829,0.006208466,6.902271641,-0.001523357,15.2,599.9983,,-14.67837379
+2457298.758,10.622,5.302,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.459722129,0.005968432,6.927789656,0.036691714,15.8,599.9983,,-14.69462413
+2457298.765,-31.174,5.434,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.461737807,0.005978391,6.896456228,0.0114045,15.7,599.9983,,-14.71017266
+2457298.772,11.741,6.381,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.46803606,0.006968765,6.909229192,-0.026679536,13.7,599.9983,,-14.72346977
+2457698.511,28.979,3.514,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.467492884,0.004125363,6.846701923,-0.029041936,22.1,599.9982,,-25.99222189
+2457698.52,3.74,4.124,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.459125585,0.004735908,6.845707249,0.000741762,19.2,599.9983,,-26.0137822
+2457698.527,32.946,4.854,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.450974103,0.005416805,6.871191871,-0.030032128,17.1,599.9983,,-26.03221596
+2457698.534,-1.999,5.084,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.459164507,0.005732156,6.853388454,-0.026903118,16.3,599.9983,,-26.05140184
+2457698.542,12.854,4.823,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.45692704,0.005539619,6.834190011,0.011182244,17.0,599.9983,,-26.07080562
+2457698.549,11.064,4.349,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.453050785,0.004822853,6.859675458,-0.029696644,19.0,599.9982,,-26.08947795
+2457698.556,3.253,3.971,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.451592877,0.004466997,6.88159963,0.014899566,20.3,599.9983,,-26.10829266
+2457698.564,15.272,3.889,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.459377338,0.00444365,6.858172523,-0.006468514,20.6,599.9983,,-26.12684652
+2457698.571,4.085,4.034,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.450703185,0.004825191,6.826361823,-0.001698139,19.2,599.9983,,-26.14528463
+2457698.578,-15.065,3.814,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.450633969,0.004539493,6.836593833,-0.008707019,20.3,599.9983,,-26.16410806
+2457698.585,14.79,4.162,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.449265778,0.004837037,6.860704837,-0.029311448,19.0,599.9983,,-26.18203503
+2457698.593,15.2,4.578,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.459173141,0.005524545,6.866536372,-0.035533698,17.2,599.9982,,-26.20009992
+2457698.6,9.692,4.579,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.454837696,0.005577449,6.865143949,-0.020596675,17.0,599.9983,,-26.21806605
+2457698.607,34.461,4.735,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.450729995,0.00581975,6.853786669,-0.001818909,16.5,599.9982,,-26.23557479
+2457698.615,14.16,4.01,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.451502455,0.004739963,6.79558383,-0.042578181,19.5,599.9983,,-26.25292101
+2457698.622,-5.21,3.747,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.459343608,0.00435789,6.860917152,-0.019277503,21.0,599.9983,,-26.26958517
+2457698.629,-5.307,3.861,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.460044423,0.004457275,6.866588252,-0.013173652,20.5,599.9983,,-26.28617717
+2457698.637,-8.17,3.644,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.464573187,0.004179891,6.845187368,-0.033137573,21.6,599.9983,,-26.30203524
+2457698.644,-24.399,3.718,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.457763768,0.004234567,6.872545133,-0.013152275,21.5,599.9983,,-26.31745515
+2457698.651,-17.936,3.637,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.451324229,0.004030235,6.858475782,-0.020234039,22.2,599.9983,,-26.33253576
+2457698.659,-21.247,3.626,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.456118463,0.00409154,6.848556534,0.02200794,22.1,599.9983,,-26.34752214
+2457698.667,-30.765,3.787,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.459246597,0.004225492,6.890322071,0.006691249,21.4,599.9983,,-26.36435389
+2457698.675,-24.757,3.888,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.461806094,0.004163309,6.831653699,-0.013525424,21.3,599.9983,,-26.37757322
+2457698.682,-17.445,3.742,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.455846554,0.003947874,6.863465968,0.016357343,22.4,599.9983,,-26.39032664
+2457698.689,10.911,4.272,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.461128162,0.004431843,6.822416011,-4.35e-05,19.9,599.9983,,-26.40222814
+2457698.697,8.565,4.734,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.457181794,0.004840618,6.820712877,-0.026136581,18.3,599.9983,,-26.41394696
+2457698.704,0.145,4.495,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.459139631,0.004580281,6.846251397,-0.045849673,19.2,599.9983,,-26.42467269
+2457698.711,-30.642,4.998,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.462109707,0.005052235,6.860947872,-0.026683872,17.6,599.9983,,-26.43473436
+2457698.719,-7.525,5.101,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.449838158,0.005072658,6.838095528,0.011525171,17.4,599.9983,,-26.44437037
+2457698.726,-10.858,4.94,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.454528833,0.004806377,6.886724507,0.033315168,17.9,599.9983,,-26.45302442
+2457698.733,97.781,5.456,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.462649844,0.004984384,6.86211033,-0.043535234,17.5,599.9983,,-26.46080932
+2457698.741,-48.426,5.563,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.451239832,0.005453305,6.868373218,0.001336692,16.0,599.9983,,-26.46842171
+2457698.748,-64.435,5.886,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.465593132,0.005627539,6.894454988,-0.010845698,15.5,599.9983,,-26.47474293
+2458014.497,11.368,4.273,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.47036993,0.004866018,6.861534232,-0.004016886,19.2,899.9982,,-7.437651643
+2458014.51,9.37,3.547,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.470331457,0.004099703,6.888012194,-0.014100117,22.5,1199.9982,,-7.458131197
+2458014.525,29.303,3.704,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.471542084,0.004297569,6.869241048,-0.030484719,21.6,1199.9982,,-7.483034154
+2458014.538,34.439,3.951,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.457576292,0.004660533,6.859022504,0.014690874,20.1,1199.9983,,-7.509303818
+2458014.553,26.088,3.606,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.469860778,0.004295931,6.859850745,-0.020642612,21.7,1199.9983,,-7.540443481
+2458014.567,21.283,3.654,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.471761194,0.00431381,6.896474679,-0.032909833,21.7,1199.9982,,-7.5714155
+2458014.582,-18.277,3.758,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.468552896,0.004486396,6.899309147,-0.034034832,21.0,1199.9983,,-7.60459072
+2458014.596,-21.197,3.909,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.472637236,0.004716353,6.86546302,-0.030696926,20.2,1199.9982,,-7.640162512
+2458014.61,-16.855,3.937,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.460150398,0.004719448,6.838977405,-0.020949032,20.0,1199.9983,,-7.676519666
+2458014.624,2.242,4.029,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.462425104,0.004839116,6.867237381,-0.005355843,19.7,1199.9982,,-7.714516079
+2458014.639,-23.748,4.283,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.459791007,0.005167255,6.901290055,-0.023134103,18.6,1199.9982,,-7.753484279
+2458014.653,-16.35,4.462,"La Silla Observatory, Chile",WASP-6,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.464353563,0.005361871,6.881690634,-0.016751321,18.1,1199.9983,,-7.793584738

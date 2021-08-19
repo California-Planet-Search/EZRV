@@ -1,84 +1,84 @@
 Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisector,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
-2455413.737500,-863.00,15.00,"ESO La Silla, Chile",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455485.603100,-880.00,22.00,"ESO La Silla, Chile",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455538.571300,-996.00,20.00,"ESO La Silla, Chile",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455541.546000,-829.00,18.00,"ESO La Silla, Chile",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455725.883700,-965.00,11.00,"ESO La Silla, Chile",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455726.903800,-796.00,11.00,"ESO La Silla, Chile",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455756.869200,-837.00,19.00,"ESO La Silla, Chile",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455769.887600,-934.00,14.00,"ESO La Silla, Chile",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455777.821900,-846.00,13.00,"ESO La Silla, Chile",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455782.787600,-804.00,13.00,"ESO La Silla, Chile",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455784.872800,-868.00,13.00,"ESO La Silla, Chile",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455795.732600,-962.00,13.00,"ESO La Silla, Chile",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455804.686300,-962.00,15.00,"ESO La Silla, Chile",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455829.720100,-851.00,10.00,"ESO La Silla, Chile",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455832.655600,-966.00,12.00,"ESO La Silla, Chile",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455858.581400,-933.00,23.00,"ESO La Silla, Chile",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455485.353100,-821.00,11.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455486.405100,-953.00,14.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455488.358200,-883.00,13.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455489.371000,-934.00,16.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455519.350900,-1127.00,12.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455523.295000,-1079.00,11.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455524.320500,-1104.00,15.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455525.329200,-1001.00,11.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455527.310900,-963.00,12.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455529.386200,-1010.00,10.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455540.321500,-1145.00,18.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455559.249700,-1052.00,10.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455563.259800,-1100.00,10.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455564.239600,-969.00,11.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455579.247500,-1075.00,12.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455581.237000,-994.00,12.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455583.241700,-935.00,15.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455585.243700,-966.00,11.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455586.277000,-1068.00,10.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455588.246600,-983.00,10.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455745.574000,-935.00,14.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455753.607500,-982.00,18.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455760.601200,-984.00,31.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455763.572100,-850.00,20.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455764.572900,-979.00,23.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455766.577800,-916.00,19.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455768.538700,-886.00,15.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455771.590800,-982.00,12.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455773.579100,-914.00,10.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455795.367700,-902.00,20.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455795.380200,-913.00,18.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455795.390000,-894.00,17.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455795.399100,-878.00,18.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455795.408100,-917.00,18.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455795.416300,-856.00,18.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455795.423600,-904.00,18.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455795.431300,-902.00,18.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455795.441700,-948.00,18.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455795.450600,-975.00,18.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455795.460400,-882.00,18.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455795.469400,-904.00,18.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455795.479000,-911.00,18.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455795.487800,-911.00,18.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455795.496900,-906.00,18.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455795.506500,-903.00,19.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455795.516400,-901.00,19.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455795.526400,-912.00,19.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2455795.536400,-914.00,19.00,"Observatoire de Haute Provence, France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2457996.598,57.858,4.868,La Silla Observatory,WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.539506697,0.008290451,7.148980053,0.011692708,12.1,899.9982,,7.483832344
-2457996.611,-20.687,3.93,La Silla Observatory,WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.544449335,0.007194909,7.113895405,0.04687704,14.1,1199.9982,,7.453656342
-2457996.627,103.701,3.682,La Silla Observatory,WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.554234198,0.006822798,7.116843159,0.05905686,15.0,1199.9982,,7.414219373
-2457996.637,81.535,12.599,La Silla Observatory,WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.527744355,0.014382396,7.198238002,0.144982204,7.7,1199.9982,,7.389560862
-2458017.584,45.075,2.675,La Silla Observatory,WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.54944599,0.005354571,6.99857757,0.08244503,18.3,899.9983,,-2.850913513
-2458017.596,-41.811,2.835,La Silla Observatory,WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.538759082,0.005300645,6.989573548,0.060114473,18.3,899.9982,,-2.883808754
-2458017.608,53.115,2.906,La Silla Observatory,WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.546594897,0.005631512,6.984136816,0.081224586,17.5,899.9982,,-2.914895609
-2458017.618,-14.122,2.913,La Silla Observatory,WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.551720079,0.005452114,7.01873662,0.054804884,17.9,899.9983,,-2.945704337
-2458017.629,21.065,2.835,La Silla Observatory,WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.558062171,0.005491899,6.991645146,0.067315103,18.0,899.9982,,-2.97679846
-2458017.64,17.272,2.928,La Silla Observatory,WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.554727505,0.005657146,6.988647244,0.083072874,17.5,899.9982,,-3.00867926
-2458017.651,84.642,3.156,La Silla Observatory,WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.542754464,0.00602924,7.074609271,0.035845147,16.5,899.9982,,-3.041226685
-2458017.661,-74.778,3.765,La Silla Observatory,WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.550884432,0.007146611,6.985866959,0.094527454,14.4,899.9982,,-3.073075994
-2458017.672,-90.812,4.052,La Silla Observatory,WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.549705983,0.007424917,7.024432253,0.038564706,13.8,899.9983,,-3.106921314
-2458017.683,-59.563,3.246,La Silla Observatory,WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.539325681,0.006037044,7.013003679,0.110436889,16.4,899.9983,,-3.139179221
-2458017.694,-24.539,2.972,La Silla Observatory,WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.542961884,0.005612814,7.031151811,0.057354201,17.6,899.9983,,-3.171606427
-2458017.705,-40.993,2.989,La Silla Observatory,WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.545730345,0.005624283,7.018783656,0.016411302,17.6,899.9983,,-3.203461868
-2458017.715,-0.933,3.23,La Silla Observatory,WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.548351877,0.006047261,7.085480157,0.07378645,16.4,899.9983,,-3.23463029
-2458017.726,-50.773,3.194,La Silla Observatory,WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.552954277,0.005769638,6.990466018,0.042561765,17.0,899.9982,,-3.266805494
-2458024.556,137.954,13.391,La Silla Observatory,WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.50715231,0.016056409,7.095148084,-0.073196518,6.4,899.9982,,-6.265362999
+2455413.737500,-863.00,15.00,"La Silla Observatory, Chile",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455485.603100,-880.00,22.00,"La Silla Observatory, Chile",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455538.571300,-996.00,20.00,"La Silla Observatory, Chile",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455541.546000,-829.00,18.00,"La Silla Observatory, Chile",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455725.883700,-965.00,11.00,"La Silla Observatory, Chile",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455726.903800,-796.00,11.00,"La Silla Observatory, Chile",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455756.869200,-837.00,19.00,"La Silla Observatory, Chile",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455769.887600,-934.00,14.00,"La Silla Observatory, Chile",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455777.821900,-846.00,13.00,"La Silla Observatory, Chile",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455782.787600,-804.00,13.00,"La Silla Observatory, Chile",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455784.872800,-868.00,13.00,"La Silla Observatory, Chile",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455795.732600,-962.00,13.00,"La Silla Observatory, Chile",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455804.686300,-962.00,15.00,"La Silla Observatory, Chile",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455829.720100,-851.00,10.00,"La Silla Observatory, Chile",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455832.655600,-966.00,12.00,"La Silla Observatory, Chile",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455858.581400,-933.00,23.00,"La Silla Observatory, Chile",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",CORALIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455485.353100,-821.00,11.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455486.405100,-953.00,14.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455488.358200,-883.00,13.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455489.371000,-934.00,16.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455519.350900,-1127.00,12.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455523.295000,-1079.00,11.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455524.320500,-1104.00,15.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455525.329200,-1001.00,11.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455527.310900,-963.00,12.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455529.386200,-1010.00,10.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455540.321500,-1145.00,18.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455559.249700,-1052.00,10.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455563.259800,-1100.00,10.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455564.239600,-969.00,11.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455579.247500,-1075.00,12.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455581.237000,-994.00,12.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455583.241700,-935.00,15.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455585.243700,-966.00,11.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455586.277000,-1068.00,10.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455588.246600,-983.00,10.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455745.574000,-935.00,14.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455753.607500,-982.00,18.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455760.601200,-984.00,31.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455763.572100,-850.00,20.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455764.572900,-979.00,23.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455766.577800,-916.00,19.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455768.538700,-886.00,15.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455771.590800,-982.00,12.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455773.579100,-914.00,10.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455795.367700,-902.00,20.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455795.380200,-913.00,18.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455795.390000,-894.00,17.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455795.399100,-878.00,18.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455795.408100,-917.00,18.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455795.416300,-856.00,18.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455795.423600,-904.00,18.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455795.431300,-902.00,18.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455795.441700,-948.00,18.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455795.450600,-975.00,18.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455795.460400,-882.00,18.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455795.469400,-904.00,18.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455795.479000,-911.00,18.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455795.487800,-911.00,18.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455795.496900,-906.00,18.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455795.506500,-903.00,19.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455795.516400,-901.00,19.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455795.526400,-912.00,19.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2455795.536400,-914.00,19.00,"Observatoire de Haute Provence (OHP), France",WASP-52,BJD-UTC,"Hebrard et al. 2013 (2013, A&A, 549A, 134)",SOPHIE,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2457996.598,57.858,4.868,"La Silla Observatory, Chile",WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.539506697,0.008290451,7.148980053,0.011692708,12.1,899.9982,,7.483832344
+2457996.611,-20.687,3.93,"La Silla Observatory, Chile",WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.544449335,0.007194909,7.113895405,0.04687704,14.1,1199.9982,,7.453656342
+2457996.627,103.701,3.682,"La Silla Observatory, Chile",WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.554234198,0.006822798,7.116843159,0.05905686,15.0,1199.9982,,7.414219373
+2457996.637,81.535,12.599,"La Silla Observatory, Chile",WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.527744355,0.014382396,7.198238002,0.144982204,7.7,1199.9982,,7.389560862
+2458017.584,45.075,2.675,"La Silla Observatory, Chile",WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.54944599,0.005354571,6.99857757,0.08244503,18.3,899.9983,,-2.850913513
+2458017.596,-41.811,2.835,"La Silla Observatory, Chile",WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.538759082,0.005300645,6.989573548,0.060114473,18.3,899.9982,,-2.883808754
+2458017.608,53.115,2.906,"La Silla Observatory, Chile",WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.546594897,0.005631512,6.984136816,0.081224586,17.5,899.9982,,-2.914895609
+2458017.618,-14.122,2.913,"La Silla Observatory, Chile",WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.551720079,0.005452114,7.01873662,0.054804884,17.9,899.9983,,-2.945704337
+2458017.629,21.065,2.835,"La Silla Observatory, Chile",WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.558062171,0.005491899,6.991645146,0.067315103,18.0,899.9982,,-2.97679846
+2458017.64,17.272,2.928,"La Silla Observatory, Chile",WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.554727505,0.005657146,6.988647244,0.083072874,17.5,899.9982,,-3.00867926
+2458017.651,84.642,3.156,"La Silla Observatory, Chile",WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.542754464,0.00602924,7.074609271,0.035845147,16.5,899.9982,,-3.041226685
+2458017.661,-74.778,3.765,"La Silla Observatory, Chile",WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.550884432,0.007146611,6.985866959,0.094527454,14.4,899.9982,,-3.073075994
+2458017.672,-90.812,4.052,"La Silla Observatory, Chile",WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.549705983,0.007424917,7.024432253,0.038564706,13.8,899.9983,,-3.106921314
+2458017.683,-59.563,3.246,"La Silla Observatory, Chile",WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.539325681,0.006037044,7.013003679,0.110436889,16.4,899.9983,,-3.139179221
+2458017.694,-24.539,2.972,"La Silla Observatory, Chile",WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.542961884,0.005612814,7.031151811,0.057354201,17.6,899.9983,,-3.171606427
+2458017.705,-40.993,2.989,"La Silla Observatory, Chile",WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.545730345,0.005624283,7.018783656,0.016411302,17.6,899.9983,,-3.203461868
+2458017.715,-0.933,3.23,"La Silla Observatory, Chile",WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.548351877,0.006047261,7.085480157,0.07378645,16.4,899.9983,,-3.23463029
+2458017.726,-50.773,3.194,"La Silla Observatory, Chile",WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.552954277,0.005769638,6.990466018,0.042561765,17.0,899.9982,,-3.266805494
+2458024.556,137.954,13.391,"La Silla Observatory, Chile",WASP-52,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.50715231,0.016056409,7.095148084,-0.073196518,6.4,899.9982,,-6.265362999

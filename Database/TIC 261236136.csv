@@ -1,5 +1,5 @@
-Time,RV,Uncertainty,Observatory_Name,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisetor,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
-2454944.489,38.252,1.12,La Silla Observatory,HD42270,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.881139811,0.001057666,309.8547398,0.0,108.0,900.0,,6.701620114
-2454944.542,-43.903,1.16,La Silla Observatory,HD42270,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.867222796,0.001022173,344.9926971,0.0,107.2,900.0,,6.687585271
-2456987.776,-17.956,1.626,La Silla Observatory,HD42270,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.790214098,0.001337954,51.68759889,-11.55786254,78.1,600.0008,,-3.581150408
-2456987.784,24.998,1.676,La Silla Observatory,HD42270,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.792133315,0.001420251,290.0572708,0.0,73.9,600.0015,,-3.58287424
+Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisetor,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
+2454944.489,38.252,1.12,"La Silla Observatory, Chile",HD42270,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.881139811,0.001057666,309.8547398,0.0,108.0,900.0,,6.701620114
+2454944.542,-43.903,1.16,"La Silla Observatory, Chile",HD42270,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.867222796,0.001022173,344.9926971,0.0,107.2,900.0,,6.687585271
+2456987.776,-17.956,1.626,"La Silla Observatory, Chile",HD42270,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.790214098,0.001337954,51.68759889,-11.55786254,78.1,600.0008,,-3.581150408
+2456987.784,24.998,1.676,"La Silla Observatory, Chile",HD42270,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.792133315,0.001420251,290.0572708,0.0,73.9,600.0015,,-3.58287424

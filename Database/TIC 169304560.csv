@@ -1,10 +1,10 @@
-Time,RV,Uncertainty,Observatory_Name,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisetor,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
-2452987.678,-0.639,1.633,La Silla Observatory,GJ3325,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.928555404,0.003288738,3.006496475,-0.003170682,23.5,899.996,,-3.899745635
-2452997.697,-4.43,1.937,La Silla Observatory,GJ3325,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.933495597,0.003631053,2.994237257,-0.004229453,21.0,899.9963,,-7.95478297
-2453345.741,5.995,1.319,La Silla Observatory,GJ3325,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.931060205,0.002525088,2.994681686,-0.005157778,31.9,899.9824,,-1.108078003
-2454140.568,-3.653,1.169,La Silla Observatory,GJ3325,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.946362443,0.002090675,2.999440323,-0.005041064,39.4,899.9968,,-21.3965081
-2454732.832,-6.093,2.347,La Silla Observatory,GJ3325,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.966984281,0.004786393,3.007975596,-0.012399264,17.8,900.0,,21.66073177
-2454754.823,9.75,1.306,La Silla Observatory,GJ3325,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.937305743,0.002465199,3.000051548,-0.016087234,34.4,900.0,,17.35827831
-2454767.785,2.716,1.305,La Silla Observatory,GJ3325,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.934077082,0.002479893,3.005149084,-0.001876071,34.3,900.0,,13.66482612
-2455480.804,-12.388,1.512,La Silla Observatory,GJ3325,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.945725913,0.002806556,2.996694536,-0.007884571,30.0,900.0006,,18.53026856
-2456003.493,-0.413,1.694,La Silla Observatory,GJ3325,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.919499749,0.003364786,3.007147612,-0.000625159,24.3,899.9937,,-22.49258433
+Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisetor,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
+2452987.678,-0.639,1.633,"La Silla Observatory, Chile",GJ3325,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.928555404,0.003288738,3.006496475,-0.003170682,23.5,899.996,,-3.899745635
+2452997.697,-4.43,1.937,"La Silla Observatory, Chile",GJ3325,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.933495597,0.003631053,2.994237257,-0.004229453,21.0,899.9963,,-7.95478297
+2453345.741,5.995,1.319,"La Silla Observatory, Chile",GJ3325,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.931060205,0.002525088,2.994681686,-0.005157778,31.9,899.9824,,-1.108078003
+2454140.568,-3.653,1.169,"La Silla Observatory, Chile",GJ3325,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.946362443,0.002090675,2.999440323,-0.005041064,39.4,899.9968,,-21.3965081
+2454732.832,-6.093,2.347,"La Silla Observatory, Chile",GJ3325,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.966984281,0.004786393,3.007975596,-0.012399264,17.8,900.0,,21.66073177
+2454754.823,9.75,1.306,"La Silla Observatory, Chile",GJ3325,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.937305743,0.002465199,3.000051548,-0.016087234,34.4,900.0,,17.35827831
+2454767.785,2.716,1.305,"La Silla Observatory, Chile",GJ3325,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.934077082,0.002479893,3.005149084,-0.001876071,34.3,900.0,,13.66482612
+2455480.804,-12.388,1.512,"La Silla Observatory, Chile",GJ3325,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.945725913,0.002806556,2.996694536,-0.007884571,30.0,900.0006,,18.53026856
+2456003.493,-0.413,1.694,"La Silla Observatory, Chile",GJ3325,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.919499749,0.003364786,3.007147612,-0.000625159,24.3,899.9937,,-22.49258433

@@ -1,4 +1,4 @@
-Time,RV,Uncertainty,Observatory_Name,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisetor,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
-2452943.642,-3.652,0.805,La Silla Observatory,GJ1279,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.664908967,0.000720683,6.452249321,0.057348963,119.8,899.9964,,-17.40223434
-2453337.555,2.342,0.896,La Silla Observatory,GJ1279,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.674526709,0.000382434,6.481277484,0.048558775,221.5,899.9816,,-15.62865183
-2456622.528,1.701,0.792,La Silla Observatory,GJ1279,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.647610297,0.000557579,6.42665782,0.043701618,158.8,900.0008,,-15.90183046
+Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisetor,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
+2452943.642,-3.652,0.805,"La Silla Observatory, Chile",GJ1279,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.664908967,0.000720683,6.452249321,0.057348963,119.8,899.9964,,-17.40223434
+2453337.555,2.342,0.896,"La Silla Observatory, Chile",GJ1279,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.674526709,0.000382434,6.481277484,0.048558775,221.5,899.9816,,-15.62865183
+2456622.528,1.701,0.792,"La Silla Observatory, Chile",GJ1279,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.647610297,0.000557579,6.42665782,0.043701618,158.8,900.0008,,-15.90183046

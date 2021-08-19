@@ -1,7 +1,7 @@
-Time,RV,Uncertainty,Observatory_Name,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisetor,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
-2457223.566,100.112,2.601,La Silla Observatory,BD-194341,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.677305677,0.002173522,13.4758147,-2.559827872,46.1,699.9983,,-23.09921679
-2457223.574,-132.091,2.153,La Silla Observatory,BD-194341,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.674595768,0.001956905,0.902465975,0.0,50.6,699.9983,,-23.12186069
-2457224.569,240.218,1.995,La Silla Observatory,BD-194341,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.677719963,0.001752759,23.54445232,131.3900168,56.0,699.9983,,-23.41966294
-2457224.578,228.307,1.914,La Silla Observatory,BD-194341,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.674652754,0.001684819,14.48139584,3.961331176,58.0,699.9984,,-23.44257755
-2457225.538,-637.817,2.417,La Silla Observatory,BD-194341,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.68358556,0.002311999,1.208599299,0.0,43.9,699.9983,,-23.63944923
-2457225.547,1.481,2.518,La Silla Observatory,BD-194341,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.676725961,0.002316925,6.80586972,0.0,43.1,699.9983,,-23.6629775
+Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisetor,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
+2457223.566,100.112,2.601,"La Silla Observatory, Chile",BD-194341,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.677305677,0.002173522,13.4758147,-2.559827872,46.1,699.9983,,-23.09921679
+2457223.574,-132.091,2.153,"La Silla Observatory, Chile",BD-194341,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.674595768,0.001956905,0.902465975,0.0,50.6,699.9983,,-23.12186069
+2457224.569,240.218,1.995,"La Silla Observatory, Chile",BD-194341,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.677719963,0.001752759,23.54445232,131.3900168,56.0,699.9983,,-23.41966294
+2457224.578,228.307,1.914,"La Silla Observatory, Chile",BD-194341,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.674652754,0.001684819,14.48139584,3.961331176,58.0,699.9984,,-23.44257755
+2457225.538,-637.817,2.417,"La Silla Observatory, Chile",BD-194341,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.68358556,0.002311999,1.208599299,0.0,43.9,699.9983,,-23.63944923
+2457225.547,1.481,2.518,"La Silla Observatory, Chile",BD-194341,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.676725961,0.002316925,6.80586972,0.0,43.1,699.9983,,-23.6629775

@@ -1,253 +1,253 @@
 Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisector,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
-2451634.678207,8.09,3.32,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2451634.682949,6.62,3.18,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2451634.687693,7.71,3.23,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2451654.500347,0.64,3.28,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2451654.505227,1.56,3.22,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2451654.509931,4.89,3.05,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2451682.556520,1.78,3.52,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2451682.561388,-1.10,3.99,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2451682.566330,-2.66,4.79,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2451707.567274,4.02,3.54,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2451707.572151,4.29,3.80,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2451707.576851,0.98,3.51,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2451737.475495,3.37,3.58,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2451737.480319,3.99,3.76,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2451737.485051,1.43,3.86,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2451740.471644,0.66,3.30,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2451740.476464,-0.69,3.44,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2451740.481197,-2.29,3.28,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2451761.525314,-1.71,3.70,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2451762.481020,-1.90,3.21,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2451762.485761,-4.81,3.51,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2451762.490846,-2.03,3.48,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2451916.815628,0.62,3.29,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2451916.820458,0.90,3.62,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2451916.825165,0.97,3.30,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2451946.776406,-3.31,3.20,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2451946.781201,1.57,3.16,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2451946.785941,-1.08,3.29,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452266.830789,7.26,3.46,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452266.835586,5.38,3.49,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452266.840344,5.63,3.35,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452317.656653,4.92,3.27,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452317.661411,5.04,3.16,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452317.666116,7.47,3.26,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452327.665711,-4.03,3.45,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452327.670468,-1.17,3.40,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452327.675225,-0.93,3.58,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452424.505113,-3.20,3.54,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452424.508672,1.65,3.51,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452424.512184,-0.44,3.34,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452425.587946,-7.50,4.62,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452425.591430,-11.12,3.92,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452425.595029,-6.43,3.82,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452438.478999,-7.38,3.54,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452438.482586,-3.94,3.52,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452438.486110,-4.86,3.43,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452613.826642,3.59,3.64,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452613.830178,0.81,3.61,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452613.833760,-7.08,3.57,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452615.794561,-1.53,3.71,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452615.798086,0.62,3.65,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452615.801674,-1.01,3.57,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452618.837731,-5.26,3.87,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452618.841308,-0.92,3.83,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452618.844826,-5.47,3.66,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452632.835948,-4.13,3.56,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452632.839472,-0.49,3.63,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452632.843037,-1.31,3.54,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452708.600393,-1.08,4.08,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452708.603744,0.62,3.89,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452708.607106,-4.78,4.18,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452709.628189,-0.24,3.70,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452709.631511,1.50,3.24,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452709.634955,1.97,3.64,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452744.490212,-6.57,3.34,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452744.493591,-7.41,3.30,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452744.496971,-6.58,3.37,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452761.495448,-2.60,3.60,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452761.498781,-12.30,3.41,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452761.502184,-8.67,3.43,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453072.865572,0.56,3.57,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453072.869096,-2.76,3.47,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453072.872719,1.61,3.56,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453076.721232,2.40,3.42,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453076.724768,5.61,3.37,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453076.728333,4.44,3.31,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453088.815801,-6.05,3.51,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453088.819400,-5.01,3.60,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453088.822936,-5.71,3.73,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453090.836012,1.71,4.06,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453090.839519,1.06,4.01,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453090.843182,-2.65,4.82,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453095.839373,0.89,4.04,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453095.847307,-2.54,4.04,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453095.850930,0.58,4.28,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453098.744038,-5.68,3.11,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453098.747591,-7.34,3.33,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453098.751156,-4.10,3.40,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453112.545588,-8.92,3.66,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453112.549084,-6.14,3.35,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453112.552625,-2.84,3.69,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453126.499859,-14.65,4.14,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453126.503412,-15.21,3.74,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453126.506855,-8.23,3.95,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453354.802261,0.22,3.65,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453354.805698,-3.24,3.79,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453354.809292,3.70,4.00,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453395.832976,7.01,3.61,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453395.836500,2.64,3.57,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453395.840071,2.12,3.56,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453401.861024,1.31,3.32,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453401.864508,3.85,3.44,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453401.868120,2.31,3.37,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453430.805782,1.78,3.59,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453430.809335,4.47,3.41,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453430.812900,1.32,3.32,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453453.613228,4.61,3.32,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453453.616712,5.46,3.39,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453453.620311,3.75,3.40,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453457.588555,-1.45,3.41,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453457.592108,-0.36,3.42,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453457.595661,-0.78,3.42,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453487.647435,-1.92,3.62,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453487.651035,-6.34,3.69,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453487.654576,-3.01,3.56,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453520.494909,0.58,5.09,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453520.498531,-0.42,4.05,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453520.501957,5.18,4.40,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453572.476512,-0.21,3.64,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453572.476512,-0.21,3.64,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453572.479979,4.41,3.85,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453572.479979,4.41,3.85,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453572.483560,-1.56,3.64,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453572.483560,-1.56,3.64,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453747.858976,3.93,3.26,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453747.862761,3.62,3.09,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453747.866546,7.49,3.31,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453752.670334,-1.04,3.43,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453752.674073,0.99,3.53,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453752.677823,10.42,3.76,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453754.781316,6.27,3.31,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453754.785049,6.76,3.45,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453754.788840,6.69,3.43,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453756.843616,6.66,3.30,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453756.847367,5.25,3.48,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453756.851146,4.13,3.15,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453778.822472,5.41,3.32,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453778.826245,8.32,3.33,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453778.830018,5.66,3.17,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453782.700769,0.36,3.40,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453782.704531,1.64,3.47,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453782.708305,-6.27,3.44,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453783.687515,3.15,3.60,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453783.691277,-1.99,3.61,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2453783.695039,2.55,3.57,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2454106.801186,0.23,3.97,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2454106.804815,-2.17,4.47,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2454106.808432,-2.31,6.02,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2454106.813658,-1.69,4.28,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2454106.817264,-1.13,4.08,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2454106.820864,-6.10,3.60,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2454158.887561,-6.35,4.18,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2454158.891143,-2.95,4.26,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2454158.894853,-2.91,4.66,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2454170.836579,1.36,3.29,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2454170.840115,1.59,3.36,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2454170.843546,-2.06,3.51,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2454178.732760,-1.64,3.25,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2454178.736250,-1.28,3.27,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2454178.739820,-0.27,3.48,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2454187.633324,7.59,3.34,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2454187.636883,5.44,3.32,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2454187.640373,5.74,3.41,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2454188.588767,4.88,3.41,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2454188.592378,9.01,3.47,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2454188.595868,5.08,3.47,"ESO VLT, Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
-2452989.836,1.127,1.185,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.840120032,0.001399648,3.084455529,-0.010997639,58.5,899.9958,,25.04070994
-2452996.845,-1.184,1.04,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.868539711,0.00093682,3.082015226,-0.006751145,90.0,899.996,,25.62978035
-2453511.576,-2.68,1.003,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.823176447,0.001010296,3.101133397,-0.010509676,80.3,900.0021,,-19.3699628
-2453516.593,-4.066,1.185,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.819942998,0.001435193,3.093666899,-0.009977302,56.1,430.0023,,-20.6858497
-2453516.598,-4.523,1.34,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.819898948,0.001718275,3.093190507,-0.004672935,46.6,430.0002,,-20.69584652
-2453520.602,6.528,1.697,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.826548362,0.002236954,3.097785521,-0.003597201,35.6,308.4991,,-21.62787204
-2453809.752,-0.183,0.917,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.820709609,0.000899938,3.10093025,-0.009558324,92.5,899.9983,,6.643446362
-2453810.73,-4.208,0.766,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.823281621,0.000806942,3.10128153,-0.008904123,103.8,900.0001,,6.268787887
-2453817.771,-2.748,1.059,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.825110792,0.00099039,3.106136416,-0.005915697,84.9,899.9982,,3.120709066
-2454134.828,-1.07,1.019,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.836852259,0.000871031,3.10486075,-0.00894449,98.5,899.9988,,21.07169659
-2454200.676,0.266,0.902,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.827024113,0.001036071,3.10746086,-0.008218266,82.1,899.9948,,-4.432153129
-2454229.643,-0.038,1.248,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.819601197,0.001540552,3.111213962,-0.009966465,54.3,899.9958,,-15.6927205
-2454256.555,4.576,1.05,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.834272832,0.000962829,3.107670066,-0.010095774,87.4,1499.9998,,-22.62413159
-2454257.532,4.833,0.997,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.828629007,0.001149106,3.114122893,-0.010195101,73.9,1500.0005,,-22.75649925
-2454258.497,1.98,0.845,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.840775153,0.00102935,3.113181227,-0.009285915,82.4,1200.001,,-22.85244754
-2454296.564,2.449,1.268,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.822086066,0.001419442,3.094588724,-0.010612314,56.8,899.9999,,-24.50233791
-2454299.537,3.232,1.416,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.838921168,0.001799067,3.100754626,-0.011303698,46.6,900.0004,,-24.16621976
-2454459.85,-2.5,0.754,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.824639608,0.000887288,3.104768547,-0.006506714,95.9,900.0,,25.71048052
-2454460.852,-6.007,0.901,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.824673908,0.001235331,3.113360424,-0.009941391,69.6,900.0,,25.74425134
-2454526.746,-2.976,1.005,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.817475052,0.000822086,3.100319667,-0.009193712,102.5,900.0,,12.29686436
-2454549.674,2.453,1.188,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.809819922,0.001493525,3.109917988,-0.01198379,56.4,1200.0,,2.705671527
-2454552.695,1.735,0.874,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.817459018,0.000931455,3.107071097,-0.008246047,90.5,1200.0,,1.331964096
-2454556.64,-0.099,0.954,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.809623711,0.001173435,3.108674148,-0.01031498,72.1,900.0,,-0.293125268
-2454562.686,-3.624,0.645,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.81560674,0.000792649,3.103007267,-0.010280851,106.1,900.0,,-3.054912298
-2454566.65,2.863,0.648,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.814393248,0.000803858,3.101595705,-0.008796331,104.4,900.0,,-4.70491227
-2454570.612,-3.623,1.09,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.812275029,0.001064046,3.105964654,-0.008086307,79.5,900.0,,-6.310799158
-2454639.549,-0.499,1.075,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.822709523,0.00115711,3.100433592,-0.008632864,71.7,900.0,,-24.81336653
-2454640.537,4.163,1.058,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.822875646,0.001009109,3.099585617,-0.010404502,82.8,900.0,,-24.85517254
-2454641.509,3.766,0.758,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.826052097,0.000860661,3.100690829,-0.009554031,98.0,900.0,,-24.85928224
-2454642.532,1.194,1.079,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.826535233,0.001005489,3.102048143,-0.008463105,83.3,900.0,,-24.95004662
-2454643.542,-0.593,1.034,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.820774357,0.001131061,3.102393122,-0.007537431,73.8,900.0,,-25.00676385
-2454645.511,-0.3,1.108,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.827713449,0.001236688,3.108127433,-0.009201294,67.6,900.0,,-25.01738489
-2454646.511,4.393,1.023,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.824852784,0.001078988,3.105380547,-0.007912963,77.8,900.0,,-25.0387305
-2454647.471,5.305,1.079,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.823098781,0.001058776,3.105801867,-0.009495542,80.5,900.0,,-24.97832978
-2454648.508,6.404,0.992,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.823107938,0.000958523,3.108329633,-0.008023653,88.2,900.0,,-25.05339167
-2454658.463,-2.573,1.074,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.823361564,0.000992768,3.112896043,-0.006075356,84.0,900.0,,-24.62628661
-2454660.461,-1.654,1.162,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.818714947,0.001293245,3.109834705,-0.005610802,64.3,900.0,,-24.46857236
-2454661.464,1.269,1.068,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.822731593,0.001082951,3.108524462,-0.009774509,77.6,900.0,,-24.38649526
-2454662.474,2.767,1.101,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.82103403,0.001068345,3.107316564,-0.009051747,78.2,900.0,,-24.31055445
-2454663.462,1.59,1.019,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.833496666,0.000840914,3.109398408,-0.010879876,101.1,900.0,,-24.19115289
-2454664.468,1.274,1.354,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.817598345,0.0016106,3.109275681,-0.006151356,51.3,900.0,,-24.0932034
-2454665.472,-3.093,1.055,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.819585436,0.000991217,3.112187415,-0.008759047,84.2,900.0,,-23.98664807
-2454666.466,-1.816,0.895,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.824253969,0.000875837,3.110765176,-0.007303271,95.8,900.0,,-23.85898835
-2454672.516,-2.104,0.845,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.818870215,0.001207069,3.103261773,-0.00956613,69.1,900.0,,-23.06464054
-2454674.471,-8.003,1.182,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.822023436,0.001326433,3.103483608,-0.014911132,62.7,900.0,,-22.68486578
-2454677.478,1.311,1.139,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.821368906,0.001149888,3.102485264,-0.007785836,71.8,900.0,,-22.13816381
-2454678.474,1.543,1.409,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.828392953,0.002083227,3.101448284,-0.008512637,40.1,900.0,,-21.93482975
-2454679.477,-0.681,1.086,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.841506602,0.001055655,3.104859236,-0.009930256,79.8,900.0,,-21.7321485
-2454681.47,-0.463,1.164,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.820742446,0.001202254,3.103149893,-0.009297852,68.4,900.0,,-21.29340311
-2454682.475,0.271,0.871,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.824331059,0.000913943,3.109043014,-0.008877037,91.5,900.0,,-21.07247511
-2455041.492,-1.107,1.057,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.844852504,0.000966482,3.099706494,-0.009246465,87.3,899.9998,,-22.37946229
-2455046.465,4.846,1.112,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.841360204,0.001124614,3.098255479,-0.007504404,75.3,900.001,,-21.32872079
-2455047.483,5.192,1.218,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.849345389,0.001358987,3.099214549,-0.007072722,61.7,899.9993,,-21.12367971
-2455048.481,-2.519,1.033,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.840654982,0.001439473,3.09414034,-0.011241882,58.6,899.9995,,-20.89418849
-2455049.487,-3.384,1.127,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.839479903,0.001387815,3.097580202,-0.00568316,59.9,899.9998,,-20.66476957
-2455050.479,-3.292,1.893,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.848750418,0.002584037,3.09736218,-0.009650149,32.5,899.9996,,-20.42016636
-2455053.477,-2.996,1.022,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.851724089,0.001190798,3.098628315,-0.009798313,70.6,899.9993,,-19.66873677
-2455054.482,2.18,1.212,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.837740275,0.001787609,3.095307004,-0.008967506,46.7,899.9992,,-19.41029013
-2455055.466,-1.712,1.211,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.835818448,0.001360796,3.103767872,-0.000949937,62.3,899.9996,,-19.13448904
-2455056.459,-3.59,1.138,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.838024452,0.001207822,3.106155623,-0.009726461,71.2,899.9994,,-18.85805494
-2455057.476,-4.911,1.18,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.83272349,0.001374689,3.101987622,-0.008404884,61.1,900.0002,,-18.58962002
-2455234.725,-3.18,0.929,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.837416795,0.001166161,3.108707878,-0.0108539,74.5,900.0004,,20.16188217
-2455887.862,3.373,1.183,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.833212713,0.001252239,3.097902615,-0.015024734,68.0,899.9996,,20.23126743
-2455889.847,-2.796,1.317,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.83094657,0.001708659,3.107906415,-0.018421135,49.7,899.9996,,20.7975612
-2455891.845,-0.773,1.109,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.837500294,0.001091643,3.105620817,-0.009213876,78.9,899.9995,,21.32487967
-2455892.858,0.999,0.862,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.829488535,0.00112581,3.103299753,-0.010059748,75.9,900.0053,,21.56317602
-2455893.839,0.032,1.096,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.836675754,0.001053921,3.095815196,-0.007998679,80.8,900.0001,,21.8284013
-2455947.867,-0.12,1.143,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.833378749,0.001215069,3.108422476,-0.006349536,72.7,900.0058,,23.88427349
-2455948.832,-1.842,0.874,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.825295397,0.000922163,3.107256285,-0.009045888,94.4,900.0058,,23.79032813
-2455949.86,-0.816,1.02,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.82594141,0.000976081,3.108504162,-0.009153756,90.3,900.0004,,23.54241415
-2455950.868,2.242,1.042,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.82235833,0.000943672,3.112731104,-0.008575495,93.8,900.0059,,23.33175174
-2455951.841,4.582,1.094,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.822091768,0.001071245,3.109181795,-0.007265815,81.2,899.9999,,23.19820464
-2455952.868,6.072,1.03,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.823828461,0.000929657,3.11523468,-0.007878539,96.4,900.0054,,22.92744968
-2455953.85,7.43,1.152,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.822733607,0.001375716,3.110153297,-0.006888144,64.0,900.0005,,22.75815288
-2455954.851,1.663,1.153,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.830007208,0.001267695,3.12004544,-0.010902814,70.9,900.0057,,22.53422441
-2455955.846,0.241,0.966,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.825176718,0.001054026,3.121520284,-0.011322405,85.0,900.0001,,22.32092194
-2455956.821,0.772,0.983,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.82628361,0.001038198,3.114177539,-0.011035348,85.2,900.0058,,22.14611039
-2455958.831,2.308,1.061,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.82729116,0.000994788,3.111768401,-0.009367268,88.4,900.0057,,21.63641726
-2455959.796,5.035,1.137,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.830927954,0.001175186,3.110175576,-0.009416854,73.7,900.0059,,21.46648199
-2455960.831,3.855,1.06,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.830060958,0.001000458,3.11516618,-0.006967865,88.5,900.0059,,21.12452713
-2455961.821,1.458,1.064,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.832701003,0.001001016,3.112705525,-0.010696732,88.3,900.0058,,20.88352674
-2455962.839,-1.482,1.061,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.833169956,0.000983891,3.10892828,-0.007863731,89.3,900.0059,,20.56966409
-2455963.815,-2.368,0.948,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.831068755,0.001107223,3.107039187,-0.00845737,78.7,900.0059,,20.3505196
-2455964.803,-5.979,1.093,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.833164498,0.001085343,3.105487074,-0.013378774,80.4,900.0057,,20.09869044
-2455999.682,-2.653,0.998,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.835424301,0.001189039,3.106355422,-0.00918342,72.6,899.9942,,7.486777099
-2456001.663,-1.969,0.947,La Silla Observatory,GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.827886036,0.001281793,3.103743558,-0.011522973,67.1,899.9997,,6.678364399
+2451634.678207,8.09,3.32,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2451634.682949,6.62,3.18,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2451634.687693,7.71,3.23,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2451654.500347,0.64,3.28,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2451654.505227,1.56,3.22,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2451654.509931,4.89,3.05,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2451682.556520,1.78,3.52,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2451682.561388,-1.10,3.99,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2451682.566330,-2.66,4.79,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2451707.567274,4.02,3.54,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2451707.572151,4.29,3.80,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2451707.576851,0.98,3.51,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2451737.475495,3.37,3.58,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2451737.480319,3.99,3.76,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2451737.485051,1.43,3.86,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2451740.471644,0.66,3.30,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2451740.476464,-0.69,3.44,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2451740.481197,-2.29,3.28,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2451761.525314,-1.71,3.70,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2451762.481020,-1.90,3.21,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2451762.485761,-4.81,3.51,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2451762.490846,-2.03,3.48,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2451916.815628,0.62,3.29,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2451916.820458,0.90,3.62,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2451916.825165,0.97,3.30,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2451946.776406,-3.31,3.20,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2451946.781201,1.57,3.16,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2451946.785941,-1.08,3.29,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452266.830789,7.26,3.46,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452266.835586,5.38,3.49,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452266.840344,5.63,3.35,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452317.656653,4.92,3.27,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452317.661411,5.04,3.16,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452317.666116,7.47,3.26,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452327.665711,-4.03,3.45,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452327.670468,-1.17,3.40,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452327.675225,-0.93,3.58,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452424.505113,-3.20,3.54,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452424.508672,1.65,3.51,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452424.512184,-0.44,3.34,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452425.587946,-7.50,4.62,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452425.591430,-11.12,3.92,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452425.595029,-6.43,3.82,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452438.478999,-7.38,3.54,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452438.482586,-3.94,3.52,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452438.486110,-4.86,3.43,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452613.826642,3.59,3.64,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452613.830178,0.81,3.61,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452613.833760,-7.08,3.57,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452615.794561,-1.53,3.71,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452615.798086,0.62,3.65,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452615.801674,-1.01,3.57,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452618.837731,-5.26,3.87,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452618.841308,-0.92,3.83,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452618.844826,-5.47,3.66,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452632.835948,-4.13,3.56,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452632.839472,-0.49,3.63,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452632.843037,-1.31,3.54,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452708.600393,-1.08,4.08,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452708.603744,0.62,3.89,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452708.607106,-4.78,4.18,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452709.628189,-0.24,3.70,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452709.631511,1.50,3.24,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452709.634955,1.97,3.64,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452744.490212,-6.57,3.34,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452744.493591,-7.41,3.30,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452744.496971,-6.58,3.37,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452761.495448,-2.60,3.60,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452761.498781,-12.30,3.41,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452761.502184,-8.67,3.43,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453072.865572,0.56,3.57,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453072.869096,-2.76,3.47,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453072.872719,1.61,3.56,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453076.721232,2.40,3.42,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453076.724768,5.61,3.37,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453076.728333,4.44,3.31,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453088.815801,-6.05,3.51,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453088.819400,-5.01,3.60,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453088.822936,-5.71,3.73,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453090.836012,1.71,4.06,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453090.839519,1.06,4.01,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453090.843182,-2.65,4.82,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453095.839373,0.89,4.04,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453095.847307,-2.54,4.04,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453095.850930,0.58,4.28,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453098.744038,-5.68,3.11,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453098.747591,-7.34,3.33,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453098.751156,-4.10,3.40,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453112.545588,-8.92,3.66,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453112.549084,-6.14,3.35,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453112.552625,-2.84,3.69,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453126.499859,-14.65,4.14,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453126.503412,-15.21,3.74,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453126.506855,-8.23,3.95,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453354.802261,0.22,3.65,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453354.805698,-3.24,3.79,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453354.809292,3.70,4.00,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453395.832976,7.01,3.61,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453395.836500,2.64,3.57,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453395.840071,2.12,3.56,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453401.861024,1.31,3.32,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453401.864508,3.85,3.44,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453401.868120,2.31,3.37,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453430.805782,1.78,3.59,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453430.809335,4.47,3.41,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453430.812900,1.32,3.32,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453453.613228,4.61,3.32,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453453.616712,5.46,3.39,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453453.620311,3.75,3.40,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453457.588555,-1.45,3.41,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453457.592108,-0.36,3.42,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453457.595661,-0.78,3.42,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453487.647435,-1.92,3.62,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453487.651035,-6.34,3.69,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453487.654576,-3.01,3.56,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453520.494909,0.58,5.09,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453520.498531,-0.42,4.05,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453520.501957,5.18,4.40,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453572.476512,-0.21,3.64,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453572.476512,-0.21,3.64,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453572.479979,4.41,3.85,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453572.479979,4.41,3.85,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453572.483560,-1.56,3.64,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453572.483560,-1.56,3.64,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453747.858976,3.93,3.26,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453747.862761,3.62,3.09,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453747.866546,7.49,3.31,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453752.670334,-1.04,3.43,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453752.674073,0.99,3.53,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453752.677823,10.42,3.76,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453754.781316,6.27,3.31,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453754.785049,6.76,3.45,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453754.788840,6.69,3.43,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453756.843616,6.66,3.30,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453756.847367,5.25,3.48,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453756.851146,4.13,3.15,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453778.822472,5.41,3.32,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453778.826245,8.32,3.33,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453778.830018,5.66,3.17,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453782.700769,0.36,3.40,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453782.704531,1.64,3.47,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453782.708305,-6.27,3.44,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453783.687515,3.15,3.60,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453783.691277,-1.99,3.61,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2453783.695039,2.55,3.57,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2454106.801186,0.23,3.97,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2454106.804815,-2.17,4.47,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2454106.808432,-2.31,6.02,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2454106.813658,-1.69,4.28,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2454106.817264,-1.13,4.08,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2454106.820864,-6.10,3.60,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2454158.887561,-6.35,4.18,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2454158.891143,-2.95,4.26,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2454158.894853,-2.91,4.66,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2454170.836579,1.36,3.29,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2454170.840115,1.59,3.36,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2454170.843546,-2.06,3.51,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2454178.732760,-1.64,3.25,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2454178.736250,-1.28,3.27,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2454178.739820,-0.27,3.48,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2454187.633324,7.59,3.34,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2454187.636883,5.44,3.32,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2454187.640373,5.74,3.41,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2454188.588767,4.88,3.41,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2454188.592378,9.01,3.47,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2454188.595868,5.08,3.47,"Paranal Observatory, Chile",GJ 433,BJD,"Zechmeister et al. 2009 (A&A, 505, 859)",UVES,Iodine,Wright,,,,,,,,
+2452989.836,1.127,1.185,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.840120032,0.001399648,3.084455529,-0.010997639,58.5,899.9958,,25.04070994
+2452996.845,-1.184,1.04,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.868539711,0.00093682,3.082015226,-0.006751145,90.0,899.996,,25.62978035
+2453511.576,-2.68,1.003,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.823176447,0.001010296,3.101133397,-0.010509676,80.3,900.0021,,-19.3699628
+2453516.593,-4.066,1.185,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.819942998,0.001435193,3.093666899,-0.009977302,56.1,430.0023,,-20.6858497
+2453516.598,-4.523,1.34,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.819898948,0.001718275,3.093190507,-0.004672935,46.6,430.0002,,-20.69584652
+2453520.602,6.528,1.697,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.826548362,0.002236954,3.097785521,-0.003597201,35.6,308.4991,,-21.62787204
+2453809.752,-0.183,0.917,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.820709609,0.000899938,3.10093025,-0.009558324,92.5,899.9983,,6.643446362
+2453810.73,-4.208,0.766,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.823281621,0.000806942,3.10128153,-0.008904123,103.8,900.0001,,6.268787887
+2453817.771,-2.748,1.059,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.825110792,0.00099039,3.106136416,-0.005915697,84.9,899.9982,,3.120709066
+2454134.828,-1.07,1.019,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.836852259,0.000871031,3.10486075,-0.00894449,98.5,899.9988,,21.07169659
+2454200.676,0.266,0.902,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.827024113,0.001036071,3.10746086,-0.008218266,82.1,899.9948,,-4.432153129
+2454229.643,-0.038,1.248,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.819601197,0.001540552,3.111213962,-0.009966465,54.3,899.9958,,-15.6927205
+2454256.555,4.576,1.05,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.834272832,0.000962829,3.107670066,-0.010095774,87.4,1499.9998,,-22.62413159
+2454257.532,4.833,0.997,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.828629007,0.001149106,3.114122893,-0.010195101,73.9,1500.0005,,-22.75649925
+2454258.497,1.98,0.845,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.840775153,0.00102935,3.113181227,-0.009285915,82.4,1200.001,,-22.85244754
+2454296.564,2.449,1.268,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.822086066,0.001419442,3.094588724,-0.010612314,56.8,899.9999,,-24.50233791
+2454299.537,3.232,1.416,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.838921168,0.001799067,3.100754626,-0.011303698,46.6,900.0004,,-24.16621976
+2454459.85,-2.5,0.754,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.824639608,0.000887288,3.104768547,-0.006506714,95.9,900.0,,25.71048052
+2454460.852,-6.007,0.901,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.824673908,0.001235331,3.113360424,-0.009941391,69.6,900.0,,25.74425134
+2454526.746,-2.976,1.005,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.817475052,0.000822086,3.100319667,-0.009193712,102.5,900.0,,12.29686436
+2454549.674,2.453,1.188,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.809819922,0.001493525,3.109917988,-0.01198379,56.4,1200.0,,2.705671527
+2454552.695,1.735,0.874,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.817459018,0.000931455,3.107071097,-0.008246047,90.5,1200.0,,1.331964096
+2454556.64,-0.099,0.954,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.809623711,0.001173435,3.108674148,-0.01031498,72.1,900.0,,-0.293125268
+2454562.686,-3.624,0.645,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.81560674,0.000792649,3.103007267,-0.010280851,106.1,900.0,,-3.054912298
+2454566.65,2.863,0.648,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.814393248,0.000803858,3.101595705,-0.008796331,104.4,900.0,,-4.70491227
+2454570.612,-3.623,1.09,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.812275029,0.001064046,3.105964654,-0.008086307,79.5,900.0,,-6.310799158
+2454639.549,-0.499,1.075,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.822709523,0.00115711,3.100433592,-0.008632864,71.7,900.0,,-24.81336653
+2454640.537,4.163,1.058,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.822875646,0.001009109,3.099585617,-0.010404502,82.8,900.0,,-24.85517254
+2454641.509,3.766,0.758,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.826052097,0.000860661,3.100690829,-0.009554031,98.0,900.0,,-24.85928224
+2454642.532,1.194,1.079,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.826535233,0.001005489,3.102048143,-0.008463105,83.3,900.0,,-24.95004662
+2454643.542,-0.593,1.034,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.820774357,0.001131061,3.102393122,-0.007537431,73.8,900.0,,-25.00676385
+2454645.511,-0.3,1.108,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.827713449,0.001236688,3.108127433,-0.009201294,67.6,900.0,,-25.01738489
+2454646.511,4.393,1.023,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.824852784,0.001078988,3.105380547,-0.007912963,77.8,900.0,,-25.0387305
+2454647.471,5.305,1.079,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.823098781,0.001058776,3.105801867,-0.009495542,80.5,900.0,,-24.97832978
+2454648.508,6.404,0.992,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.823107938,0.000958523,3.108329633,-0.008023653,88.2,900.0,,-25.05339167
+2454658.463,-2.573,1.074,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.823361564,0.000992768,3.112896043,-0.006075356,84.0,900.0,,-24.62628661
+2454660.461,-1.654,1.162,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.818714947,0.001293245,3.109834705,-0.005610802,64.3,900.0,,-24.46857236
+2454661.464,1.269,1.068,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.822731593,0.001082951,3.108524462,-0.009774509,77.6,900.0,,-24.38649526
+2454662.474,2.767,1.101,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.82103403,0.001068345,3.107316564,-0.009051747,78.2,900.0,,-24.31055445
+2454663.462,1.59,1.019,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.833496666,0.000840914,3.109398408,-0.010879876,101.1,900.0,,-24.19115289
+2454664.468,1.274,1.354,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.817598345,0.0016106,3.109275681,-0.006151356,51.3,900.0,,-24.0932034
+2454665.472,-3.093,1.055,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.819585436,0.000991217,3.112187415,-0.008759047,84.2,900.0,,-23.98664807
+2454666.466,-1.816,0.895,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.824253969,0.000875837,3.110765176,-0.007303271,95.8,900.0,,-23.85898835
+2454672.516,-2.104,0.845,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.818870215,0.001207069,3.103261773,-0.00956613,69.1,900.0,,-23.06464054
+2454674.471,-8.003,1.182,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.822023436,0.001326433,3.103483608,-0.014911132,62.7,900.0,,-22.68486578
+2454677.478,1.311,1.139,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.821368906,0.001149888,3.102485264,-0.007785836,71.8,900.0,,-22.13816381
+2454678.474,1.543,1.409,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.828392953,0.002083227,3.101448284,-0.008512637,40.1,900.0,,-21.93482975
+2454679.477,-0.681,1.086,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.841506602,0.001055655,3.104859236,-0.009930256,79.8,900.0,,-21.7321485
+2454681.47,-0.463,1.164,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.820742446,0.001202254,3.103149893,-0.009297852,68.4,900.0,,-21.29340311
+2454682.475,0.271,0.871,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.824331059,0.000913943,3.109043014,-0.008877037,91.5,900.0,,-21.07247511
+2455041.492,-1.107,1.057,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.844852504,0.000966482,3.099706494,-0.009246465,87.3,899.9998,,-22.37946229
+2455046.465,4.846,1.112,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.841360204,0.001124614,3.098255479,-0.007504404,75.3,900.001,,-21.32872079
+2455047.483,5.192,1.218,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.849345389,0.001358987,3.099214549,-0.007072722,61.7,899.9993,,-21.12367971
+2455048.481,-2.519,1.033,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.840654982,0.001439473,3.09414034,-0.011241882,58.6,899.9995,,-20.89418849
+2455049.487,-3.384,1.127,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.839479903,0.001387815,3.097580202,-0.00568316,59.9,899.9998,,-20.66476957
+2455050.479,-3.292,1.893,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.848750418,0.002584037,3.09736218,-0.009650149,32.5,899.9996,,-20.42016636
+2455053.477,-2.996,1.022,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.851724089,0.001190798,3.098628315,-0.009798313,70.6,899.9993,,-19.66873677
+2455054.482,2.18,1.212,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.837740275,0.001787609,3.095307004,-0.008967506,46.7,899.9992,,-19.41029013
+2455055.466,-1.712,1.211,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.835818448,0.001360796,3.103767872,-0.000949937,62.3,899.9996,,-19.13448904
+2455056.459,-3.59,1.138,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.838024452,0.001207822,3.106155623,-0.009726461,71.2,899.9994,,-18.85805494
+2455057.476,-4.911,1.18,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.83272349,0.001374689,3.101987622,-0.008404884,61.1,900.0002,,-18.58962002
+2455234.725,-3.18,0.929,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.837416795,0.001166161,3.108707878,-0.0108539,74.5,900.0004,,20.16188217
+2455887.862,3.373,1.183,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.833212713,0.001252239,3.097902615,-0.015024734,68.0,899.9996,,20.23126743
+2455889.847,-2.796,1.317,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.83094657,0.001708659,3.107906415,-0.018421135,49.7,899.9996,,20.7975612
+2455891.845,-0.773,1.109,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.837500294,0.001091643,3.105620817,-0.009213876,78.9,899.9995,,21.32487967
+2455892.858,0.999,0.862,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.829488535,0.00112581,3.103299753,-0.010059748,75.9,900.0053,,21.56317602
+2455893.839,0.032,1.096,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.836675754,0.001053921,3.095815196,-0.007998679,80.8,900.0001,,21.8284013
+2455947.867,-0.12,1.143,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.833378749,0.001215069,3.108422476,-0.006349536,72.7,900.0058,,23.88427349
+2455948.832,-1.842,0.874,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.825295397,0.000922163,3.107256285,-0.009045888,94.4,900.0058,,23.79032813
+2455949.86,-0.816,1.02,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.82594141,0.000976081,3.108504162,-0.009153756,90.3,900.0004,,23.54241415
+2455950.868,2.242,1.042,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.82235833,0.000943672,3.112731104,-0.008575495,93.8,900.0059,,23.33175174
+2455951.841,4.582,1.094,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.822091768,0.001071245,3.109181795,-0.007265815,81.2,899.9999,,23.19820464
+2455952.868,6.072,1.03,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.823828461,0.000929657,3.11523468,-0.007878539,96.4,900.0054,,22.92744968
+2455953.85,7.43,1.152,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.822733607,0.001375716,3.110153297,-0.006888144,64.0,900.0005,,22.75815288
+2455954.851,1.663,1.153,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.830007208,0.001267695,3.12004544,-0.010902814,70.9,900.0057,,22.53422441
+2455955.846,0.241,0.966,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.825176718,0.001054026,3.121520284,-0.011322405,85.0,900.0001,,22.32092194
+2455956.821,0.772,0.983,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.82628361,0.001038198,3.114177539,-0.011035348,85.2,900.0058,,22.14611039
+2455958.831,2.308,1.061,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.82729116,0.000994788,3.111768401,-0.009367268,88.4,900.0057,,21.63641726
+2455959.796,5.035,1.137,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.830927954,0.001175186,3.110175576,-0.009416854,73.7,900.0059,,21.46648199
+2455960.831,3.855,1.06,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.830060958,0.001000458,3.11516618,-0.006967865,88.5,900.0059,,21.12452713
+2455961.821,1.458,1.064,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.832701003,0.001001016,3.112705525,-0.010696732,88.3,900.0058,,20.88352674
+2455962.839,-1.482,1.061,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.833169956,0.000983891,3.10892828,-0.007863731,89.3,900.0059,,20.56966409
+2455963.815,-2.368,0.948,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.831068755,0.001107223,3.107039187,-0.00845737,78.7,900.0059,,20.3505196
+2455964.803,-5.979,1.093,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.833164498,0.001085343,3.105487074,-0.013378774,80.4,900.0057,,20.09869044
+2455999.682,-2.653,0.998,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.835424301,0.001189039,3.106355422,-0.00918342,72.6,899.9942,,7.486777099
+2456001.663,-1.969,0.947,"La Silla Observatory, Chile",GJ433,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.827886036,0.001281793,3.103743558,-0.011522973,67.1,899.9997,,6.678364399

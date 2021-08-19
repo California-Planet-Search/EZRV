@@ -1,10 +1,10 @@
-Time,RV,Uncertainty,Observatory_Name,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisetor,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
-2454045.564,-8.142,1.25,La Silla Observatory,HD2529,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.445221688,0.001006529,9.769378624,-2513559.196,71.6,119.9989,,-18.20173084
-2454370.648,-22.671,0.965,La Silla Observatory,HD2529,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.453772043,0.000510662,7.209995272,0.07778929,140.8,120.0002,,-8.311783488
-2454371.629,-10.036,1.019,La Silla Observatory,HD2529,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.446994911,0.000632975,7.214290124,0.076447219,113.7,120.0007,,-8.592885138
-2454622.838,30.965,0.961,La Silla Observatory,HD2529,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.454771822,0.000509415,7.205437229,0.079025517,144.4,160.0,,19.90867933
-2454684.709,24.943,1.089,La Silla Observatory,HD2529,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.450612404,0.000771152,7.21094582,0.075941754,95.0,45.0,,8.581227643
-2454685.736,3.638,1.086,La Silla Observatory,HD2529,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.449323314,0.000774999,7.218132957,0.074336881,95.0,45.0,,8.233244098
-2454785.599,-16.709,1.464,La Silla Observatory,HD2529,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.443352349,0.001309482,7.21316406,0.072829674,56.1,45.0,,-19.52259835
-2454787.55,-14.189,1.092,La Silla Observatory,HD2529,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.444035381,0.000799948,7.212423195,0.078775465,92.8,45.0,,-19.63933708
-2454788.55,1.416,1.034,La Silla Observatory,HD2529,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.442786032,0.000682332,7.205753899,0.075757656,108.1,45.0,,-19.73306698
+Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisetor,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
+2454045.564,-8.142,1.25,"La Silla Observatory, Chile",HD2529,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.445221688,0.001006529,9.769378624,-2513559.196,71.6,119.9989,,-18.20173084
+2454370.648,-22.671,0.965,"La Silla Observatory, Chile",HD2529,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.453772043,0.000510662,7.209995272,0.07778929,140.8,120.0002,,-8.311783488
+2454371.629,-10.036,1.019,"La Silla Observatory, Chile",HD2529,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.446994911,0.000632975,7.214290124,0.076447219,113.7,120.0007,,-8.592885138
+2454622.838,30.965,0.961,"La Silla Observatory, Chile",HD2529,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.454771822,0.000509415,7.205437229,0.079025517,144.4,160.0,,19.90867933
+2454684.709,24.943,1.089,"La Silla Observatory, Chile",HD2529,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.450612404,0.000771152,7.21094582,0.075941754,95.0,45.0,,8.581227643
+2454685.736,3.638,1.086,"La Silla Observatory, Chile",HD2529,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.449323314,0.000774999,7.218132957,0.074336881,95.0,45.0,,8.233244098
+2454785.599,-16.709,1.464,"La Silla Observatory, Chile",HD2529,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.443352349,0.001309482,7.21316406,0.072829674,56.1,45.0,,-19.52259835
+2454787.55,-14.189,1.092,"La Silla Observatory, Chile",HD2529,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.444035381,0.000799948,7.212423195,0.078775465,92.8,45.0,,-19.63933708
+2454788.55,1.416,1.034,"La Silla Observatory, Chile",HD2529,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.442786032,0.000682332,7.205753899,0.075757656,108.1,45.0,,-19.73306698

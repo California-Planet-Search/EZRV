@@ -1,73 +1,73 @@
 Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisector,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
-2453428.216600,3.90,8.40,"Bohyunsan Optical Astronomy Observatory, Korea",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",BOES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2453809.144300,77.20,9.20,"Bohyunsan Optical Astronomy Observatory, Korea",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",BOES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2453889.061400,-4.50,8.70,"Bohyunsan Optical Astronomy Observatory, Korea",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",BOES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454081.338200,58.10,10.40,"Bohyunsan Optical Astronomy Observatory, Korea",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",BOES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454123.207400,67.90,8.80,"Bohyunsan Optical Astronomy Observatory, Korea",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",BOES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454224.087300,33.20,12.10,"Bohyunsan Optical Astronomy Observatory, Korea",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",BOES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454471.322900,30.00,8.10,"Bohyunsan Optical Astronomy Observatory, Korea",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",BOES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454505.757400,-24.30,8.80,"Bohyunsan Optical Astronomy Observatory, Korea",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",BOES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454833.336700,14.40,9.00,"Bohyunsan Optical Astronomy Observatory, Korea",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",BOES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454930.015200,45.30,10.00,"Bohyunsan Optical Astronomy Observatory, Korea",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",BOES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454931.059700,31.70,7.70,"Bohyunsan Optical Astronomy Observatory, Korea",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",BOES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454971.060900,-4.80,9.80,"Bohyunsan Optical Astronomy Observatory, Korea",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",BOES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454994.059700,-29.70,9.30,"Bohyunsan Optical Astronomy Observatory, Korea",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",BOES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454024.342900,-12.00,9.60,"Okayama Astrophysical Observatory, Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454047.338700,-37.40,5.60,"Okayama Astrophysical Observatory, Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454075.241500,2.20,5.30,"Okayama Astrophysical Observatory, Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454094.317100,8.50,4.90,"Okayama Astrophysical Observatory, Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454131.297200,30.40,5.10,"Okayama Astrophysical Observatory, Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454151.220600,7.70,4.40,"Okayama Astrophysical Observatory, Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454176.261700,-8.80,7.20,"Okayama Astrophysical Observatory, Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454214.120100,-6.20,7.10,"Okayama Astrophysical Observatory, Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454243.040600,23.10,7.50,"Okayama Astrophysical Observatory, Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454262.046300,16.20,4.50,"Okayama Astrophysical Observatory, Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454452.308400,22.60,9.10,"Okayama Astrophysical Observatory, Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454491.270200,-21.40,4.30,"Okayama Astrophysical Observatory, Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454527.234000,-27.80,4.00,"Okayama Astrophysical Observatory, Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454561.103400,14.60,6.40,"Okayama Astrophysical Observatory, Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454565.083700,18.20,4.40,"Okayama Astrophysical Observatory, Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454594.047200,43.30,5.30,"Okayama Astrophysical Observatory, Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454634.971200,-6.70,3.40,"Okayama Astrophysical Observatory, Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454790.359100,-20.60,6.30,"Okayama Astrophysical Observatory, Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454816.350000,-39.90,4.40,"Okayama Astrophysical Observatory, Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454863.282500,2.90,7.20,"Okayama Astrophysical Observatory, Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454863.341000,0.60,7.40,"Okayama Astrophysical Observatory, Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454881.175000,20.70,5.40,"Okayama Astrophysical Observatory, Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454881.335500,17.30,4.90,"Okayama Astrophysical Observatory, Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454913.218200,31.70,4.00,"Okayama Astrophysical Observatory, Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454927.121300,34.70,4.20,"Okayama Astrophysical Observatory, Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454934.208100,32.00,8.00,"Okayama Astrophysical Observatory, Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454937.092800,5.50,5.40,"Okayama Astrophysical Observatory, Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454948.987300,-0.80,4.70,"Okayama Astrophysical Observatory, Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454984.008600,-34.50,3.70,"Okayama Astrophysical Observatory, Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2454988.973700,-43.10,4.10,"Okayama Astrophysical Observatory, Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2455025.998800,-9.80,7.30,"Okayama Astrophysical Observatory, Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2455026.973700,8.00,6.80,"Okayama Astrophysical Observatory, Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
-2457559.47,-13.397,1.035,La Silla Observatory,HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.444067644,0.00030892,8.079962459,0.039885606,247.7,499.9983,,-27.52246739
-2457559.477,-11.598,1.036,La Silla Observatory,HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.444311008,0.00031577,8.079438359,0.040340146,242.9,499.9983,,-27.53609252
-2457559.483,-10.906,1.041,La Silla Observatory,HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.444107265,0.000331472,8.081921057,0.041183778,230.4,499.9983,,-27.54956412
-2457561.508,-16.72,1.051,La Silla Observatory,HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.444241771,0.000358016,8.072079192,0.042142159,211.0,499.9983,,-27.38927122
-2457561.515,-13.178,1.054,La Silla Observatory,HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.443295726,0.000372255,8.072929301,0.040086902,203.0,499.9983,,-27.40150487
-2457561.521,-10.53,1.063,La Silla Observatory,HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.444017414,0.000401784,8.073022828,0.041236625,189.1,499.9983,,-27.41309039
-2457857.636,-32.5,1.349,La Silla Observatory,HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.445564426,0.000949697,8.127550315,0.039801573,81.8,499.9982,,-17.24320635
-2457857.642,-34.385,1.643,La Silla Observatory,HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.445582122,0.001338001,8.065851609,0.036749341,58.8,499.9983,,-17.25973811
-2457857.649,-33.862,1.472,La Silla Observatory,HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.444808865,0.001119393,8.066628154,0.043410216,69.7,499.9983,,-17.27700997
-2458143.862,-4.436,1.046,La Silla Observatory,HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.44485236,0.000321801,8.095978964,0.043144378,232.2,499.9982,,19.10867304
-2458143.869,-2.646,1.044,La Silla Observatory,HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.444892038,0.000314959,8.09659223,0.045155547,237.2,499.9982,,19.0914214
-2458143.875,-1.194,1.041,La Silla Observatory,HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.444855401,0.000303081,8.096344366,0.046001991,245.7,499.9982,,19.07491235
-2458144.858,-6.726,1.053,La Silla Observatory,HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.449047386,0.000340101,8.164932269,0.0448063,219.7,299.9982,,18.72735654
-2458144.862,-7.586,1.052,La Silla Observatory,HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.448893181,0.000332242,8.165502491,0.04516614,224.2,299.9982,,18.71702083
-2458144.865,-8.625,1.049,La Silla Observatory,HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.44829281,0.000323212,8.164281212,0.042963008,230.9,299.9982,,18.70624641
-2458145.79,5.012,1.064,La Silla Observatory,HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.451578631,0.0003753,8.104419959,0.044844477,199.9,299.9982,,18.51555895
-2458145.794,6.108,1.065,La Silla Observatory,HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.452264784,0.000377927,8.105333232,0.045913819,198.9,299.9982,,18.50550067
-2458145.798,5.234,1.058,La Silla Observatory,HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.452047746,0.000357711,8.105320255,0.046060939,210.1,299.9982,,18.49502478
-2458196.745,-11.628,1.045,La Silla Observatory,HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440168743,0.000312127,8.136118263,0.040632826,230.2,239.9982,,-5.787814112
-2458196.748,-11.73,1.047,La Silla Observatory,HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440860489,0.000319726,8.077886383,0.044479162,224.6,239.9982,,-5.79639122
-2458196.752,-11.876,1.046,La Silla Observatory,HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.439819542,0.000315332,8.134925954,0.040536121,227.7,239.9982,,-5.805002154
-2458223.684,33.721,1.043,La Silla Observatory,HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.444627922,0.000316728,8.076334209,0.040442847,227.6,499.9983,,-17.67373661
-2458223.69,32.603,1.045,La Silla Observatory,HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.44493549,0.000320517,8.074975448,0.037984569,224.3,499.9983,,-17.68958847
-2458223.696,32.845,1.046,La Silla Observatory,HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.444952433,0.000322938,8.075665611,0.039166905,222.4,499.9983,,-17.70534503
-2458225.682,34.476,1.199,La Silla Observatory,HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.446850023,0.000720599,8.079672109,0.042661287,103.4,299.9983,,-18.43440548
-2458225.685,33.95,1.224,La Silla Observatory,HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.446474743,0.000770314,8.07883772,0.040383561,97.0,299.9983,,-18.44340489
-2458225.689,33.612,1.174,La Silla Observatory,HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.445855894,0.000669666,8.076607596,0.04197577,110.8,299.9983,,-18.45363977
+2453428.216600,3.90,8.40,"Bohyunsan Optical Astronomy Observatory (BOAO), Korea",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",BOES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2453809.144300,77.20,9.20,"Bohyunsan Optical Astronomy Observatory (BOAO), Korea",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",BOES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2453889.061400,-4.50,8.70,"Bohyunsan Optical Astronomy Observatory (BOAO), Korea",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",BOES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454081.338200,58.10,10.40,"Bohyunsan Optical Astronomy Observatory (BOAO), Korea",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",BOES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454123.207400,67.90,8.80,"Bohyunsan Optical Astronomy Observatory (BOAO), Korea",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",BOES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454224.087300,33.20,12.10,"Bohyunsan Optical Astronomy Observatory (BOAO), Korea",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",BOES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454471.322900,30.00,8.10,"Bohyunsan Optical Astronomy Observatory (BOAO), Korea",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",BOES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454505.757400,-24.30,8.80,"Bohyunsan Optical Astronomy Observatory (BOAO), Korea",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",BOES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454833.336700,14.40,9.00,"Bohyunsan Optical Astronomy Observatory (BOAO), Korea",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",BOES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454930.015200,45.30,10.00,"Bohyunsan Optical Astronomy Observatory (BOAO), Korea",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",BOES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454931.059700,31.70,7.70,"Bohyunsan Optical Astronomy Observatory (BOAO), Korea",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",BOES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454971.060900,-4.80,9.80,"Bohyunsan Optical Astronomy Observatory (BOAO), Korea",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",BOES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454994.059700,-29.70,9.30,"Bohyunsan Optical Astronomy Observatory (BOAO), Korea",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",BOES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454024.342900,-12.00,9.60,"Okayama Astrophysical Observatory (OAO), Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454047.338700,-37.40,5.60,"Okayama Astrophysical Observatory (OAO), Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454075.241500,2.20,5.30,"Okayama Astrophysical Observatory (OAO), Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454094.317100,8.50,4.90,"Okayama Astrophysical Observatory (OAO), Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454131.297200,30.40,5.10,"Okayama Astrophysical Observatory (OAO), Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454151.220600,7.70,4.40,"Okayama Astrophysical Observatory (OAO), Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454176.261700,-8.80,7.20,"Okayama Astrophysical Observatory (OAO), Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454214.120100,-6.20,7.10,"Okayama Astrophysical Observatory (OAO), Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454243.040600,23.10,7.50,"Okayama Astrophysical Observatory (OAO), Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454262.046300,16.20,4.50,"Okayama Astrophysical Observatory (OAO), Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454452.308400,22.60,9.10,"Okayama Astrophysical Observatory (OAO), Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454491.270200,-21.40,4.30,"Okayama Astrophysical Observatory (OAO), Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454527.234000,-27.80,4.00,"Okayama Astrophysical Observatory (OAO), Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454561.103400,14.60,6.40,"Okayama Astrophysical Observatory (OAO), Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454565.083700,18.20,4.40,"Okayama Astrophysical Observatory (OAO), Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454594.047200,43.30,5.30,"Okayama Astrophysical Observatory (OAO), Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454634.971200,-6.70,3.40,"Okayama Astrophysical Observatory (OAO), Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454790.359100,-20.60,6.30,"Okayama Astrophysical Observatory (OAO), Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454816.350000,-39.90,4.40,"Okayama Astrophysical Observatory (OAO), Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454863.282500,2.90,7.20,"Okayama Astrophysical Observatory (OAO), Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454863.341000,0.60,7.40,"Okayama Astrophysical Observatory (OAO), Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454881.175000,20.70,5.40,"Okayama Astrophysical Observatory (OAO), Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454881.335500,17.30,4.90,"Okayama Astrophysical Observatory (OAO), Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454913.218200,31.70,4.00,"Okayama Astrophysical Observatory (OAO), Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454927.121300,34.70,4.20,"Okayama Astrophysical Observatory (OAO), Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454934.208100,32.00,8.00,"Okayama Astrophysical Observatory (OAO), Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454937.092800,5.50,5.40,"Okayama Astrophysical Observatory (OAO), Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454948.987300,-0.80,4.70,"Okayama Astrophysical Observatory (OAO), Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454984.008600,-34.50,3.70,"Okayama Astrophysical Observatory (OAO), Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2454988.973700,-43.10,4.10,"Okayama Astrophysical Observatory (OAO), Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455025.998800,-9.80,7.30,"Okayama Astrophysical Observatory (OAO), Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2455026.973700,8.00,6.80,"Okayama Astrophysical Observatory (OAO), Japan",HD 100655,JD-UTC,"Omiya et al. 2012 (2012, PASJ, 64, 34)",HIDES,Gas Cell Absorption (Iodine),Wright,,,,,,,,
+2457559.47,-13.397,1.035,"La Silla Observatory, Chile",HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.444067644,0.00030892,8.079962459,0.039885606,247.7,499.9983,,-27.52246739
+2457559.477,-11.598,1.036,"La Silla Observatory, Chile",HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.444311008,0.00031577,8.079438359,0.040340146,242.9,499.9983,,-27.53609252
+2457559.483,-10.906,1.041,"La Silla Observatory, Chile",HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.444107265,0.000331472,8.081921057,0.041183778,230.4,499.9983,,-27.54956412
+2457561.508,-16.72,1.051,"La Silla Observatory, Chile",HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.444241771,0.000358016,8.072079192,0.042142159,211.0,499.9983,,-27.38927122
+2457561.515,-13.178,1.054,"La Silla Observatory, Chile",HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.443295726,0.000372255,8.072929301,0.040086902,203.0,499.9983,,-27.40150487
+2457561.521,-10.53,1.063,"La Silla Observatory, Chile",HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.444017414,0.000401784,8.073022828,0.041236625,189.1,499.9983,,-27.41309039
+2457857.636,-32.5,1.349,"La Silla Observatory, Chile",HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.445564426,0.000949697,8.127550315,0.039801573,81.8,499.9982,,-17.24320635
+2457857.642,-34.385,1.643,"La Silla Observatory, Chile",HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.445582122,0.001338001,8.065851609,0.036749341,58.8,499.9983,,-17.25973811
+2457857.649,-33.862,1.472,"La Silla Observatory, Chile",HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.444808865,0.001119393,8.066628154,0.043410216,69.7,499.9983,,-17.27700997
+2458143.862,-4.436,1.046,"La Silla Observatory, Chile",HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.44485236,0.000321801,8.095978964,0.043144378,232.2,499.9982,,19.10867304
+2458143.869,-2.646,1.044,"La Silla Observatory, Chile",HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.444892038,0.000314959,8.09659223,0.045155547,237.2,499.9982,,19.0914214
+2458143.875,-1.194,1.041,"La Silla Observatory, Chile",HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.444855401,0.000303081,8.096344366,0.046001991,245.7,499.9982,,19.07491235
+2458144.858,-6.726,1.053,"La Silla Observatory, Chile",HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.449047386,0.000340101,8.164932269,0.0448063,219.7,299.9982,,18.72735654
+2458144.862,-7.586,1.052,"La Silla Observatory, Chile",HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.448893181,0.000332242,8.165502491,0.04516614,224.2,299.9982,,18.71702083
+2458144.865,-8.625,1.049,"La Silla Observatory, Chile",HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.44829281,0.000323212,8.164281212,0.042963008,230.9,299.9982,,18.70624641
+2458145.79,5.012,1.064,"La Silla Observatory, Chile",HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.451578631,0.0003753,8.104419959,0.044844477,199.9,299.9982,,18.51555895
+2458145.794,6.108,1.065,"La Silla Observatory, Chile",HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.452264784,0.000377927,8.105333232,0.045913819,198.9,299.9982,,18.50550067
+2458145.798,5.234,1.058,"La Silla Observatory, Chile",HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.452047746,0.000357711,8.105320255,0.046060939,210.1,299.9982,,18.49502478
+2458196.745,-11.628,1.045,"La Silla Observatory, Chile",HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440168743,0.000312127,8.136118263,0.040632826,230.2,239.9982,,-5.787814112
+2458196.748,-11.73,1.047,"La Silla Observatory, Chile",HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.440860489,0.000319726,8.077886383,0.044479162,224.6,239.9982,,-5.79639122
+2458196.752,-11.876,1.046,"La Silla Observatory, Chile",HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.439819542,0.000315332,8.134925954,0.040536121,227.7,239.9982,,-5.805002154
+2458223.684,33.721,1.043,"La Silla Observatory, Chile",HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.444627922,0.000316728,8.076334209,0.040442847,227.6,499.9983,,-17.67373661
+2458223.69,32.603,1.045,"La Silla Observatory, Chile",HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.44493549,0.000320517,8.074975448,0.037984569,224.3,499.9983,,-17.68958847
+2458223.696,32.845,1.046,"La Silla Observatory, Chile",HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.444952433,0.000322938,8.075665611,0.039166905,222.4,499.9983,,-17.70534503
+2458225.682,34.476,1.199,"La Silla Observatory, Chile",HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.446850023,0.000720599,8.079672109,0.042661287,103.4,299.9983,,-18.43440548
+2458225.685,33.95,1.224,"La Silla Observatory, Chile",HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.446474743,0.000770314,8.07883772,0.040383561,97.0,299.9983,,-18.44340489
+2458225.689,33.612,1.174,"La Silla Observatory, Chile",HD100655,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.445855894,0.000669666,8.076607596,0.04197577,110.8,299.9983,,-18.45363977

@@ -1,5 +1,5 @@
-Time,RV,Uncertainty,Observatory_Name,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisetor,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
-2458226.603,25.105,1.736,La Silla Observatory,HD106444,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.623501039,0.000916582,179.200932,0.0,108.3,599.9982,,2.134249482
-2458226.61,176.703,1.85,La Silla Observatory,HD106444,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.624848837,0.000960535,92.99179337,0.0,103.2,599.9983,,2.121680094
-2458231.625,-154.969,1.852,La Silla Observatory,HD106444,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.621211081,0.001015582,2.191698882,-4.634686977,98.8,599.9982,,0.378473197
-2458231.632,-38.743,1.62,La Silla Observatory,HD106444,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.622777724,0.000893068,14.82014478,-0.443716495,112.7,599.9983,,0.365507246
+Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisetor,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
+2458226.603,25.105,1.736,"La Silla Observatory, Chile",HD106444,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.623501039,0.000916582,179.200932,0.0,108.3,599.9982,,2.134249482
+2458226.61,176.703,1.85,"La Silla Observatory, Chile",HD106444,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.624848837,0.000960535,92.99179337,0.0,103.2,599.9983,,2.121680094
+2458231.625,-154.969,1.852,"La Silla Observatory, Chile",HD106444,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.621211081,0.001015582,2.191698882,-4.634686977,98.8,599.9982,,0.378473197
+2458231.632,-38.743,1.62,"La Silla Observatory, Chile",HD106444,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.622777724,0.000893068,14.82014478,-0.443716495,112.7,599.9983,,0.365507246

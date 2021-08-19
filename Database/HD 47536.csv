@@ -1,50 +1,50 @@
 Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisector,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
-2451498.85813,79475.29,33.35,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2451499.84424,79479.20,24.39,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2451500.82399,79456.08,28.20,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2451501.84201,79425.54,33.34,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2451503.80407,79410.11,24.68,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2451504.73140,79508.34,30.79,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2451825.82000,79393.01,32.88,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2451826.79706,79392.05,31.97,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2451833.69018,79345.74,38.11,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2451848.73781,79425.96,29.70,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2451849.87072,79432.50,31.38,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2451850.82032,79407.82,30.45,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2451853.83336,79348.55,32.96,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2451891.75112,79383.03,25.92,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2451892.72852,79328.47,29.38,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2451893.73245,79294.67,28.29,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2451894.73323,79409.03,43.76,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2451921.72943,79338.22,28.95,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2451939.68184,79335.08,33.18,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2451941.68289,79283.95,47.47,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2451966.63067,79319.09,43.54,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2451967.61428,79316.11,48.67,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2451982.60999,79265.94,45.08,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2451983.61173,79321.38,63.90,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2452034.51858,79262.79,42.04,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2452134.92124,79379.61,38.13,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2452135.92107,79317.17,28.45,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2452143.91912,79352.16,25.81,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2452144.91490,79340.61,23.91,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2452162.83411,79386.24,21.53,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2452206.82385,79417.29,26.63,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2452250.73310,79466.94,22.88,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2452258.80834,79481.74,26.70,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2452261.77927,79493.98,24.94,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2452264.74591,79488.68,27.79,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2452297.66097,79522.58,27.74,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2452320.65288,79512.03,31.40,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2452321.57905,79511.04,42.41,"ESO La Silla, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
-2454045.817,-5.084,0.948,La Silla Observatory,HD47536,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.384797037,0.000329652,7.480014161,0.138836336,195.6,90.0008,,14.82521754
-2454085.852,92.052,1.087,La Silla Observatory,HD47536,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.409764701,0.000574715,7.509048501,0.116960196,115.7,90.001,,5.589452668
-2454370.864,62.175,0.948,La Silla Observatory,HD47536,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.409296368,0.000336099,7.513967496,0.106604746,198.2,90.0001,,16.87142135
-2454622.441,-118.366,0.996,La Silla Observatory,HD47536,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.399695003,0.000386293,7.491659345,0.133142398,167.4,90.0,,-8.660828301
-2454623.46,-49.66,1.171,La Silla Observatory,HD47536,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.403809936,0.000639914,7.502500292,0.117538239,101.5,120.0,,-8.425474231
-2454623.462,-48.698,1.284,La Silla Observatory,HD47536,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.403103751,0.000772247,7.50341223,0.118623086,84.6,120.0,,-8.42640137
-2454684.924,-39.457,0.941,La Silla Observatory,HD47536,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.408530413,0.000306778,7.526310305,0.096107591,215.7,90.0,,8.817675775
-2454685.923,-13.007,0.965,La Silla Observatory,HD47536,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.410877992,0.000363703,7.5322591,0.109915138,183.7,90.0,,9.059310737
-2454786.765,28.923,0.988,La Silla Observatory,HD47536,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.398420104,0.00041953,7.562003056,0.106052268,159.1,90.0,,13.10411982
-2454788.866,19.098,0.922,La Silla Observatory,HD47536,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.397094503,0.000290679,7.491344236,0.10222614,233.9,90.0,,12.46903454
-2454891.648,43.896,0.938,La Silla Observatory,HD47536,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.394829086,0.000300665,7.531358896,0.129665197,220.2,90.0,,-14.35071824
+2451498.85813,79475.29,33.35,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2451499.84424,79479.20,24.39,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2451500.82399,79456.08,28.20,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2451501.84201,79425.54,33.34,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2451503.80407,79410.11,24.68,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2451504.73140,79508.34,30.79,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2451825.82000,79393.01,32.88,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2451826.79706,79392.05,31.97,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2451833.69018,79345.74,38.11,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2451848.73781,79425.96,29.70,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2451849.87072,79432.50,31.38,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2451850.82032,79407.82,30.45,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2451853.83336,79348.55,32.96,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2451891.75112,79383.03,25.92,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2451892.72852,79328.47,29.38,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2451893.73245,79294.67,28.29,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2451894.73323,79409.03,43.76,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2451921.72943,79338.22,28.95,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2451939.68184,79335.08,33.18,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2451941.68289,79283.95,47.47,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2451966.63067,79319.09,43.54,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2451967.61428,79316.11,48.67,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2451982.60999,79265.94,45.08,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2451983.61173,79321.38,63.90,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2452034.51858,79262.79,42.04,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2452134.92124,79379.61,38.13,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2452135.92107,79317.17,28.45,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2452143.91912,79352.16,25.81,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2452144.91490,79340.61,23.91,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2452162.83411,79386.24,21.53,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2452206.82385,79417.29,26.63,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2452250.73310,79466.94,22.88,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2452258.80834,79481.74,26.70,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2452261.77927,79493.98,24.94,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2452264.74591,79488.68,27.79,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2452297.66097,79522.58,27.74,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2452320.65288,79512.03,31.40,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2452321.57905,79511.04,42.41,"La Silla Observatory, Chile",HD 47536,HJD,"Setiawan et al. 2003 (A&A, 398, L19)",FEROS,Thorium Argon,Wright,,,,,,,,
+2454045.817,-5.084,0.948,"La Silla Observatory, Chile",HD47536,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.384797037,0.000329652,7.480014161,0.138836336,195.6,90.0008,,14.82521754
+2454085.852,92.052,1.087,"La Silla Observatory, Chile",HD47536,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.409764701,0.000574715,7.509048501,0.116960196,115.7,90.001,,5.589452668
+2454370.864,62.175,0.948,"La Silla Observatory, Chile",HD47536,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.409296368,0.000336099,7.513967496,0.106604746,198.2,90.0001,,16.87142135
+2454622.441,-118.366,0.996,"La Silla Observatory, Chile",HD47536,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.399695003,0.000386293,7.491659345,0.133142398,167.4,90.0,,-8.660828301
+2454623.46,-49.66,1.171,"La Silla Observatory, Chile",HD47536,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.403809936,0.000639914,7.502500292,0.117538239,101.5,120.0,,-8.425474231
+2454623.462,-48.698,1.284,"La Silla Observatory, Chile",HD47536,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.403103751,0.000772247,7.50341223,0.118623086,84.6,120.0,,-8.42640137
+2454684.924,-39.457,0.941,"La Silla Observatory, Chile",HD47536,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.408530413,0.000306778,7.526310305,0.096107591,215.7,90.0,,8.817675775
+2454685.923,-13.007,0.965,"La Silla Observatory, Chile",HD47536,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.410877992,0.000363703,7.5322591,0.109915138,183.7,90.0,,9.059310737
+2454786.765,28.923,0.988,"La Silla Observatory, Chile",HD47536,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.398420104,0.00041953,7.562003056,0.106052268,159.1,90.0,,13.10411982
+2454788.866,19.098,0.922,"La Silla Observatory, Chile",HD47536,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.397094503,0.000290679,7.491344236,0.10222614,233.9,90.0,,12.46903454
+2454891.648,43.896,0.938,"La Silla Observatory, Chile",HD47536,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.394829086,0.000300665,7.531358896,0.129665197,220.2,90.0,,-14.35071824

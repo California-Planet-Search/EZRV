@@ -78,5 +78,5 @@ Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrum
 2454548.66928,-4.63999986649,2.96,"Lick Observatory, California",HD 32923,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
 2454783.86756,-0.0299999993294,3.1900003,"Lick Observatory, California",HD 32923,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
 2455166.8634,12.970000267,2.24,"Lick Observatory, California",HD 32923,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
-2453363.703,-1.1,0.984,La Silla Observatory,GJ188,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.411983302,0.000551006,7.011364468,-0.004455066,126.9,30.0018,,-8.055863417
-2453364.73,1.043,0.957,La Silla Observatory,GJ188,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.409740823,0.000494895,7.004032166,-0.002591233,138.9,30.0001,,-8.642854952
+2453363.703,-1.1,0.984,"La Silla Observatory, Chile",GJ188,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.411983302,0.000551006,7.011364468,-0.004455066,126.9,30.0018,,-8.055863417
+2453364.73,1.043,0.957,"La Silla Observatory, Chile",GJ188,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.409740823,0.000494895,7.004032166,-0.002591233,138.9,30.0001,,-8.642854952

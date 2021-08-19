@@ -1,193 +1,193 @@
 Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisector,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
-2453007.833430,53335.30,2.00,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2453358.835760,53340.80,1.60,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2453359.801610,53347.90,1.60,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2453360.819610,53356.30,1.50,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2453365.806300,53346.60,1.30,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2453369.847560,53346.50,1.20,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2453492.511540,53327.80,1.80,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2453544.461950,53337.10,1.80,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2453547.473280,53335.10,1.30,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2453728.830260,53328.40,1.20,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2453760.743170,53331.90,1.50,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2453764.792870,53337.90,1.40,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2453765.704720,53332.50,1.40,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2453782.704230,53338.00,1.20,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2453866.580320,53346.80,1.10,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454058.824270,53337.50,1.90,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454082.842460,53351.90,1.90,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454097.837810,53345.40,1.60,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454098.779420,53345.90,2.40,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454103.753420,53345.30,2.00,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454124.714940,53345.80,1.70,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454133.744430,53356.50,2.30,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454135.764850,53349.70,1.30,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454136.745020,53348.90,1.30,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454161.674590,53350.20,1.80,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454162.681260,53348.60,2.00,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454166.663400,53349.60,1.10,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454168.691830,53340.10,1.90,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454170.651880,53341.30,1.60,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454172.659570,53347.90,1.30,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454174.640900,53331.90,2.00,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454196.705090,53336.60,1.40,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454200.614410,53337.50,1.30,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454202.605740,53327.10,1.40,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454225.580080,53331.90,1.70,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454228.602890,53333.70,1.60,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454231.526380,53330.60,1.60,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454232.532550,53329.00,1.60,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454234.572380,53339.60,2.00,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454254.457070,53329.10,2.00,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454259.471330,53331.30,1.40,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454421.840350,53333.70,1.30,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454425.853290,53337.80,2.10,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454427.850240,53331.30,1.60,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454429.840170,53345.20,2.10,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454430.814910,53337.00,1.60,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454437.733380,53325.50,1.90,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454446.835000,53332.60,1.50,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454448.858190,53327.60,1.60,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454478.843030,53333.00,1.20,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454486.743180,53347.20,1.50,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454520.689720,53347.10,1.50,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454529.717760,53345.00,1.20,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454547.589120,53358.90,1.30,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454548.648510,53352.90,2.00,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454553.632860,53354.80,1.70,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454558.724000,53361.90,1.60,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454562.594740,53358.20,1.30,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454563.623860,53365.60,1.40,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454565.599410,53368.10,1.30,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454566.561460,53359.10,1.70,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454568.580390,53356.30,1.60,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454569.600250,53361.90,1.40,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454570.563870,53365.70,1.60,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454571.579330,53361.50,1.50,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454582.577430,53358.40,1.60,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454588.524180,53358.40,1.60,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454591.473540,53365.50,1.60,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454609.485810,53359.70,1.20,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454610.571320,53357.70,2.10,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454616.457650,53357.60,2.20,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454639.482490,53341.80,1.20,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454640.483200,53342.00,1.00,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454641.454420,53347.20,1.10,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454642.484710,53354.90,1.30,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454643.501720,53354.80,1.20,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454644.460100,53354.40,1.40,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454645.468070,53347.40,1.30,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454646.471290,53351.10,1.20,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454648.452690,53353.80,1.20,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454813.833650,53351.10,1.50,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454840.789870,53356.20,1.00,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2454848.799670,53356.50,1.00,"ESO La Silla, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
-2453007.834,-11.235,1.574,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.580508414,0.001628786,6.305872402,0.030496011,49.7,599.6959,,22.85856743
-2453054.718,-2.014,1.843,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.58821098,0.002145393,6.335517801,0.026451877,39.0,342.1967,,3.276660522
-2453066.726,-14.417,1.876,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.5748162,0.002106488,6.294677496,0.03006409,38.9,537.9952,,-2.717920695
-2453358.837,-4.673,1.42,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.572571371,0.001690558,6.268831297,0.022722576,49.1,385.5825,,26.39498501
-2453359.802,2.745,1.497,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.568435435,0.001663733,6.273437061,0.021564176,49.6,383.4823,,26.2859413
-2453360.82,9.164,1.433,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.569368941,0.001600651,6.272540026,0.024478221,51.6,385.6023,,26.03483301
-2453365.807,2.164,1.309,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.571532941,0.001316805,6.265109363,0.017707665,62.4,386.2013,,24.93187819
-2453369.848,0.282,1.115,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.570984228,0.001282755,6.278898415,0.024948735,64.4,385.5955,,23.77470627
-2453492.512,-16.157,1.539,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.575502365,0.001735015,6.252025479,0.02500392,47.4,385.5811,,-25.11623381
-2453544.463,-11.304,1.653,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.572050756,0.001756345,6.263756052,0.020942904,46.7,499.9998,,-25.02763429
-2453547.474,-10.36,1.359,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.562626118,0.001326075,8.597831081,-1.038957508,61.0,771.1003,,-24.43379984
-2453728.831,-17.732,1.266,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.573460224,0.001235075,6.271889435,0.02353269,67.6,385.5984,,25.42577285
-2453760.744,-14.942,1.362,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.571124348,0.001572648,6.263544741,0.02458456,52.6,385.6024,,14.78188534
-2453764.794,-8.604,1.441,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.563479227,0.0014875,6.269721791,0.019549232,55.8,383.5009,,12.86594178
-2453765.705,-13.054,1.41,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.563356144,0.001469426,6.265139311,0.020118576,55.9,385.6006,,12.67083421
-2453782.705,-8.303,1.078,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.572879394,0.001255363,6.257073037,0.022008609,66.1,386.2005,,4.566836202
-2453866.581,1.537,1.248,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.575204132,0.001162219,6.235667206,0.020297656,71.1,380.5014,,-26.74553267
-2454058.825,-7.588,1.76,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.576119759,0.001896798,6.274383956,0.011570185,44.2,225.0018,,28.2750593
-2454082.843,7.79,1.738,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.562134766,0.001841784,6.258181722,0.011413206,45.2,385.5996,,27.46313709
-2454097.838,-1.636,1.558,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.577592279,0.001684581,6.260880572,0.016588883,50.6,225.0001,,24.47969839
-2454098.78,5.725,2.117,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.573541224,0.002324547,6.264056514,0.005867858,36.2,225.0003,,24.37273142
-2454103.754,1.822,1.805,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.571512487,0.001988742,6.282973601,0.033335575,42.7,225.0008,,23.01858484
-2454124.716,0.29,1.64,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.563714971,0.00173523,6.258996609,0.011252854,47.9,224.9992,,15.38629541
-2454133.745,13.449,2.004,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.568468765,0.002182543,6.270578221,0.015366423,38.6,224.9979,,11.2929495
-2454135.765,4.227,1.324,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.569753955,0.001326606,6.260756367,0.01353824,63.4,385.6018,,10.30552974
-2454136.746,3.086,1.234,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.569759617,0.00138258,6.2640675,0.019373465,60.4,385.5943,,9.896704052
-2454161.675,7.189,1.654,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.567927407,0.00176787,6.261333013,0.021248287,47.2,224.9972,,-2.172438372
-2454162.682,5.126,1.804,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.574146767,0.001944708,6.264115042,0.025250327,42.9,225.0013,,-2.683803563
-2454166.664,3.536,1.206,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.569778467,0.001077949,6.258692178,0.019387072,76.5,771.0964,,-4.582920934
-2454168.692,-4.307,1.73,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.572403086,0.001858273,6.261580154,0.031006722,45.2,385.5951,,-5.635615913
-2454170.653,-5.042,1.484,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.572496513,0.001572993,6.264971937,0.026101399,52.6,385.5958,,-6.478337422
-2454172.66,3.719,1.332,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.572137174,0.001300219,6.258834982,0.023376327,64.3,385.601,,-7.455823216
-2454174.642,-13.032,1.774,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.574406672,0.001995919,6.253848322,0.018106959,42.3,385.5981,,-8.346253197
-2454196.706,-10.316,1.431,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.573994508,0.001389293,6.283255067,0.025478853,58.9,771.0976,,-17.8785179
-2454200.615,-7.969,1.185,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.573088253,0.00132351,6.271728258,0.021746525,63.9,385.5963,,-19.10287558
-2454202.606,-19.904,1.401,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.576564513,0.001488829,6.262037394,0.031312144,57.1,570.7956,,-19.7745147
-2454225.581,-14.577,1.589,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.574542185,0.00169984,6.283777185,0.019370553,49.4,385.602,,-25.75774557
-2454228.604,-10.662,1.516,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.570922892,0.001610958,6.275656054,0.027610534,51.4,400.0003,,-26.31952442
-2454229.572,-16.339,2.293,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.572272351,0.00264613,6.284233111,0.02472193,32.5,399.9958,,-26.40579172
-2454231.527,-20.161,1.554,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.578784,0.001687237,6.256279836,0.015201418,50.0,399.9994,,-26.58865499
-2454232.533,-17.241,1.574,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.572875631,0.001651516,6.260423502,0.016691069,50.4,400.0004,,-26.73967607
-2454234.573,-3.59,1.76,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.571257482,0.001971715,6.263326927,0.024859027,42.6,399.9957,,-27.07896925
-2454254.458,-20.444,1.854,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.579064219,0.002014088,6.28684266,0.023624422,41.7,379.9939,,-27.48857504
-2454259.472,-16.775,1.416,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.571528428,0.001445447,6.261487904,0.020286022,58.0,399.9989,,-27.22112126
-2454421.841,-13.661,1.224,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.57061148,0.001333971,6.278043218,0.021059064,63.0,385.5981,,28.05506019
-2454425.854,-8.333,1.804,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.573267013,0.002126657,6.278434588,0.010406211,40.8,385.6008,,28.31737096
-2454427.851,-13.443,1.368,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.567245813,0.001582382,6.278965962,0.020110969,53.1,385.5977,,28.41663053
-2454429.841,-2.542,1.817,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.568517391,0.00202846,6.278923291,0.015696827,41.7,385.6001,,28.49890173
-2454430.816,-6.478,1.576,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.566816832,0.001654243,6.272711173,0.031425219,50.7,385.6,,28.56744145
-2454437.734,-20.018,1.745,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.563307997,0.001850026,6.256164758,0.01879703,44.6,462.7,,28.60333935
-2454446.836,-11.174,1.496,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.56672662,0.001589019,6.262097031,0.02214918,53.2,385.6,,27.65168866
-2454448.859,-17.581,1.5,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.571199204,0.00165705,6.261880862,0.019671838,51.0,386.2,,27.31880383
-2454478.844,-13.426,1.262,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.56783818,0.001230909,6.275060559,0.021654974,68.8,462.7,,19.50574559
-2454486.744,0.083,1.474,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.567814373,0.00156973,6.281580006,0.028574836,54.1,385.6,,16.6663457
-2454520.69,1.415,1.503,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.572643492,0.001645882,6.264331938,0.023220826,52.2,462.7,,0.895347839
-2454529.718,-0.077,1.269,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.573396687,0.001214283,6.25383237,0.017140757,69.4,385.6,,-3.643751286
-2454540.707,6.201,1.477,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.575469609,0.001566768,6.310147241,0.028938958,54.6,385.6,,-8.902796858
-2454541.722,6.593,1.386,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.575657246,0.001387442,6.301505025,0.034007171,61.1,383.5,,-9.405260124
-2454547.59,12.047,1.172,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.574479219,0.001346167,6.276978536,0.024334629,62.5,462.7,,-11.7290473
-2454548.649,7.224,1.793,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.575497918,0.002040638,6.285665928,0.028213969,42.2,380.0,,-12.34186709
-2454550.616,-9.158,2.09,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.568582329,0.002483877,6.274720973,0.025639047,35.0,400.0,,-13.10946064
-2454553.634,8.175,1.632,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.566660735,0.001756571,6.264612467,0.016750671,48.1,400.0,,-14.43065427
-2454558.725,13.625,1.526,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.570060486,0.001561723,6.278944922,0.014136107,53.6,385.6,,-16.68754544
-2454562.595,11.505,1.08,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.579444011,0.001290237,6.300288543,0.012949893,65.3,385.6,,-17.88885392
-2454563.625,20.097,1.186,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.57613993,0.00142498,6.313792107,0.021054518,60.1,385.6,,-18.3410378
-2454565.6,18.41,1.225,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.573407578,0.001354977,6.307884421,0.024977628,62.2,385.6,,-18.99311563
-2454566.562,10.648,1.406,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.570624162,0.001732242,6.309890306,0.033733349,49.3,385.6,,-19.23551272
-2454568.581,9.78,1.483,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.574002362,0.001669607,6.305397349,0.026029099,50.9,383.5,,-19.97103151
-2454569.601,15.05,1.402,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.581632451,0.001482203,6.304017917,0.028094228,57.7,450.0,,-20.35707563
-2454570.565,16.915,1.567,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.579571987,0.001724978,6.295238901,0.043626407,49.9,383.5,,-20.57907884
-2454571.58,10.84,1.454,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.57630009,0.001646811,6.296099697,0.027321832,52.3,600.0,,-20.94023588
-2454582.578,12.509,1.526,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.571181461,0.001639464,6.246168929,0.016096032,51.7,385.6,,-24.00417988
-2454588.525,12.593,1.5,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.573948604,0.001667274,6.29403092,0.008396879,50.8,385.6,,-25.20101812
-2454591.474,19.914,1.488,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.580663811,0.001652782,6.298747134,0.015100267,51.7,385.6,,-25.63596864
-2454609.486,10.447,1.257,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.573646504,0.001217421,6.25285603,0.017216498,69.7,600.0,,-27.58767671
-2454610.572,10.013,1.865,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.569428586,0.002012187,6.26207751,0.018876848,42.2,385.6,,-27.807006
-2454616.458,9.666,1.867,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.57990582,0.002187234,6.296154624,0.027940207,39.2,600.0,,-27.60402835
-2454639.483,-5.156,1.231,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.571504976,0.001238973,6.288227339,0.013442599,67.4,761.0,,-25.21299589
-2454640.484,-4.596,1.14,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.575102564,0.000993768,6.292849795,0.02021068,83.5,900.0,,-25.02149385
-2454641.455,1.402,0.985,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.576627082,0.001082688,6.302595292,0.017018456,77.9,761.0,,-24.77331921
-2454642.485,5.787,1.304,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.575285214,0.00122181,6.314854988,0.018351404,68.2,771.1,,-24.6179355
-2454643.502,8.802,1.208,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.577378869,0.001198384,6.324658953,0.020968817,69.1,870.0,,-24.42730795
-2454644.461,7.061,1.363,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.583505621,0.001390619,6.341135748,0.020372745,60.4,848.2,,-24.1463166
-2454645.469,0.525,1.288,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.584826153,0.001304712,6.333911398,0.027864926,64.1,761.0,,-23.93254659
-2454646.472,4.05,1.208,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.578364077,0.001163958,6.334652303,0.028394198,71.8,761.0,,-23.70335824
-2454648.453,4.203,1.274,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.583516763,0.001232809,6.336658395,0.034793592,68.4,761.0,,-23.18514292
-2454813.834,5.683,1.453,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.577091959,0.001495596,6.309377238,0.031062479,57.0,385.6,,27.39915106
-2454840.726,10.128,1.341,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.571558206,0.001315405,6.315291633,0.028199928,64.0,578.3,,20.98313118
-2454840.864,9.078,1.395,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.573195005,0.001415968,6.320810623,0.03838732,60.0,570.8,,20.60033426
-2454846.82,5.528,1.107,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.574351337,0.000947036,6.296478116,0.026585623,90.2,771.1,,18.54680182
-2454848.8,9.4,1.143,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.567513836,0.000997719,6.291890525,0.026933574,84.8,600.0,,17.82950298
-2454871.664,7.503,1.695,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.576076883,0.001865371,6.32289233,0.026744465,46.0,385.6,,7.981230554
-2454872.679,8.842,1.654,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.575669361,0.001831566,6.318174023,0.028073769,47.5,539.8,,7.459377082
-2454873.69,3.273,1.514,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.579224438,0.001598743,6.313694653,0.027191885,53.5,462.7,,6.945674953
-2454878.706,1.721,1.339,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.575143649,0.001552377,6.285263782,0.02025094,55.6,385.6,,4.455025434
-2454880.758,-2.847,1.302,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.567851224,0.001269225,6.293467025,0.01635685,66.5,600.0,,3.308756089
-2454883.727,8.186,1.211,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.567834104,0.001460185,6.315511508,0.024923446,58.7,383.5,,1.907601299
-2454902.785,-17.777,1.756,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.569439775,0.002130553,6.299577757,0.039699757,40.9,385.6,,-7.554047724
-2454915.658,-10.604,1.501,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.572059824,0.00181172,6.326280489,0.031718351,47.9,385.6,,-13.13653971
-2454918.651,-3.935,1.482,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.573621568,0.001595157,6.31715324,0.032670616,54.1,383.5,,-14.39805698
-2454920.685,-9.615,1.388,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.574345224,0.001488758,6.31877269,0.026745441,57.2,385.6,,-15.31650921
-2454921.613,-5.959,1.57,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.569424004,0.001736517,6.312044866,0.026656929,50.1,385.6,,-15.52216472
-2454922.665,48.395,1.289,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.576890756,0.001263211,6.320039384,0.026894048,67.9,385.6,,-16.06839287
-2454923.683,-1.507,1.471,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.572370589,0.00150784,6.317372969,0.018631653,56.3,385.6,,-16.50829629
-2454930.568,-8.302,1.486,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.578706831,0.001572107,6.321763033,0.032969991,54.6,385.6,,-18.79558461
-2454931.609,-9.212,1.414,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.572143664,0.001630449,6.323290634,0.023993576,52.7,385.6,,-19.26147574
-2454941.571,-15.562,1.333,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.578441085,0.001346214,6.326809714,0.039286264,63.9,385.6,,-22.3450377
-2454951.587,-2.791,2.273,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.572116953,0.0027265,6.300184554,0.018939117,32.7,600.0,,-24.90617853
-2455217.823,-7.276,1.822,La Silla Observatory,HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.567451112,0.002092773,6.305300422,0.027750122,41.9,385.6008,,16.2308584
+2453007.833430,53335.30,2.00,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2453358.835760,53340.80,1.60,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2453359.801610,53347.90,1.60,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2453360.819610,53356.30,1.50,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2453365.806300,53346.60,1.30,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2453369.847560,53346.50,1.20,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2453492.511540,53327.80,1.80,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2453544.461950,53337.10,1.80,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2453547.473280,53335.10,1.30,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2453728.830260,53328.40,1.20,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2453760.743170,53331.90,1.50,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2453764.792870,53337.90,1.40,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2453765.704720,53332.50,1.40,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2453782.704230,53338.00,1.20,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2453866.580320,53346.80,1.10,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454058.824270,53337.50,1.90,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454082.842460,53351.90,1.90,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454097.837810,53345.40,1.60,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454098.779420,53345.90,2.40,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454103.753420,53345.30,2.00,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454124.714940,53345.80,1.70,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454133.744430,53356.50,2.30,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454135.764850,53349.70,1.30,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454136.745020,53348.90,1.30,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454161.674590,53350.20,1.80,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454162.681260,53348.60,2.00,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454166.663400,53349.60,1.10,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454168.691830,53340.10,1.90,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454170.651880,53341.30,1.60,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454172.659570,53347.90,1.30,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454174.640900,53331.90,2.00,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454196.705090,53336.60,1.40,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454200.614410,53337.50,1.30,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454202.605740,53327.10,1.40,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454225.580080,53331.90,1.70,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454228.602890,53333.70,1.60,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454231.526380,53330.60,1.60,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454232.532550,53329.00,1.60,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454234.572380,53339.60,2.00,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454254.457070,53329.10,2.00,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454259.471330,53331.30,1.40,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454421.840350,53333.70,1.30,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454425.853290,53337.80,2.10,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454427.850240,53331.30,1.60,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454429.840170,53345.20,2.10,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454430.814910,53337.00,1.60,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454437.733380,53325.50,1.90,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454446.835000,53332.60,1.50,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454448.858190,53327.60,1.60,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454478.843030,53333.00,1.20,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454486.743180,53347.20,1.50,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454520.689720,53347.10,1.50,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454529.717760,53345.00,1.20,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454547.589120,53358.90,1.30,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454548.648510,53352.90,2.00,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454553.632860,53354.80,1.70,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454558.724000,53361.90,1.60,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454562.594740,53358.20,1.30,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454563.623860,53365.60,1.40,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454565.599410,53368.10,1.30,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454566.561460,53359.10,1.70,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454568.580390,53356.30,1.60,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454569.600250,53361.90,1.40,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454570.563870,53365.70,1.60,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454571.579330,53361.50,1.50,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454582.577430,53358.40,1.60,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454588.524180,53358.40,1.60,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454591.473540,53365.50,1.60,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454609.485810,53359.70,1.20,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454610.571320,53357.70,2.10,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454616.457650,53357.60,2.20,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454639.482490,53341.80,1.20,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454640.483200,53342.00,1.00,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454641.454420,53347.20,1.10,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454642.484710,53354.90,1.30,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454643.501720,53354.80,1.20,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454644.460100,53354.40,1.40,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454645.468070,53347.40,1.30,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454646.471290,53351.10,1.20,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454648.452690,53353.80,1.20,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454813.833650,53351.10,1.50,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454840.789870,53356.20,1.00,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2454848.799670,53356.50,1.00,"La Silla Observatory, Chile",BD -08 2823,BJD-UTC,"Hebrard et al. 2010 (2010, A&A, 512A, 46)",HARPS,Emission Reference Spectrum (ThAr),Wright,,,,,,,,
+2453007.834,-11.235,1.574,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.580508414,0.001628786,6.305872402,0.030496011,49.7,599.6959,,22.85856743
+2453054.718,-2.014,1.843,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.58821098,0.002145393,6.335517801,0.026451877,39.0,342.1967,,3.276660522
+2453066.726,-14.417,1.876,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.5748162,0.002106488,6.294677496,0.03006409,38.9,537.9952,,-2.717920695
+2453358.837,-4.673,1.42,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.572571371,0.001690558,6.268831297,0.022722576,49.1,385.5825,,26.39498501
+2453359.802,2.745,1.497,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.568435435,0.001663733,6.273437061,0.021564176,49.6,383.4823,,26.2859413
+2453360.82,9.164,1.433,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.569368941,0.001600651,6.272540026,0.024478221,51.6,385.6023,,26.03483301
+2453365.807,2.164,1.309,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.571532941,0.001316805,6.265109363,0.017707665,62.4,386.2013,,24.93187819
+2453369.848,0.282,1.115,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.570984228,0.001282755,6.278898415,0.024948735,64.4,385.5955,,23.77470627
+2453492.512,-16.157,1.539,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.575502365,0.001735015,6.252025479,0.02500392,47.4,385.5811,,-25.11623381
+2453544.463,-11.304,1.653,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.572050756,0.001756345,6.263756052,0.020942904,46.7,499.9998,,-25.02763429
+2453547.474,-10.36,1.359,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.562626118,0.001326075,8.597831081,-1.038957508,61.0,771.1003,,-24.43379984
+2453728.831,-17.732,1.266,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.573460224,0.001235075,6.271889435,0.02353269,67.6,385.5984,,25.42577285
+2453760.744,-14.942,1.362,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.571124348,0.001572648,6.263544741,0.02458456,52.6,385.6024,,14.78188534
+2453764.794,-8.604,1.441,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.563479227,0.0014875,6.269721791,0.019549232,55.8,383.5009,,12.86594178
+2453765.705,-13.054,1.41,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.563356144,0.001469426,6.265139311,0.020118576,55.9,385.6006,,12.67083421
+2453782.705,-8.303,1.078,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.572879394,0.001255363,6.257073037,0.022008609,66.1,386.2005,,4.566836202
+2453866.581,1.537,1.248,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.575204132,0.001162219,6.235667206,0.020297656,71.1,380.5014,,-26.74553267
+2454058.825,-7.588,1.76,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.576119759,0.001896798,6.274383956,0.011570185,44.2,225.0018,,28.2750593
+2454082.843,7.79,1.738,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.562134766,0.001841784,6.258181722,0.011413206,45.2,385.5996,,27.46313709
+2454097.838,-1.636,1.558,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.577592279,0.001684581,6.260880572,0.016588883,50.6,225.0001,,24.47969839
+2454098.78,5.725,2.117,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.573541224,0.002324547,6.264056514,0.005867858,36.2,225.0003,,24.37273142
+2454103.754,1.822,1.805,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.571512487,0.001988742,6.282973601,0.033335575,42.7,225.0008,,23.01858484
+2454124.716,0.29,1.64,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.563714971,0.00173523,6.258996609,0.011252854,47.9,224.9992,,15.38629541
+2454133.745,13.449,2.004,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.568468765,0.002182543,6.270578221,0.015366423,38.6,224.9979,,11.2929495
+2454135.765,4.227,1.324,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.569753955,0.001326606,6.260756367,0.01353824,63.4,385.6018,,10.30552974
+2454136.746,3.086,1.234,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.569759617,0.00138258,6.2640675,0.019373465,60.4,385.5943,,9.896704052
+2454161.675,7.189,1.654,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.567927407,0.00176787,6.261333013,0.021248287,47.2,224.9972,,-2.172438372
+2454162.682,5.126,1.804,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.574146767,0.001944708,6.264115042,0.025250327,42.9,225.0013,,-2.683803563
+2454166.664,3.536,1.206,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.569778467,0.001077949,6.258692178,0.019387072,76.5,771.0964,,-4.582920934
+2454168.692,-4.307,1.73,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.572403086,0.001858273,6.261580154,0.031006722,45.2,385.5951,,-5.635615913
+2454170.653,-5.042,1.484,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.572496513,0.001572993,6.264971937,0.026101399,52.6,385.5958,,-6.478337422
+2454172.66,3.719,1.332,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.572137174,0.001300219,6.258834982,0.023376327,64.3,385.601,,-7.455823216
+2454174.642,-13.032,1.774,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.574406672,0.001995919,6.253848322,0.018106959,42.3,385.5981,,-8.346253197
+2454196.706,-10.316,1.431,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.573994508,0.001389293,6.283255067,0.025478853,58.9,771.0976,,-17.8785179
+2454200.615,-7.969,1.185,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.573088253,0.00132351,6.271728258,0.021746525,63.9,385.5963,,-19.10287558
+2454202.606,-19.904,1.401,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.576564513,0.001488829,6.262037394,0.031312144,57.1,570.7956,,-19.7745147
+2454225.581,-14.577,1.589,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.574542185,0.00169984,6.283777185,0.019370553,49.4,385.602,,-25.75774557
+2454228.604,-10.662,1.516,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.570922892,0.001610958,6.275656054,0.027610534,51.4,400.0003,,-26.31952442
+2454229.572,-16.339,2.293,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.572272351,0.00264613,6.284233111,0.02472193,32.5,399.9958,,-26.40579172
+2454231.527,-20.161,1.554,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.578784,0.001687237,6.256279836,0.015201418,50.0,399.9994,,-26.58865499
+2454232.533,-17.241,1.574,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.572875631,0.001651516,6.260423502,0.016691069,50.4,400.0004,,-26.73967607
+2454234.573,-3.59,1.76,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.571257482,0.001971715,6.263326927,0.024859027,42.6,399.9957,,-27.07896925
+2454254.458,-20.444,1.854,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.579064219,0.002014088,6.28684266,0.023624422,41.7,379.9939,,-27.48857504
+2454259.472,-16.775,1.416,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.571528428,0.001445447,6.261487904,0.020286022,58.0,399.9989,,-27.22112126
+2454421.841,-13.661,1.224,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.57061148,0.001333971,6.278043218,0.021059064,63.0,385.5981,,28.05506019
+2454425.854,-8.333,1.804,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.573267013,0.002126657,6.278434588,0.010406211,40.8,385.6008,,28.31737096
+2454427.851,-13.443,1.368,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.567245813,0.001582382,6.278965962,0.020110969,53.1,385.5977,,28.41663053
+2454429.841,-2.542,1.817,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.568517391,0.00202846,6.278923291,0.015696827,41.7,385.6001,,28.49890173
+2454430.816,-6.478,1.576,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.566816832,0.001654243,6.272711173,0.031425219,50.7,385.6,,28.56744145
+2454437.734,-20.018,1.745,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.563307997,0.001850026,6.256164758,0.01879703,44.6,462.7,,28.60333935
+2454446.836,-11.174,1.496,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.56672662,0.001589019,6.262097031,0.02214918,53.2,385.6,,27.65168866
+2454448.859,-17.581,1.5,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.571199204,0.00165705,6.261880862,0.019671838,51.0,386.2,,27.31880383
+2454478.844,-13.426,1.262,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.56783818,0.001230909,6.275060559,0.021654974,68.8,462.7,,19.50574559
+2454486.744,0.083,1.474,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.567814373,0.00156973,6.281580006,0.028574836,54.1,385.6,,16.6663457
+2454520.69,1.415,1.503,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.572643492,0.001645882,6.264331938,0.023220826,52.2,462.7,,0.895347839
+2454529.718,-0.077,1.269,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.573396687,0.001214283,6.25383237,0.017140757,69.4,385.6,,-3.643751286
+2454540.707,6.201,1.477,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.575469609,0.001566768,6.310147241,0.028938958,54.6,385.6,,-8.902796858
+2454541.722,6.593,1.386,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.575657246,0.001387442,6.301505025,0.034007171,61.1,383.5,,-9.405260124
+2454547.59,12.047,1.172,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.574479219,0.001346167,6.276978536,0.024334629,62.5,462.7,,-11.7290473
+2454548.649,7.224,1.793,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.575497918,0.002040638,6.285665928,0.028213969,42.2,380.0,,-12.34186709
+2454550.616,-9.158,2.09,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.568582329,0.002483877,6.274720973,0.025639047,35.0,400.0,,-13.10946064
+2454553.634,8.175,1.632,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.566660735,0.001756571,6.264612467,0.016750671,48.1,400.0,,-14.43065427
+2454558.725,13.625,1.526,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.570060486,0.001561723,6.278944922,0.014136107,53.6,385.6,,-16.68754544
+2454562.595,11.505,1.08,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.579444011,0.001290237,6.300288543,0.012949893,65.3,385.6,,-17.88885392
+2454563.625,20.097,1.186,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.57613993,0.00142498,6.313792107,0.021054518,60.1,385.6,,-18.3410378
+2454565.6,18.41,1.225,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.573407578,0.001354977,6.307884421,0.024977628,62.2,385.6,,-18.99311563
+2454566.562,10.648,1.406,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.570624162,0.001732242,6.309890306,0.033733349,49.3,385.6,,-19.23551272
+2454568.581,9.78,1.483,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.574002362,0.001669607,6.305397349,0.026029099,50.9,383.5,,-19.97103151
+2454569.601,15.05,1.402,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.581632451,0.001482203,6.304017917,0.028094228,57.7,450.0,,-20.35707563
+2454570.565,16.915,1.567,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.579571987,0.001724978,6.295238901,0.043626407,49.9,383.5,,-20.57907884
+2454571.58,10.84,1.454,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.57630009,0.001646811,6.296099697,0.027321832,52.3,600.0,,-20.94023588
+2454582.578,12.509,1.526,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.571181461,0.001639464,6.246168929,0.016096032,51.7,385.6,,-24.00417988
+2454588.525,12.593,1.5,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.573948604,0.001667274,6.29403092,0.008396879,50.8,385.6,,-25.20101812
+2454591.474,19.914,1.488,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.580663811,0.001652782,6.298747134,0.015100267,51.7,385.6,,-25.63596864
+2454609.486,10.447,1.257,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.573646504,0.001217421,6.25285603,0.017216498,69.7,600.0,,-27.58767671
+2454610.572,10.013,1.865,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.569428586,0.002012187,6.26207751,0.018876848,42.2,385.6,,-27.807006
+2454616.458,9.666,1.867,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.57990582,0.002187234,6.296154624,0.027940207,39.2,600.0,,-27.60402835
+2454639.483,-5.156,1.231,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.571504976,0.001238973,6.288227339,0.013442599,67.4,761.0,,-25.21299589
+2454640.484,-4.596,1.14,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.575102564,0.000993768,6.292849795,0.02021068,83.5,900.0,,-25.02149385
+2454641.455,1.402,0.985,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.576627082,0.001082688,6.302595292,0.017018456,77.9,761.0,,-24.77331921
+2454642.485,5.787,1.304,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.575285214,0.00122181,6.314854988,0.018351404,68.2,771.1,,-24.6179355
+2454643.502,8.802,1.208,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.577378869,0.001198384,6.324658953,0.020968817,69.1,870.0,,-24.42730795
+2454644.461,7.061,1.363,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.583505621,0.001390619,6.341135748,0.020372745,60.4,848.2,,-24.1463166
+2454645.469,0.525,1.288,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.584826153,0.001304712,6.333911398,0.027864926,64.1,761.0,,-23.93254659
+2454646.472,4.05,1.208,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.578364077,0.001163958,6.334652303,0.028394198,71.8,761.0,,-23.70335824
+2454648.453,4.203,1.274,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.583516763,0.001232809,6.336658395,0.034793592,68.4,761.0,,-23.18514292
+2454813.834,5.683,1.453,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.577091959,0.001495596,6.309377238,0.031062479,57.0,385.6,,27.39915106
+2454840.726,10.128,1.341,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.571558206,0.001315405,6.315291633,0.028199928,64.0,578.3,,20.98313118
+2454840.864,9.078,1.395,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.573195005,0.001415968,6.320810623,0.03838732,60.0,570.8,,20.60033426
+2454846.82,5.528,1.107,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.574351337,0.000947036,6.296478116,0.026585623,90.2,771.1,,18.54680182
+2454848.8,9.4,1.143,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.567513836,0.000997719,6.291890525,0.026933574,84.8,600.0,,17.82950298
+2454871.664,7.503,1.695,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.576076883,0.001865371,6.32289233,0.026744465,46.0,385.6,,7.981230554
+2454872.679,8.842,1.654,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.575669361,0.001831566,6.318174023,0.028073769,47.5,539.8,,7.459377082
+2454873.69,3.273,1.514,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.579224438,0.001598743,6.313694653,0.027191885,53.5,462.7,,6.945674953
+2454878.706,1.721,1.339,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.575143649,0.001552377,6.285263782,0.02025094,55.6,385.6,,4.455025434
+2454880.758,-2.847,1.302,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.567851224,0.001269225,6.293467025,0.01635685,66.5,600.0,,3.308756089
+2454883.727,8.186,1.211,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.567834104,0.001460185,6.315511508,0.024923446,58.7,383.5,,1.907601299
+2454902.785,-17.777,1.756,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.569439775,0.002130553,6.299577757,0.039699757,40.9,385.6,,-7.554047724
+2454915.658,-10.604,1.501,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.572059824,0.00181172,6.326280489,0.031718351,47.9,385.6,,-13.13653971
+2454918.651,-3.935,1.482,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.573621568,0.001595157,6.31715324,0.032670616,54.1,383.5,,-14.39805698
+2454920.685,-9.615,1.388,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.574345224,0.001488758,6.31877269,0.026745441,57.2,385.6,,-15.31650921
+2454921.613,-5.959,1.57,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.569424004,0.001736517,6.312044866,0.026656929,50.1,385.6,,-15.52216472
+2454922.665,48.395,1.289,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.576890756,0.001263211,6.320039384,0.026894048,67.9,385.6,,-16.06839287
+2454923.683,-1.507,1.471,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.572370589,0.00150784,6.317372969,0.018631653,56.3,385.6,,-16.50829629
+2454930.568,-8.302,1.486,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.578706831,0.001572107,6.321763033,0.032969991,54.6,385.6,,-18.79558461
+2454931.609,-9.212,1.414,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.572143664,0.001630449,6.323290634,0.023993576,52.7,385.6,,-19.26147574
+2454941.571,-15.562,1.333,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.578441085,0.001346214,6.326809714,0.039286264,63.9,385.6,,-22.3450377
+2454951.587,-2.791,2.273,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.572116953,0.0027265,6.300184554,0.018939117,32.7,600.0,,-24.90617853
+2455217.823,-7.276,1.822,"La Silla Observatory, Chile",HIP49067,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.567451112,0.002092773,6.305300422,0.027750122,41.9,385.6008,,16.2308584

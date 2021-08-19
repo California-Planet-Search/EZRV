@@ -1,7 +1,8 @@
 data_dir: 'output/'
 #^output is the directory
 
-
+#directory where package stores Metadata and RV Database by defult it is where EZRV is installed
+default_directory : '/Users/Sarah/Wave21/EZRV/EZRV'
 
 #format of your csv
 input_dict : {"Time": "time",

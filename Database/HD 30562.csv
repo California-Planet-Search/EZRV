@@ -44,6 +44,6 @@ Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrum
 2454863.74239,-18.96,4.57,"Lick Observatory, California",HD 30562,JD,"Fischer et al. 2009 (ApJ, 703, 1545)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
 2454864.68794,-17.42,5.47,"Lick Observatory, California",HD 30562,JD,"Fischer et al. 2009 (ApJ, 703, 1545)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
 2454865.70517,-16.68,4.62,"Lick Observatory, California",HD 30562,JD,"Fischer et al. 2009 (ApJ, 703, 1545)",Hamilton echelle spectrograph,Iodine,Wright,,,,,,,,
-2455882.845,-0.263,0.883,La Silla Observatory,GJ177.1,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.399399228,0.000308455,,,244.9,299.9996,,6.513316977
-2455882.849,-0.437,0.883,La Silla Observatory,GJ177.1,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.399377798,0.00031434,,,240.9,300.0049,,6.502019635
-2455882.853,0.702,0.884,La Silla Observatory,GJ177.1,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.399211766,0.000326437,,,231.2,299.9996,,6.492233251
+2455882.845,-0.263,0.883,"La Silla Observatory, Chile",GJ177.1,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.399399228,0.000308455,,,244.9,299.9996,,6.513316977
+2455882.849,-0.437,0.883,"La Silla Observatory, Chile",GJ177.1,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.399377798,0.00031434,,,240.9,300.0049,,6.502019635
+2455882.853,0.702,0.884,"La Silla Observatory, Chile",GJ177.1,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.399211766,0.000326437,,,231.2,299.9996,,6.492233251
