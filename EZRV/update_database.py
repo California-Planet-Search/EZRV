@@ -10,7 +10,7 @@ config = yaml.safe_load(open("config/config.yaml"))
 def update_internal_dataframe():
     print('updating database')
     df_internal = pd.DataFrame()
-    database = glob.glob('Database/*.csv')
+    database = glob.glob(config['default_directory'] + '/Database/*.csv')
     df_internal['filename']  = np.array(database)
     df_internal['simbad_name'] = np.array(database)
     print('querying Simbad')
@@ -76,28 +76,29 @@ def update_database(file_name):
 
 
         #how to do this??
-        time_internal = df_internal['Time'].iloc[match_rows[]]
-        obser_internal = df_internal['Observatory_site'].iloc[match_rows[]]
+        time_internal = df_internal['Time'].iloc[match_rows]
+        obser_internal = df_internal['Observatory_site'].iloc[match_rows]
         print(time_internal)
 
-        for j in range(len(match_rows)) :
-            time_difference = np.array(time_internal - time_newfile[match_rows[j]])
-            time_difference_min = np.min(time_difference)
-
-
-            location_min = np.where(time_difference == time_difference_min)[0][0]
-
-            obser_internal[location_min] == obser_new[match_rows][j]
-
-            if (time_difference_min < 1/24/3600) & (obser_internal[location_min] == obser_new[match_rows][j]):
-                continue
-
-
-    #either appends existing file or creates new file
-        print('updating databse')
-        if np.any(match_name) == True:
-            df_update.iloc[match_rows][j].to_csv(df_internal['filename'].iloc[match_name[0]], mode='a', index=False, header = None)
-
-        if np.any(match_name) == False :
-            path = r'Database/'
-            df_update.iloc[match_rows][j].to_csv(path + unqiue_input_names[i]+ '.csv', index=False)
+    #
+    #     for j in range(len(match_rows)) :
+    #         time_difference = np.array(time_internal - time_newfile[match_rows[j]])
+    #         time_difference_min = np.min(time_difference)
+    #
+    #
+    #         location_min = np.where(time_difference == time_difference_min)[0][0]
+    #
+    #         obser_internal[location_min] == obser_new[match_rows][j]
+    #
+    #         if (time_difference_min < 1/24/3600) & (obser_internal[location_min] == obser_new[match_rows][j]):
+    #             continue
+    #
+    #
+    # #either appends existing file or creates new file
+    #     print('updating databse')
+    #     if np.any(match_name) == True:
+    #         df_update.iloc[match_rows][j].to_csv(df_internal['filename'].iloc[match_name[0]], mode='a', index=False, header = None)
+    #
+    #     if np.any(match_name) == False :
+    #         path = r'Database/'
+    #         df_update.iloc[match_rows][j].to_csv(path + unqiue_input_names[i]+ '.csv', index=False)
