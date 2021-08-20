@@ -59,16 +59,12 @@ def update_database(file_name):
     df_update = update_headers(file_name)
     input_dict  = config['input_dict']
 
-
-
     #match input star with database
     input_names = df_update['Star_Name']
     unqiue_input_names = np.unique(input_names)
     database_names = df_internal['simbad_name']
-    time_internal =
-    time_newfile =
-    obser_internal =
-    obser_new =
+    time_newfile = df_update['Time']
+    obser_new = df_update['Observatory_Site']
     # simbad_name_input = np.unique(input_names)
 
     for i in range(len(unqiue_input_names)):
@@ -78,7 +74,13 @@ def update_database(file_name):
         match_name = np.where(simbad_name_input == database_names)[0]
         match_rows = np.where((unqiue_input_names[i] == input_names))[0]
 
-        for j in range(len(match_rows)):
+
+        #how to do this??
+        time_internal = df_internal['Time'].iloc[match_rows[]]
+        obser_internal = df_internal['Observatory_site'].iloc[match_rows[]]
+        print(time_internal)
+
+        for j in range(len(match_rows)) :
             time_difference = np.array(time_internal - time_newfile[match_rows[j]])
             time_difference_min = np.min(time_difference)
 
@@ -91,25 +93,11 @@ def update_database(file_name):
                 continue
 
 
-
-
-        #finish! by:
-        #to avoid duplciation
-        #(names are same & time is outside 1 or 2 minutes) or (names the same and instrument not same and time within 5 minutes!)
-        #design example file so these are reflected
-
-
-
-        # print(match_rows, df_update.iloc[match_rows])
-    # #either appends existing file or creates new file
+    #either appends existing file or creates new file
+        print('updating databse')
         if np.any(match_name) == True:
             df_update.iloc[match_rows][j].to_csv(df_internal['filename'].iloc[match_name[0]], mode='a', index=False, header = None)
-
-            #
-            # print([i],input_names[i], simbad_name_input, df_update[match_rows])
-            # print(df_internal['filename'].iloc[match_name[0]])
 
         if np.any(match_name) == False :
             path = r'Database/'
             df_update.iloc[match_rows][j].to_csv(path + unqiue_input_names[i]+ '.csv', index=False)
-            # print(df_update[match_rows])

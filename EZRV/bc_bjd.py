@@ -5,8 +5,10 @@ import astropy.units as u
 from astropy.coordinates import SkyCoord
 import pandas as pd
 import numpy as np
+import yaml
 import requests
 import matplotlib.pylab as plt
+config = yaml.safe_load(open("config/config.yaml"))
 
 #check this page for the major observatories on Earth: https://en.wikipedia.org/wiki/List_of_astronomical_observatories
 class BarycorrError(BaseException):
@@ -87,7 +89,7 @@ def hjd2bjd(hjd_utc, ra, dec, raunits='degrees'):
 def time_conversion(file_name): #input is one particular file in our database
     print("Converting Time to BJD for "+file_name+"...")
     # get the information on the observatories
-    obs_info = pd.read_csv('Obs_list/observ_names.csv',header = 0)
+    obs_info = pd.read_csv(config['default_directory'] + '/Metadata/observ_names.csv',header = 0)
     #print(obs_info)
 
     #get the data to be converted
@@ -101,7 +103,7 @@ def time_conversion(file_name): #input is one particular file in our database
     c = SkyCoord(str(result_table['RA'][0])+str(result_table['DEC'][0]), unit=(u.hourangle, u.deg))
 
     #read in the leap second file
-    leap_sec_df = pd.read_csv('Obs_list/leap_seconds.csv',header = 0)
+    leap_sec_df = pd.read_csv(config['default_directory'] + '/Metadata/leap_seconds.csv',header = 0)
     leap_sec_df['Sec'] += 32
     leap_sec_df['jd'] = np.ones(len(leap_sec_df['Sec']))
     for i in range(len(leap_sec_df['jd'])):

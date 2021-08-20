@@ -8,7 +8,7 @@ default_directory : '/Users/Sarah/Wave21/EZRV/EZRV'
 input_dict : {"Time": "time",
            "RV" : "rv",
            "Uncertainty" : "uncert",
-           "Observatory_Name" : "obs_site",
+           "Observatory_Site" : "obs_site",
            "Star_Name" : "star",
            "Time_Convention" : "time_system",
            "Reference" : "reference",
