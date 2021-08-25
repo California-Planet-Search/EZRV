@@ -14,14 +14,13 @@ def improve_data(file_name):
     input_names = df_update['Star_Name']
     unqiue_input_names = np.unique(input_names)
     database_names = df_internal['simbad_name']
-    
+
     for i in range(len(unqiue_input_names)):
         table = Simbad.query_objectids(unqiue_input_names[i])
         simbad_name_input = np.array(table['ID'][0], 'str')
 
         match_name = np.where(simbad_name_input == database_names)[0]
         match_rows = np.where((unqiue_input_names[i] == input_names))[0]
-
 
 
         if np.any(match_name) == True:

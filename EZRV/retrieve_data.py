@@ -32,7 +32,7 @@ def retrieve_data(input_star_name, test_query_simbad, test_bjd_conversion):
         df_output = time_conversion(retrieve_file)
         Time = np.array(df_output['Time_BJD'])
     if test_bjd_conversion == False:
-        df_outuput = pd.read_csv(retrieve_file)
+        df_output = pd.read_csv(retrieve_file)
         Time = np.array(df_output['Time'])
 
     print(df_output)
@@ -72,8 +72,8 @@ def retrieve_data(input_star_name, test_query_simbad, test_bjd_conversion):
 
     if test_bjd_conversion == True:
         plt.xlabel('Time [BJD - 2457000]')
-    
-    #add second axis : plt.twinx()
+
+    #add second axis in years (look at astropy time converst jd to year): plt.twinx()
     if test_bjd_conversion == False:
         plt.xlabel('Time - 2457000')
 

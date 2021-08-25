@@ -1,7 +1,7 @@
 import EZRV
 EZRV.update_database('Example/example_file.csv')
 
-# EZRV.retrieve_data('11 Com', False, True)
+# EZRV.retrieve_data('HD 69830', False, False)
 
 # EZRV.improve_data('Example/example_file.csv')
 

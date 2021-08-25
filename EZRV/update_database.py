@@ -14,8 +14,11 @@ def update_internal_dataframe():
     df_internal['filename']  = np.array(database)
     df_internal['simbad_name'] = np.array(database)
     print('querying Simbad')
-    for i in range(len(df_internal['filename'] )):
-        starname = df_internal['filename'][i][9:-4]
+    for i in range(len(df_internal['filename'])):
+
+        location_name = df_internal['filename'][i].find('Database/')
+
+        starname = df_internal['filename'][i][location_name + 9: -4]
         table = Simbad.query_objectids(starname)
         simbad_name_internal = np.array(table['ID'], 'str')
         name = simbad_name_internal[0]
@@ -55,8 +58,13 @@ def update_headers(file_name):
     # # HAVE TO TEST! : needs information from previous functions, so I might combine them all since they dont work on their own
     # #combines new data with exisitng data
 def update_database(file_name):
+
     df_internal = update_internal_dataframe()
+    internal_starname = df_internal['simbad_name']
+
     df_update = update_headers(file_name)
+
+    print(df_internal, df_update)
     input_dict  = config['input_dict']
 
     #match input star with database
@@ -73,32 +81,30 @@ def update_database(file_name):
 
         match_name = np.where(simbad_name_input == database_names)[0]
         match_rows = np.where((unqiue_input_names[i] == input_names))[0]
+        print(unqiue_input_names[i],match_name,np.any(match_name)==True,np.any([2])==True)
+        #have to open the file that is the match and then read its time and observ!
+        if np.any(match_name) == True:
+            df_individual_star_file = pd.read_csv(df_internal['filename'].iloc[match_name[0]])
+            time_individual_star_file = np.array(df_individual_star_file['Time'])
+            obser_individual_star_file = np.array(df_individual_star_file['Observatory_Site'])
+            #print(time_individual_star_file , obser_individual_star_file)
 
+            print('updating '+unqiue_input_names[i])
+            for j in range(len(match_rows)) :
+                time_difference = np.array(time_individual_star_file - time_newfile[match_rows[j]])
+                time_difference_min = np.min(time_difference)
 
-        #how to do this??
-        time_internal = df_internal['Time'].iloc[match_rows]
-        obser_internal = df_internal['Observatory_site'].iloc[match_rows]
-        print(time_internal)
+                location_min = np.where(time_difference == time_difference_min)[0][0]
 
-    #
-    #     for j in range(len(match_rows)) :
-    #         time_difference = np.array(time_internal - time_newfile[match_rows[j]])
-    #         time_difference_min = np.min(time_difference)
-    #
-    #
-    #         location_min = np.where(time_difference == time_difference_min)[0][0]
-    #
-    #         obser_internal[location_min] == obser_new[match_rows][j]
-    #
-    #         if (time_difference_min < 1/24/3600) & (obser_internal[location_min] == obser_new[match_rows][j]):
-    #             continue
-    #
-    #
-    # #either appends existing file or creates new file
-    #     print('updating databse')
-    #     if np.any(match_name) == True:
-    #         df_update.iloc[match_rows][j].to_csv(df_internal['filename'].iloc[match_name[0]], mode='a', index=False, header = None)
-    #
-    #     if np.any(match_name) == False :
-    #         path = r'Database/'
-    #         df_update.iloc[match_rows][j].to_csv(path + unqiue_input_names[i]+ '.csv', index=False)
+                obser_individual_star_file[location_min] == obser_new[match_rows[j]]
+
+                if (time_difference_min < 2/24/3600) & (obser_individual_star_file[location_min] == obser_new[match_rows[j]]):
+                    continue
+
+    #either appends existing file or creates new file
+                df_update.iloc[match_rows[j]].to_csv(df_internal['filename'].iloc[match_name[0]], mode='a', index=False, header = None)
+
+        if np.any(match_name) == False :
+            print('generating new file for '+unqiue_input_names[i])
+            path = config['default_directory'] + '/Database/'
+            df_update.iloc[match_rows].to_csv(path + unqiue_input_names[i]+ '.csv', index=False)
