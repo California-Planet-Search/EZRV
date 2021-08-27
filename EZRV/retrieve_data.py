@@ -5,6 +5,7 @@ import glob
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 from astroquery.simbad  import Simbad
+from astropy.time import Time
 from .update_database import *
 from .bc_bjd import *
 config = yaml.safe_load(open("config/config.yaml"))
@@ -40,11 +41,11 @@ def retrieve_data(input_star_name, test_query_simbad, test_bjd_conversion):
 
     #PLOT! RV vs Time for retrieved file
     #make into function
+    print('plotting data')
 
     RV = np.array(df_output['RV'])
     Uncert = np.array(df_output['Uncertainty'])
-    # rms = np.sqrt(np.mean((RV - np.mean(RV))**2))
-
+    
 
     instr = np.array(df_output['Instrument'])
     unique_instr = np.unique(instr)
@@ -70,13 +71,18 @@ def retrieve_data(input_star_name, test_query_simbad, test_bjd_conversion):
         rms = np.sqrt(np.mean((RV[match_instr_data] - np.mean(RV[match_instr_data]))**2))
         plt.errorbar(Time[match_instr_data] - 2457000, RV[match_instr_data], yerr = [Uncert[match_instr_data], Uncert[match_instr_data]], xerr=None, fmt= 'o', label = unique_instr[i] + '[' + str(len(RV[match_instr_data])) + '/' + str(len(RV)) + '],' +' RMS:' + "{:10.1f}".format(rms) + ' m/s')
 
+
     if test_bjd_conversion == True:
         plt.xlabel('Time [BJD - 2457000]')
 
-    #add second axis in years (look at astropy time converst jd to year): plt.twinx()
+        plt.twinx('Time [years]')
+
+        #what time conversion do we want??
+        #add second axis in years (look at astropy time converst jd to year): plt.twinx()
     if test_bjd_conversion == False:
         plt.xlabel('Time - 2457000')
 
+        plt.twinx('Time [years]')
 
     plt.ylabel('Radial Velocity [m/s]')
     plt.title(str(input_star_name))
