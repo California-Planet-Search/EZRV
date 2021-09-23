@@ -101,6 +101,6 @@ Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrum
 2452145.730801,-453.20,4.00,"La Silla Observatory, Chile",HD 213240,BJD,"Santos et al. 2001 (A&A, 379, 999)",CORALIE,Thorium Argon,Wright,,,,,,,,
 2452150.745198,-438.80,4.00,"La Silla Observatory, Chile",HD 213240,BJD,"Santos et al. 2001 (A&A, 379, 999)",CORALIE,Thorium Argon,Wright,,,,,,,,
 2452161.689162,-444.50,4.00,"La Silla Observatory, Chile",HD 213240,BJD,"Santos et al. 2001 (A&A, 379, 999)",CORALIE,Thorium Argon,Wright,,,,,,,,
-2453512.907,-1.611,0.743,"La Silla Observatory, Chile",HD213240,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.400851506,0.000441939,8.010815767,0.017041852,162.2,414.9814,,23.13424104
-2453512.912,-0.435,0.824,"La Silla Observatory, Chile",HD213240,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.40081411,0.000531609,8.007272848,0.016268644,135.2,414.9814,,23.12580568
-2453517.9,1.755,0.702,"La Silla Observatory, Chile",HD213240,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.399457191,0.000310529,8.00779879,0.018041272,231.4,900.0023,,22.61352241
+2453512.907,-294.368,0.87,"La Silla Observatory, Chile",HD213240,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.400851506,0.000441939,8.010815767,0.017041852,162.2,414.9814,,23.13424104
+2453512.912,-294.17,0.927,"La Silla Observatory, Chile",HD213240,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.40081411,0.000531609,8.007272848,0.016268644,135.2,414.9814,,23.12580568
+2453517.9,-290.568,0.694,"La Silla Observatory, Chile",HD213240,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.399457191,0.000310529,8.00779879,0.018041272,231.4,900.0023,,22.61352241

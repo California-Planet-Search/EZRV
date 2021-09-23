@@ -31,22 +31,26 @@ def retrieve_data(input_star_name, test_query_simbad, test_bjd_conversion):
 
     if test_bjd_conversion == True:
         df_output = time_conversion(retrieve_file)
-        Time = np.array(df_output['Time_BJD'])
+        times = np.array(df_output['Time_BJD'])
+
     if test_bjd_conversion == False:
         df_output = pd.read_csv(retrieve_file)
-        Time = np.array(df_output['Time'])
+        times = np.array(df_output['Time'])
 
+    #prints retrieved data
     print(df_output)
-
 
     #PLOT! RV vs Time for retrieved file
     #make into function
+
     print('plotting data')
+    #figure out the right way to call the TimeDecimalYear, have to put in the if statements above
+    Time_convert = Time(times, format='jd', scale='utc')
+    Time_year = Time_convert.to_value('decimalyear')
+
 
     RV = np.array(df_output['RV'])
     Uncert = np.array(df_output['Uncertainty'])
-    
-
     instr = np.array(df_output['Instrument'])
     unique_instr = np.unique(instr)
 
@@ -66,32 +70,31 @@ def retrieve_data(input_star_name, test_query_simbad, test_bjd_conversion):
     plt.rcParams['xtick.major.pad']='8'
     plt.rcParams['ytick.major.pad']='8'
 
+    fig, ax1 = plt.subplots()
+
     for i in range(len(unique_instr)):
         match_instr_data = np.where(unique_instr[i] == instr)[0]
         rms = np.sqrt(np.mean((RV[match_instr_data] - np.mean(RV[match_instr_data]))**2))
-        plt.errorbar(Time[match_instr_data] - 2457000, RV[match_instr_data], yerr = [Uncert[match_instr_data], Uncert[match_instr_data]], xerr=None, fmt= 'o', label = unique_instr[i] + '[' + str(len(RV[match_instr_data])) + '/' + str(len(RV)) + '],' +' RMS:' + "{:10.1f}".format(rms) + ' m/s')
+        ax1.errorbar(times[match_instr_data] - 2457000, RV[match_instr_data], yerr = [Uncert[match_instr_data], Uncert[match_instr_data]], xerr=None, fmt= 'o', label = unique_instr[i] + '[' + str(len(RV[match_instr_data])) + '/' + str(len(RV)) + '],' +' RMS:' + "{:10.1f}".format(rms) + ' m/s')
 
 
+    ax2 = ax1.twiny()  # instantiate a second axes that shares the same x-axis
+
+    #need to add second axis
     if test_bjd_conversion == True:
-        plt.xlabel('Time [BJD - 2457000]')
 
-        plt.twinx('Time [years]')
+        ax1.set_xlabel('Time [BJD - 2457000]')
 
-        #what time conversion do we want??
-        #add second axis in years (look at astropy time converst jd to year): plt.twinx()
     if test_bjd_conversion == False:
-        plt.xlabel('Time - 2457000')
+        ax1.set_xlabel('Time - 2457000')
 
-        plt.twinx('Time [years]')
+    ax2.errorbar(Time_year[match_instr_data] - 2457000, RV[match_instr_data], yerr = [Uncert[match_instr_data], Uncert[match_instr_data]], xerr=None, fmt= 'o', label = unique_instr[i] + '[' + str(len(RV[match_instr_data])) + '/' + str(len(RV)) + '],' +' RMS:' + "{:10.1f}".format(rms) + ' m/s')
+
+    ax2.set_xlabel = ('Time [Decimal Year]')
+
 
     plt.ylabel('Radial Velocity [m/s]')
     plt.title(str(input_star_name))
     plt.legend(loc = 1)
     plt.show()
     plt.close()
-
-
-
-
-
-    #if match == True then print data(dataframe)/data file and plot

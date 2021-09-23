@@ -1,71 +1,71 @@
 Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisector,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
-2449767.0503,5.1300001,14.8799992,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
-2449801.93492,-17.9452744,6.021749,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
-2449859.7793,-73.9300003,8.1000004,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
-2450129.07812,-23.3199997,6.4499998,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
-2450172.96846,-43.9965858,5.9060755,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
-2450186.88119,-66.4286499,5.1611676,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
-2450199.86733,-6.3565745,5.0272756,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
-2450215.76416,-7.2349997,5.0487423,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
-2450262.70801,-34.1599998,7.3400002,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
-2450504.95312,-1.8,7.71,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
-2450640.73144,16.3899994,9.6700001,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
-2450656.73926,-38.2999992,10.5299997,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
-2450854.9668,226.3200073,68.8199997,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
-2450978.78809,-27.8199997,8.2299995,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
-2452042.80458,-5.3364935,5.50425,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
-2452738.9108,-23.3173008,5.1087546,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
-2452795.70068,40.6029701,4.5297675,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
-2453118.84094,82.4427795,6.3974395,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
-2453130.85547,-17.4300003,6.79,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
-2453131.80078,57.2700005,7.0000005,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
-2453155.81738,73.2399979,7.2700005,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
-2453391.05959,30.4249439,5.1895647,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
-2453407.06639,9.3325987,5.7618661,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
-2453438.03663,3.565675,5.5061812,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
-2453438.9981,-19.9755096,5.4657388,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
-2453440.9451,-0.849916,5.2941909,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
-2453442.01242,45.3095131,5.3345265,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
-2453474.89346,-36.1126213,5.4652634,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
-2453475.84773,15.4967079,5.3039021,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
-2453514.76127,75.75,7.3699994,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
-2453869.82839,14.4879818,5.4250541,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
-2454135.99885,4.0631037,4.9752345,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
-2454166.0047,49.0099983,6.9899998,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
-2454219.85208,-20.9874763,5.4115524,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
-2454220.8645,-4.9073973,4.8089099,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
-2454606.80713,57.1500015,6.5900002,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",l: Hamilton Spectrograph post-dewar 16 (after November 1994),Iodine,Wright,,,,,,,,
-2447224.91175,6.4835086,15.4464397,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",p: Hamilton Spectrograph dewar 16 (prior to November 1994),Iodine,Wright,,,,,,,,
-2447331.81299,-54.0622482,17.241457,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",p: Hamilton Spectrograph dewar 16 (prior to November 1994),Iodine,Wright,,,,,,,,
-2447374.7306,2.1099999,29.6200008,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",p: Hamilton Spectrograph dewar 16 (prior to November 1994),Iodine,Wright,,,,,,,,
-2447393.7062,-49.0699997,28.0599995,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",p: Hamilton Spectrograph dewar 16 (prior to November 1994),Iodine,Wright,,,,,,,,
-2447578.9451,14.3500004,31.1599998,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",p: Hamilton Spectrograph dewar 16 (prior to November 1994),Iodine,Wright,,,,,,,,
-2447709.77118,55.447197,25.9412289,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",p: Hamilton Spectrograph dewar 16 (prior to November 1994),Iodine,Wright,,,,,,,,
-2447919.0583,-70.0,35.0800018,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",p: Hamilton Spectrograph dewar 16 (prior to November 1994),Iodine,Wright,,,,,,,,
-2447965.0122,-91.3700027,44.8699989,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",p: Hamilton Spectrograph dewar 16 (prior to November 1994),Iodine,Wright,,,,,,,,
-2448019.84366,122.9299774,30.414711,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",p: Hamilton Spectrograph dewar 16 (prior to November 1994),Iodine,Wright,,,,,,,,
-2448746.7527,20.3090649,21.4896641,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",p: Hamilton Spectrograph dewar 16 (prior to November 1994),Iodine,Wright,,,,,,,,
-2448781.83326,-9.0904169,19.6265965,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",p: Hamilton Spectrograph dewar 16 (prior to November 1994),Iodine,Wright,,,,,,,,
-2448847.7135,-58.7099991,27.2999992,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",p: Hamilton Spectrograph dewar 16 (prior to November 1994),Iodine,Wright,,,,,,,,
-2448993.0961,50.9599991,27.8700008,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",p: Hamilton Spectrograph dewar 16 (prior to November 1994),Iodine,Wright,,,,,,,,
-2449068.96812,-16.5137024,19.7869797,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",p: Hamilton Spectrograph dewar 16 (prior to November 1994),Iodine,Wright,,,,,,,,
-2449122.81417,-15.983345,16.1739521,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",p: Hamilton Spectrograph dewar 16 (prior to November 1994),Iodine,Wright,,,,,,,,
-2449351.0638,21.7000008,30.5799999,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",p: Hamilton Spectrograph dewar 16 (prior to November 1994),Iodine,Wright,,,,,,,,
-2449412.0171,41.4599991,27.170002,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",p: Hamilton Spectrograph dewar 16 (prior to November 1994),Iodine,Wright,,,,,,,,
-2449481.77139,70.8014374,21.0430546,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",p: Hamilton Spectrograph dewar 16 (prior to November 1994),Iodine,Wright,,,,,,,,
-2453774.898,-22.906,1.694,"La Silla Observatory, Chile",GJ557.0,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.41264531,0.000361131,12.39889889,0.138363969,210.8,72.7015,,20.34843039
-2453774.899,-21.134,1.73,"La Silla Observatory, Chile",GJ557.0,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.413096183,0.000376614,12.40584799,0.139300495,203.8,72.6995,,20.34545778
-2453775.902,-20.392,2.091,"La Silla Observatory, Chile",GJ557.0,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.414953298,0.000488813,12.31676552,0.106114199,157.6,95.7002,,20.1625592
-2453775.903,-21.01,1.947,"La Silla Observatory, Chile",GJ557.0,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.414148789,0.000444932,12.34360657,0.113449957,172.6,95.6997,,20.15892623
-2453776.898,-19.95,2.621,"La Silla Observatory, Chile",GJ557.0,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.41799097,0.000625506,12.36030308,0.00950911,123.5,95.7,,19.98812735
-2453776.9,-19.517,2.487,"La Silla Observatory, Chile",GJ557.0,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.418299029,0.000582935,12.35889101,0.020505482,132.0,95.7005,,19.98443638
-2453777.897,-23.855,1.997,"La Silla Observatory, Chile",GJ557.0,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.417231092,0.000469383,12.30385899,0.197788021,165.8,72.7013,,19.80180727
-2453777.898,-27.589,1.979,"La Silla Observatory, Chile",GJ557.0,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.417530163,0.000467117,12.30477034,0.182804938,167.0,72.7023,,19.7988287
-2453779.896,-38.649,1.629,"La Silla Observatory, Chile",GJ557.0,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.41470937,0.000361599,12.37551501,0.157840932,211.8,95.6998,,19.40855861
-2453779.898,-42.198,1.656,"La Silla Observatory, Chile",GJ557.0,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.415936007,0.000373366,12.37562867,0.145635853,206.5,95.7023,,19.40496648
-2453780.895,23.581,1.832,"La Silla Observatory, Chile",GJ557.0,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.419763895,0.000393176,12.50250348,-0.027782199,194.9,95.7002,,19.20594583
-2453780.897,24.767,1.795,"La Silla Observatory, Chile",GJ557.0,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.419430352,0.000378632,12.49893934,-0.017442745,202.1,95.7013,,19.20232854
-2454542.849,50.385,1.447,"La Silla Observatory, Chile",GJ557.0,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.410376251,0.000279186,12.03582532,0.127755214,271.9,95.7,,10.29715835
-2454542.851,51.757,1.386,"La Silla Observatory, Chile",GJ557.0,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.410238206,0.00027196,12.03915288,0.127855845,285.1,95.7,,10.29343096
-2454546.833,10.538,1.63,"La Silla Observatory, Chile",GJ557.0,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.408346844,0.000329852,11.78071884,0.235796929,232.7,72.7,,8.929416535
-2454546.834,11.085,1.555,"La Silla Observatory, Chile",GJ557.0,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.410390673,0.000309723,11.76484004,0.240717972,249.5,72.7,,8.926320582
+2449767.0503,5.1300001,14.8799992,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2449801.93492,-17.9452744,6.021749,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2449859.7793,-73.9300003,8.1000004,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2450129.07812,-23.3199997,6.4499998,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2450172.96846,-43.9965858,5.9060755,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2450186.88119,-66.4286499,5.1611676,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2450199.86733,-6.3565745,5.0272756,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2450215.76416,-7.2349997,5.0487423,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2450262.70801,-34.1599998,7.3400002,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2450504.95312,-1.8,7.71,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2450640.73144,16.3899994,9.6700001,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2450656.73926,-38.2999992,10.5299997,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2450854.9668,226.3200073,68.8199997,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2450978.78809,-27.8199997,8.2299995,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2452042.80458,-5.3364935,5.50425,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2452738.9108,-23.3173008,5.1087546,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2452795.70068,40.6029701,4.5297675,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2453118.84094,82.4427795,6.3974395,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2453130.85547,-17.4300003,6.79,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2453131.80078,57.2700005,7.0000005,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2453155.81738,73.2399979,7.2700005,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2453391.05959,30.4249439,5.1895647,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2453407.06639,9.3325987,5.7618661,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2453438.03663,3.565675,5.5061812,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2453438.9981,-19.9755096,5.4657388,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2453440.9451,-0.849916,5.2941909,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2453442.01242,45.3095131,5.3345265,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2453474.89346,-36.1126213,5.4652634,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2453475.84773,15.4967079,5.3039021,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2453514.76127,75.75,7.3699994,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2453869.82839,14.4879818,5.4250541,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2454135.99885,4.0631037,4.9752345,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2454166.0047,49.0099983,6.9899998,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2454219.85208,-20.9874763,5.4115524,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2454220.8645,-4.9073973,4.8089099,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2454606.80713,57.1500015,6.5900002,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2447224.91175,6.4835086,15.4464397,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2447331.81299,-54.0622482,17.241457,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2447374.7306,2.1099999,29.6200008,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2447393.7062,-49.0699997,28.0599995,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2447578.9451,14.3500004,31.1599998,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2447709.77118,55.447197,25.9412289,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2447919.0583,-70.0,35.0800018,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2447965.0122,-91.3700027,44.8699989,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2448019.84366,122.9299774,30.414711,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2448746.7527,20.3090649,21.4896641,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2448781.83326,-9.0904169,19.6265965,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2448847.7135,-58.7099991,27.2999992,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2448993.0961,50.9599991,27.8700008,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2449068.96812,-16.5137024,19.7869797,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2449122.81417,-15.983345,16.1739521,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2449351.0638,21.7000008,30.5799999,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2449412.0171,41.4599991,27.170002,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2449481.77139,70.8014374,21.0430546,"Lick Observatory, California",HD 128167,HJD,"Howard & Fulton, 2016",Hamilton,Iodine,Wright,,,,,,,,
+2453774.898,164.175,1.214,"La Silla Observatory, Chile",GJ557.0,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.41264531,0.000361131,12.39889889,0.138363969,210.8,72.7015,,20.34843039
+2453774.899,162.304,1.228,"La Silla Observatory, Chile",GJ557.0,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.413096183,0.000376614,12.40584799,0.139300495,203.8,72.6995,,20.34545778
+2453775.902,167.68,1.336,"La Silla Observatory, Chile",GJ557.0,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.414953298,0.000488813,12.31676552,0.106114199,157.6,95.7002,,20.1625592
+2453775.903,164.473,1.295,"La Silla Observatory, Chile",GJ557.0,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.414148789,0.000444932,12.34360657,0.113449957,172.6,95.6997,,20.15892623
+2453776.898,166.302,1.446,"La Silla Observatory, Chile",GJ557.0,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.41799097,0.000625506,12.36030308,0.00950911,123.5,95.7,,19.98812735
+2453776.9,167.723,1.409,"La Silla Observatory, Chile",GJ557.0,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.418299029,0.000582935,12.35889101,0.020505482,132.0,95.7005,,19.98443638
+2453777.897,164.333,1.302,"La Silla Observatory, Chile",GJ557.0,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.417231092,0.000469383,12.30385899,0.197788021,165.8,72.7013,,19.80180727
+2453777.898,159.658,1.3,"La Silla Observatory, Chile",GJ557.0,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.417530163,0.000467117,12.30477034,0.182804938,167.0,72.7023,,19.7988287
+2453779.896,143.437,1.198,"La Silla Observatory, Chile",GJ557.0,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.41470937,0.000361599,12.37551501,0.157840932,211.8,95.6998,,19.40855861
+2453779.898,142.536,1.207,"La Silla Observatory, Chile",GJ557.0,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.415936007,0.000373366,12.37562867,0.145635853,206.5,95.7023,,19.40496648
+2453780.895,216.091,1.227,"La Silla Observatory, Chile",GJ557.0,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.419763895,0.000393176,12.50250348,-0.027782199,194.9,95.7002,,19.20594583
+2453780.897,218.615,1.214,"La Silla Observatory, Chile",GJ557.0,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.419430352,0.000378632,12.49893934,-0.017442745,202.1,95.7013,,19.20232854
+2454542.849,236.276,1.14,"La Silla Observatory, Chile",GJ557.0,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.410376251,0.000279186,12.03582532,0.127755214,271.9,95.7,,10.29715835
+2454542.851,240.062,1.131,"La Silla Observatory, Chile",GJ557.0,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.410238206,0.00027196,12.03915288,0.127855845,285.1,95.7,,10.29343096
+2454546.833,185.249,1.187,"La Silla Observatory, Chile",GJ557.0,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.408346844,0.000329852,11.78071884,0.235796929,232.7,72.7,,8.929416535
+2454546.834,187.55,1.166,"La Silla Observatory, Chile",GJ557.0,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.410390673,0.000309723,11.76484004,0.240717972,249.5,72.7,,8.926320582

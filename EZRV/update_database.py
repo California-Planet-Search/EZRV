@@ -14,6 +14,7 @@ def update_internal_dataframe():
     df_internal['filename']  = np.array(database)
     df_internal['simbad_name'] = np.array(database)
     print('querying Simbad')
+    #queries Simbad
     for i in range(len(df_internal['filename'])):
 
         location_name = df_internal['filename'][i].find('Database/')
@@ -29,7 +30,7 @@ def update_internal_dataframe():
     return df_internal
 
 
-# #updates headers of input file to our structure
+#updates headers of input file to new structure
 def update_headers(file_name):
     input_dict  = config['input_dict']
     df = pd.read_csv(file_name)
@@ -52,11 +53,7 @@ def update_headers(file_name):
 
     return df_update
 
-    #DONE!!^ updates the headers
-
-
-    # # HAVE TO TEST! : needs information from previous functions, so I might combine them all since they dont work on their own
-    # #combines new data with exisitng data
+    # combines new data with exisitng data
 def update_database(file_name):
 
     df_internal = update_internal_dataframe()
@@ -73,7 +70,7 @@ def update_database(file_name):
     database_names = df_internal['simbad_name']
     time_newfile = df_update['Time']
     obser_new = df_update['Observatory_Site']
-    # simbad_name_input = np.unique(input_names)
+
 
     for i in range(len(unqiue_input_names)):
         table = Simbad.query_objectids(unqiue_input_names[i])
@@ -82,14 +79,15 @@ def update_database(file_name):
         match_name = np.where(simbad_name_input == database_names)[0]
         match_rows = np.where((unqiue_input_names[i] == input_names))[0]
         print(unqiue_input_names[i],match_name,np.any(match_name)==True,np.any([2])==True)
-        #have to open the file that is the match and then read its time and observ!
+
+        #either appends existing file or creates new file
         if np.any(match_name) == True:
             df_individual_star_file = pd.read_csv(df_internal['filename'].iloc[match_name[0]])
             time_individual_star_file = np.array(df_individual_star_file['Time'])
             obser_individual_star_file = np.array(df_individual_star_file['Observatory_Site'])
-            #print(time_individual_star_file , obser_individual_star_file)
 
             print('updating '+unqiue_input_names[i])
+
             for j in range(len(match_rows)) :
                 time_difference = np.array(time_individual_star_file - time_newfile[match_rows[j]])
                 time_difference_min = np.min(time_difference)
@@ -101,7 +99,7 @@ def update_database(file_name):
                 if (time_difference_min < 2/24/3600) & (obser_individual_star_file[location_min] == obser_new[match_rows[j]]):
                     continue
 
-    #either appends existing file or creates new file
+
                 df_update.iloc[match_rows[j]].to_csv(df_internal['filename'].iloc[match_name[0]], mode='a', index=False, header = None)
 
         if np.any(match_name) == False :

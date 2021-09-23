@@ -4,4 +4,4 @@ Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrum
 2457170.88,,,"La Silla Observatory, Chile",HD148184,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.384596703,0.000157605,,,287.0,179.9936,,0.681890695
 2457172.787,,,"La Silla Observatory, Chile",HD148184,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.61021962,0.000178534,,,379.4,179.9983,,-0.119349787
 2457172.889,,,"La Silla Observatory, Chile",HD148184,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.549840921,0.000170453,,,331.0,179.9983,,-0.330635195
-2457913.864,0.0,2.951,"La Silla Observatory, Chile",HD148184,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.373516696,0.000155805,,,260.8,179.9982,,-5.490618074
+2457913.864,,,"La Silla Observatory, Chile",HD148184,BJD,"Trifonov et al. (A&A 636, A74 (2020))",HARPS,ThAr,Trifonov,0.373516696,0.000155805,,,260.8,179.9982,,-5.490618074
