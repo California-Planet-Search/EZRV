@@ -1,2 +1,3 @@
 # EZRV
-package for ingesting literature RV database
+package for ingesting and unifying RV datasets
+RV database
