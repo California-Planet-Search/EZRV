@@ -15,7 +15,11 @@ def retrieve_data(input_star_name, test_query_simbad, test_bjd_conversion):
     simbad_name_retrieve = np.array(table['ID'][0], 'str')
     print(simbad_name_retrieve)
 
-    #match simbad_name_retrieve to corresponding file in our database- use the first simbad name to match_name
+    #remove this
+    df_internal = pd.read_csv('Metadata/Internal_Simbad_Names.csv')
+    database_names = df_internal['simbad_name']
+
+
     print('retrieving data')
     if test_query_simbad == True :
         df_internal = update_internal_dataframe()
@@ -40,11 +44,10 @@ def retrieve_data(input_star_name, test_query_simbad, test_bjd_conversion):
     #prints retrieved data
     print(df_output)
 
-    #PLOT! RV vs Time for retrieved file
-    #make into function
-
+    #Plotting data
     print('plotting data')
-    #figure out the right way to call the TimeDecimalYear, have to put in the if statements above
+
+    #Converts time to year
     Time_convert = Time(times, format='jd', scale='utc')
     Time_year = Time_convert.to_value('decimalyear')
 
@@ -54,6 +57,7 @@ def retrieve_data(input_star_name, test_query_simbad, test_bjd_conversion):
     instr = np.array(df_output['Instrument'])
     unique_instr = np.unique(instr)
 
+    #plot details
     plt.rcParams['font.family'] = 'Arial'
     plt.rcParams.update({'font.size': 10})
     plt.rcParams['legend.fontsize'] = plt.rcParams['font.size']
@@ -69,32 +73,33 @@ def retrieve_data(input_star_name, test_query_simbad, test_bjd_conversion):
     plt.rcParams['legend.frameon'] = True
     plt.rcParams['xtick.major.pad']='8'
     plt.rcParams['ytick.major.pad']='8'
+    # plt.rcParams['figure.figsize'] =
 
     fig, ax1 = plt.subplots()
+    ax2 = ax1.twiny()
 
     for i in range(len(unique_instr)):
         match_instr_data = np.where(unique_instr[i] == instr)[0]
         rms = np.sqrt(np.mean((RV[match_instr_data] - np.mean(RV[match_instr_data]))**2))
-        ax1.errorbar(times[match_instr_data] - 2457000, RV[match_instr_data], yerr = [Uncert[match_instr_data], Uncert[match_instr_data]], xerr=None, fmt= 'o', label = unique_instr[i] + '[' + str(len(RV[match_instr_data])) + '/' + str(len(RV)) + '],' +' RMS:' + "{:10.1f}".format(rms) + ' m/s')
+        ax1.errorbar(times[match_instr_data] - 2457000, RV[match_instr_data] - np.nanmean(RV[match_instr_data]), yerr = [Uncert[match_instr_data], Uncert[match_instr_data]], xerr=None, fmt= 'o', label = unique_instr[i] + '[' + str(len(RV[match_instr_data])) + '/' + str(len(RV)) + '],' +' RMS:' + "{:10.1f}".format(rms) + ' m/s')
+        ax2.errorbar(Time_year[match_instr_data], RV[match_instr_data] - np.nanmean(RV[match_instr_data]), yerr = [Uncert[match_instr_data], Uncert[match_instr_data]], xerr=None, fmt= 'o', label = unique_instr[i] + '[' + str(len(RV[match_instr_data])) + '/' + str(len(RV)) + '],' +' RMS:' + "{:10.1f}".format(rms) + ' m/s')
 
-
-    ax2 = ax1.twiny()  # instantiate a second axes that shares the same x-axis
-
-    #need to add second axis
+    #axis labels
     if test_bjd_conversion == True:
-
         ax1.set_xlabel('Time [BJD - 2457000]')
-
     if test_bjd_conversion == False:
         ax1.set_xlabel('Time - 2457000')
 
-    ax2.errorbar(Time_year[match_instr_data] - 2457000, RV[match_instr_data], yerr = [Uncert[match_instr_data], Uncert[match_instr_data]], xerr=None, fmt= 'o', label = unique_instr[i] + '[' + str(len(RV[match_instr_data])) + '/' + str(len(RV)) + '],' +' RMS:' + "{:10.1f}".format(rms) + ' m/s')
+    ax2.set_xlabel('Time [Year]')
+    ax1.set_ylabel('Radial Velocity [m/s]')
 
-    ax2.set_xlabel = ('Time [Decimal Year]')
-
-
-    plt.ylabel('Radial Velocity [m/s]')
+    #plot name and legend
     plt.title(str(input_star_name))
     plt.legend(loc = 1)
-    plt.show()
+
+    #remove this
+    path = r'Plots_/'
+    plt.savefig(path + input_star_name + '.png', format = 'png', bbox_inches='tight')
     plt.close()
+
+    # plt.show()
