@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 # for plots
 df_internal = pd.read_csv('Metadata/Internal_Simbad_Names.csv')
 database_names = df_internal['simbad_name']
+# 598,3228,1
 
-
-for i in range(len(database_names)):
+for i in range(2800,3227,1):
     EZRV.retrieve_data(database_names[i], False, False)

@@ -73,7 +73,8 @@ def retrieve_data(input_star_name, test_query_simbad, test_bjd_conversion):
     plt.rcParams['legend.frameon'] = True
     plt.rcParams['xtick.major.pad']='8'
     plt.rcParams['ytick.major.pad']='8'
-    # plt.rcParams['figure.figsize'] =
+    plt.rcParams["figure.figsize"] = (10,6)
+    plt.rcParams['lines.markersize']= 4
 
     fig, ax1 = plt.subplots()
     ax2 = ax1.twiny()
@@ -98,7 +99,7 @@ def retrieve_data(input_star_name, test_query_simbad, test_bjd_conversion):
     plt.legend(loc = 1)
 
     #remove this
-    path = r'Plots_/'
+    path = r'Plots__/'
     plt.savefig(path + input_star_name + '.png', format = 'png', bbox_inches='tight')
     plt.close()
 
