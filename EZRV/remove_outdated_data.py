@@ -4,6 +4,7 @@ import pandas as pd
 import glob
 from astroquery.simbad  import Simbad
 from .update_database import *
+import os
 config = yaml.safe_load(open("config/config.yaml"))
 
 
@@ -37,7 +38,8 @@ def remove_outdated_data(file_name, input_instr,add_improved_data):
 
             df_new = df_file.drop(drop_list)
             print(df_new)
-
+            os.remove(df_internal['filename'].iloc[match_name[0]])
+            #
             df_new.to_csv(df_internal['filename'].iloc[match_name[0]], index=False)
             #
             # if add_improved_data == True :
