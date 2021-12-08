@@ -57,7 +57,7 @@ def update_database(file_name):
 
     df_update = update_headers(file_name)
 
-    print(df_update)
+    # print(df_update)
 
     input_dict  = config['input_dict']
 
@@ -68,7 +68,7 @@ def update_database(file_name):
     time_newfile = np.array(df_update['Time'], 'd')
     obser_new = np.array(df_update['Observatory_Site'], 'str')
 
-    print(df_update)
+    # print(df_update)
 
     for i in range(len(unqiue_input_names)):
         table = Simbad.query_objectids(unqiue_input_names[i])
@@ -92,16 +92,14 @@ def update_database(file_name):
 
                 location_min = np.where(time_difference == time_difference_min)[0][0]
 
-                print(time_difference_min, location_min,obser_individual_star_file[location_min], obser_new[match_rows[j]])
+                
 
                 if (time_difference_min < 2/24/60) & (obser_individual_star_file[location_min] == obser_new[match_rows[j]]):
                     continue
 
+                #option to print what new dataframe looks like
+                # print(df_update)
 
-                print(df_update)
-                print(df_update.iloc[[match_rows[j]]])
-                print(match_rows[j])
-                print(df_internal['filename'].iloc[match_name[0]])
 
 
                 df_update.iloc[[match_rows[j]]].to_csv(df_internal['filename'].iloc[match_name[0]], mode='a', index=False, header = None)
