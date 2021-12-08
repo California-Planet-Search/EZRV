@@ -15,11 +15,6 @@ def retrieve_data(input_star_name, test_query_simbad, test_bjd_conversion):
     simbad_name_retrieve = np.array(table['ID'][0], 'str')
     print(simbad_name_retrieve)
 
-    #remove this
-    df_internal = pd.read_csv('Metadata/Internal_Simbad_Names.csv')
-    database_names = df_internal['simbad_name']
-
-
     print('retrieving data')
     if test_query_simbad == True :
         df_internal = update_internal_dataframe()
@@ -98,8 +93,11 @@ def retrieve_data(input_star_name, test_query_simbad, test_bjd_conversion):
     plt.title(str(input_star_name))
     plt.legend(loc = 1)
 
-    #remove this
-    path = r'Plots/'
-    plt.savefig(path + input_star_name + '.png', format = 'png', bbox_inches='tight')
-    plt.close()
+    #to save plot as a png
+    # path = r'Plots/'
+    # plt.savefig(path + input_star_name + '.png', format = 'png', bbox_inches='tight')
+
+
     plt.show()
+
+    # plt.close()

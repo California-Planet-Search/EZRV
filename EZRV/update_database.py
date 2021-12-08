@@ -74,13 +74,9 @@ def update_database(file_name):
         table = Simbad.query_objectids(unqiue_input_names[i])
         simbad_name_input = str(table['ID'][0])
 
-        # print(database_names,simbad_name_input, type(simbad_name_input))
-
         match_name = np.where(database_names == simbad_name_input)[0]
         match_rows = np.where((input_names == unqiue_input_names[i]))[0]
-        # print(unqiue_input_names[i],match_name,np.any(match_name)==True,np.any([2])==True)
-        #
-        # print(match_rows, input_names)
+
 
         #either appends existing file or creates new file
         if np.any(match_name) == True:
@@ -109,8 +105,6 @@ def update_database(file_name):
 
 
                 df_update.iloc[[match_rows[j]]].to_csv(df_internal['filename'].iloc[match_name[0]], mode='a', index=False, header = None)
-
-            # df_update.iloc[match_rows].to_csv(path + unqiue_input_names[i]+ '.csv', mode = 'a', header = None, index=False)
 
         if np.any(match_name) == False :
             print('generating new file for '+unqiue_input_names[i])

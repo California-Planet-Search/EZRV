@@ -10,13 +10,13 @@ import numpy as np
 #
 # for i in range(len(TKS_unique)):
 #     print(TKS_unique[i])
-
-EZRV.update_database('TOI_new/TOI174.csv')
-# EZRV.update_database('Example/example_file.csv')
+#
+# EZRV.update_database('TOI_new/TOI174.csv')
+EZRV.update_database('Example/example_file.csv')
 
 # EZRV.remove_outdated_data('Example/example_file.csv', 'HARPS', False)
 
-# EZRV.retrieve_data('TOI144', False, False)
+# EZRV.retrieve_data('HD 45652', False, False)
 
 # # for plots
 # df_internal = pd.read_csv('Metadata/Internal_Simbad_Names.csv')
