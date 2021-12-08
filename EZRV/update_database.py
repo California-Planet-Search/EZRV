@@ -14,6 +14,7 @@ def update_internal_dataframe():
     df_internal['filename']  = np.array(database)
     df_internal['simbad_name'] = np.array(database)
     print('querying Simbad')
+
     #queries Simbad
     for i in range(len(df_internal['filename'])):
 
@@ -34,11 +35,6 @@ def update_internal_dataframe():
 def update_headers(file_name):
     input_dict  = config['input_dict']
     df = pd.read_csv(file_name)
-
-    Time = np.ones(len(df), 'd')
-    RV = np.ones_like(Time)
-    Uncertainty = np.ones_like(Time)
-    Observatory_Name = np.ones(len(df), 'str')
 
     df_update = pd.DataFrame()
 
@@ -61,24 +57,30 @@ def update_database(file_name):
 
     df_update = update_headers(file_name)
 
-    print(df_internal, df_update)
+    print(df_update)
+
     input_dict  = config['input_dict']
 
     #match input star with database
-    input_names = df_update['Star_Name']
+    input_names = np.array(df_update['Star_Name'],'str')
     unqiue_input_names = np.unique(input_names)
-    database_names = df_internal['simbad_name']
-    time_newfile = df_update['Time']
-    obser_new = df_update['Observatory_Site']
+    database_names = np.array(df_internal['simbad_name'], 'str')
+    time_newfile = np.array(df_update['Time'], 'd')
+    obser_new = np.array(df_update['Observatory_Site'], 'str')
 
+    print(df_update)
 
     for i in range(len(unqiue_input_names)):
         table = Simbad.query_objectids(unqiue_input_names[i])
-        simbad_name_input = np.array(table['ID'][0], 'str')
+        simbad_name_input = str(table['ID'][0])
 
-        match_name = np.where(simbad_name_input == database_names)[0]
-        match_rows = np.where((unqiue_input_names[i] == input_names))[0]
-        print(unqiue_input_names[i],match_name,np.any(match_name)==True,np.any([2])==True)
+        # print(database_names,simbad_name_input, type(simbad_name_input))
+
+        match_name = np.where(database_names == simbad_name_input)[0]
+        match_rows = np.where((input_names == unqiue_input_names[i]))[0]
+        # print(unqiue_input_names[i],match_name,np.any(match_name)==True,np.any([2])==True)
+        #
+        # print(match_rows, input_names)
 
         #either appends existing file or creates new file
         if np.any(match_name) == True:
@@ -89,18 +91,26 @@ def update_database(file_name):
             print('updating '+unqiue_input_names[i])
 
             for j in range(len(match_rows)) :
-                time_difference = np.array(time_individual_star_file - time_newfile[match_rows[j]])
+                time_difference = np.array(abs(time_individual_star_file - time_newfile[match_rows[j]]))
                 time_difference_min = np.min(time_difference)
 
                 location_min = np.where(time_difference == time_difference_min)[0][0]
 
-                obser_individual_star_file[location_min] == obser_new[match_rows[j]]
+                print(time_difference_min, location_min,obser_individual_star_file[location_min], obser_new[match_rows[j]])
 
-                if (time_difference_min < 2/24/3600) & (obser_individual_star_file[location_min] == obser_new[match_rows[j]]):
+                if (time_difference_min < 2/24/60) & (obser_individual_star_file[location_min] == obser_new[match_rows[j]]):
                     continue
 
 
-                df_update.iloc[match_rows[j]].to_csv(df_internal['filename'].iloc[match_name[0]], mode='a', index=False, header = None)
+                print(df_update)
+                print(df_update.iloc[[match_rows[j]]])
+                print(match_rows[j])
+                print(df_internal['filename'].iloc[match_name[0]])
+
+
+                df_update.iloc[[match_rows[j]]].to_csv(df_internal['filename'].iloc[match_name[0]], mode='a', index=False, header = None)
+
+            # df_update.iloc[match_rows].to_csv(path + unqiue_input_names[i]+ '.csv', mode = 'a', header = None, index=False)
 
         if np.any(match_name) == False :
             print('generating new file for '+unqiue_input_names[i])

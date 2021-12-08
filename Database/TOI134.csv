@@ -1,0 +1,16 @@
+Time,RV,Uncertainty,Observatory_Site,Star_Name,Time_Convention,Reference,Instrument,Wavelength_Calibration_Technique,Source,Halpha_Index,Halpha_Index_Error,Full_Width_Half_Maximum,Bisetor,Signal_to_noise_ratio_in_order_55,Exposure_Time,Airmass,Barycentric_Earth_Radial_Velocity
+2458406.616,1.83,1.01, NaN,TOI134, NaN, Teske et al. 2021(ApJS 256 33),PFS2, NaN, MTS, NaN, NaN, NaN, NaN, NaN, NaN,NaN, NaN
+2458407.619,-3.66,0.79, NaN,TOI134, NaN, Teske et al. 2021(ApJS 256 33),PFS2, NaN, MTS, NaN, NaN, NaN, NaN, NaN, NaN,NaN, NaN
+2458408.607,1.48,0.85, NaN,TOI134, NaN, Teske et al. 2021(ApJS 256 33),PFS2, NaN, MTS, NaN, NaN, NaN, NaN, NaN, NaN,NaN, NaN
+2458409.603,4.47,0.73, NaN,TOI134, NaN, Teske et al. 2021(ApJS 256 33),PFS2, NaN, MTS, NaN, NaN, NaN, NaN, NaN, NaN,NaN, NaN
+2458410.577,-4.24,0.77, NaN,TOI134, NaN, Teske et al. 2021(ApJS 256 33),PFS2, NaN, MTS, NaN, NaN, NaN, NaN, NaN, NaN,NaN, NaN
+2458411.604,-4.49,0.66, NaN,TOI134, NaN, Teske et al. 2021(ApJS 256 33),PFS2, NaN, MTS, NaN, NaN, NaN, NaN, NaN, NaN,NaN, NaN
+2458412.593,-2.72,0.59, NaN,TOI134, NaN, Teske et al. 2021(ApJS 256 33),PFS2, NaN, MTS, NaN, NaN, NaN, NaN, NaN, NaN,NaN, NaN
+2458413.655,-0.53,0.78, NaN,TOI134, NaN, Teske et al. 2021(ApJS 256 33),PFS2, NaN, MTS, NaN, NaN, NaN, NaN, NaN, NaN,NaN, NaN
+2458414.608,-2.85,0.6, NaN,TOI134, NaN, Teske et al. 2021(ApJS 256 33),PFS2, NaN, MTS, NaN, NaN, NaN, NaN, NaN, NaN,NaN, NaN
+2458415.592,3.4,0.72, NaN,TOI134, NaN, Teske et al. 2021(ApJS 256 33),PFS2, NaN, MTS, NaN, NaN, NaN, NaN, NaN, NaN,NaN, NaN
+2458416.602,3.6,0.67, NaN,TOI134, NaN, Teske et al. 2021(ApJS 256 33),PFS2, NaN, MTS, NaN, NaN, NaN, NaN, NaN, NaN,NaN, NaN
+2458417.559,-0.54,1.14, NaN,TOI134, NaN, Teske et al. 2021(ApJS 256 33),PFS2, NaN, MTS, NaN, NaN, NaN, NaN, NaN, NaN,NaN, NaN
+2458418.606,4.79,0.73, NaN,TOI134, NaN, Teske et al. 2021(ApJS 256 33),PFS2, NaN, MTS, NaN, NaN, NaN, NaN, NaN, NaN,NaN, NaN
+2458468.56,5.71,1.66, NaN,TOI134, NaN, Teske et al. 2021(ApJS 256 33),PFS2, NaN, MTS, NaN, NaN, NaN, NaN, NaN, NaN,NaN, NaN
+2458473.555,-2.81,1.46, NaN,TOI134, NaN, Teske et al. 2021(ApJS 256 33),PFS2, NaN, MTS, NaN, NaN, NaN, NaN, NaN, NaN,NaN, NaN

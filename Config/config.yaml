@@ -6,22 +6,22 @@ default_directory : '/Users/Sarah/Wave21/EZRV/EZRV'
 
 #format of your csv
 input_dict : {"Time": "time",
-           "RV" : "rv",
+           "RV" : "RV",
            "Uncertainty" : "uncert",
            "Observatory_Site" : "obs_site",
-           "Star_Name" : "star",
-           "Time_Convention" : "time_system",
-           "Reference" : "reference",
-           "Instrument" : "instr",
-           "Wavelength_Calibration_Technique" : "constant:ThAr" ,
-           "Source" : "source",
+           "Star_Name" : "name",
+           "Time_Convention" : "constant:JD",
+           "Reference" : "constant:Teske et al. 2021(ApJS 256 33)",
+           "Instrument" : "Instr",
+           "Wavelength_Calibration_Technique" : "wavelength_calib_technique" ,
+           "Source" : "constant:MTS",
            "Halpha_Index" :"halpha",
            "Halpha_Index_Error":"halpha_e",
            "Full_Width_Half_Maximum":"FWHM",
            "Bisetor" : "bisector",
            "Signal_to_noise_ratio_in_order_55":"sig_to_noise_ratio_in_order_55",
            "Exposure_Time":"exp_time",
-           "Airmass":"constant:NaN",
+           "Airmass":"airmass",
            "Barycentric_Earth_Radial_Velocity":"barycentric_earth_rv"}
 
 retrieve_data : 'starname for desired data'

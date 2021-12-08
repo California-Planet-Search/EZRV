@@ -99,8 +99,7 @@ def retrieve_data(input_star_name, test_query_simbad, test_bjd_conversion):
     plt.legend(loc = 1)
 
     #remove this
-    path = r'Plots__/'
+    path = r'Plots/'
     plt.savefig(path + input_star_name + '.png', format = 'png', bbox_inches='tight')
     plt.close()
-
-    # plt.show()
+    plt.show()
